@@ -2,7 +2,7 @@ name: Promote new members
 
 on:
   schedule:
-    - cron: "0 9 * * *" # Runs every day at 09:00 UTC
+    - cron: "0 9 * * *"   # 09:00 UTC daily
   workflow_dispatch:
     inputs:
       timestamp_utc:
@@ -11,11 +11,11 @@ on:
         default: ""
 
 jobs:
-  generate-and-promote:
+  promote:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # to commit drafts
-      actions: write    # to allow manual dispatch
+      contents: write
+      actions: write
       id-token: write
 
     steps:
@@ -31,16 +31,17 @@ jobs:
         run: |
           pip install supabase python-dotenv requests
 
-      - name: Run daily post generator
+      - name: Generate combined daily draft
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_API_KEY: ${{ secrets.SUPABASE_API_KEY }}
         run: |
           TS="${{ github.event.inputs.timestamp_utc }}"
+          mkdir -p drafts
           if [ -z "$TS" ]; then
-            python scripts/daily_tweet.py --commit --outdir drafts
+            python scripts/daily_tweet.py
           else
-            python scripts/daily_tweet.py --commit --outdir drafts --timestamp "$TS"
+            python scripts/daily_tweet.py --timestamp "$TS"
           fi
 
       - name: Commit generated drafts
@@ -48,13 +49,13 @@ jobs:
           git config user.name "zcashme-bot"
           git config user.email "bot@zcash.me"
           git add drafts/
-          git commit -m "Daily drafts: $(date -u)" || echo "No changes to commit"
+          git commit -m "Daily combined draft: $(date -u)" || echo "No changes to commit"
           git push
 
-      - name: Create Trello cards
+      - name: Create Trello card (combined)
         env:
           TRELLO_KEY: ${{ secrets.TRELLO_KEY }}
           TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
           TRELLO_LIST_ID: ${{ secrets.TRELLO_LIST_ID }}
         run: |
-          python .github/scripts/create_trello_card.py drafts/new_users.json
+          python .github/scripts/create_trello_card.py drafts/daily_combined.json

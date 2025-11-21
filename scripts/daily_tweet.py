@@ -1,15 +1,12 @@
 import os
-import json
-import argparse
 from supabase import create_client, Client
 from urllib.parse import urlparse
 import re
 from dotenv import load_dotenv
 from datetime import datetime, timedelta, timezone
-
+import json
 
 load_dotenv()
-
 
 # ---------------------------------------------------------
 # 1. Setup Supabase API Client
@@ -17,8 +14,6 @@ load_dotenv()
 def get_supabase() -> Client:
     url = os.getenv("SUPABASE_URL")
     key = os.getenv("SUPABASE_API_KEY")
-    if not url or not key:
-        raise Exception("Missing SUPABASE_URL or SUPABASE_API_KEY in environment variables")
     return create_client(url, key)
 
 
@@ -54,99 +49,76 @@ def extract_twitter_handle(url: str):
 
 
 # ---------------------------------------------------------
-# 3. Compute timestamp (24h window)
+# 3. Fetch new users (24h)
 # ---------------------------------------------------------
-def compute_since(timestamp_override: str | None):
-    if timestamp_override:
-        try:
-            t = datetime.fromisoformat(timestamp_override.replace("Z", "+00:00"))
-        except:
-            raise ValueError("Invalid timestamp format for --timestamp")
-    else:
-        t = datetime.now(timezone.utc)
-
-    since = (t - timedelta(hours=24)).isoformat()
-    return since, t
-
-
-# ---------------------------------------------------------
-# 4. Fetch new users
-# ---------------------------------------------------------
-def fetch_new_users(supabase, since_ts):
+def fetch_new_users(supabase, since):
     res = (
         supabase
         .from_("zcasher_enriched")
         .select("id,name,created_at")
-        .gte("created_at", since_ts)
+        .gte("created_at", since)
         .execute()
     )
 
-    users = res.data or []
+    rows = res.data or []
     enriched = []
 
-    for u in users:
-        lid = u["id"]
-
+    for u in rows:
         links = (
             supabase
             .from_("zcasher_links")
             .select("url,label")
-            .eq("zcasher_id", lid)
+            .eq("zcasher_id", u["id"])
             .execute()
         )
 
         twitter_url = None
         for link in (links.data or []):
-            label = link.get("label", "").lower()
-            if "twitter" in label or "x" in label:
+            if "twitter" in link["label"].lower() or "x" in link["label"].lower():
                 twitter_url = link["url"]
                 break
 
-        handle = extract_twitter_handle(twitter_url)
-
         enriched.append({
-            "id": lid,
+            "id": u["id"],
             "name": u["name"],
-            "handle": handle,
-            "twitter_url": twitter_url
+            "handle": extract_twitter_handle(twitter_url)
         })
 
     return enriched
 
 
 # ---------------------------------------------------------
-# 5. Fetch new verifications
+# 4. Fetch newly verified (24h)
 # ---------------------------------------------------------
-def fetch_new_verified(supabase, since_ts):
+def fetch_new_verified(supabase, since):
     res = (
         supabase
         .from_("zcasher_verifications")
         .select("zcasher_id,verified_at,method,link_id")
-        .gte("verified_at", since_ts)
+        .gte("verified_at", since)
         .eq("verified", True)
         .execute()
     )
 
-    ver = res.data or []
+    rows = res.data or []
     enriched = []
 
-    for v in ver:
-        uid = v["zcasher_id"]
-
-        user_res = (
+    for v in rows:
+        ures = (
             supabase
             .from_("zcasher_enriched")
             .select("name")
-            .eq("id", uid)
+            .eq("id", v["zcasher_id"])
             .single()
             .execute()
         )
-        name = user_res.data["name"]
+        name = ures.data["name"]
 
         twitter_handle = None
+        method = v["method"]
 
         if v["link_id"]:
-            link_res = (
+            lres = (
                 supabase
                 .from_("zcasher_links")
                 .select("url,label")
@@ -154,110 +126,126 @@ def fetch_new_verified(supabase, since_ts):
                 .single()
                 .execute()
             )
-            url = link_res.data.get("url")
-            twitter_handle = extract_twitter_handle(url)
+            twitter_handle = extract_twitter_handle(lres.data.get("url"))
 
         enriched.append({
-            "id": uid,
+            "id": v["zcasher_id"],
             "name": name,
             "handle": twitter_handle,
-            "method": v["method"]
+            "method": method
         })
 
     return enriched
 
 
 # ---------------------------------------------------------
-# 6. Build tweet drafts (two separate)
+# 5. Build tweets (two separate CTAs)
 # ---------------------------------------------------------
-def build_new_users_tweet(items, timestamp):
-    fmt = lambda u: f"@{u['handle']}" if u["handle"] else u["name"]
+def build_user_tweet(users, timestamp):
+    tags = ", ".join("@" + u["handle"] for u in users if u["handle"])
+    if not tags:
+        tags = ", ".join(u["name"] for u in users)
 
-    mentions_list = [fmt(u) for u in items]
-    mentions_text = ", ".join(mentions_list)
-    ps_mentions = " ".join([f"@{u['handle']}" for u in items if u["handle"]])
-
-    return f"""🚀 New to ZcashMe (last 24 hours since {timestamp.strftime("%H:%M")} UTC): {len(items)}
-
-Welcome: {mentions_text}
-
-CTA: Help us welcome the newcomers — reply to this tweet or visit their ZcashMe profiles to say hi!
-
-P.S. {ps_mentions} — easiest way to Zcash someone is to Zcash Me in your bio ;)
-"""
+    return (
+        f"🚀 New to ZcashMe (last 24h since {timestamp} UTC): {len(users)}\n"
+        f"Help us welcome: {tags}\n\n"
+        f"P.S. Easiest way to Zcash you is ZcashMe in your bio 😉"
+    )
 
 
-def build_new_verified_tweet(items, timestamp):
-    fmt = lambda u: f"@{u['handle']}" if u["handle"] else u["name"]
+def build_verified_tweet(vlist, timestamp):
+    tags = ", ".join("@" + v["handle"] for v in vlist if v["handle"])
+    if not tags:
+        tags = ", ".join(v["name"] for v in vlist)
 
-    mentions_list = [fmt(v) for v in items]
-    mentions_text = ", ".join(mentions_list)
-    ps_mentions = " ".join([f"@{v['handle']}" for v in items if v["handle"]])
-
-    return f"""🔐 New verifications today (last 24 hours since {timestamp.strftime("%H:%M")} UTC): {len(items)}
-
-Verified: {mentions_text}
-
-CTA: Show some love — reply to confirm, follow, or check their ZcashMe profile.
-
-P.S. {ps_mentions} — easiest way to Zcash someone is to Zcash Me in your bio ;)
-"""
+    return (
+        f"🔐 Newly verified on ZcashMe (last 24h since {timestamp} UTC): {len(vlist)}\n"
+        f"Props to: {tags}\n\n"
+        f"P.S. Secure your ZcashMe profile to unlock full trust ✓"
+    )
 
 
 # ---------------------------------------------------------
-# 7. Write JSON + MD
+# 6. Write Markdown report
 # ---------------------------------------------------------
-def write_outputs(outdir, filename_base, tweet_text, data, timestamp):
-    os.makedirs(outdir, exist_ok=True)
+def write_markdown(ts, users, verified, tweet_users, tweet_verified):
+    md_path = "drafts/daily_combined.md"
 
-    # JSON version
-    with open(os.path.join(outdir, f"{filename_base}.json"), "w", encoding="utf-8") as f:
-        json.dump({
-            "timestamp_utc": timestamp.isoformat(),
-            "count": len(data),
-            "items": data,
-            "tweet": tweet_text
-        }, f, indent=2)
+    users_view = "\n".join(
+        f"- {u['name']} ({'@'+u['handle'] if u['handle'] else 'no handle'})"
+        for u in users
+    )
 
-    # Markdown version
-    with open(os.path.join(outdir, f"{filename_base}.md"), "w", encoding="utf-8") as f:
-        f.write(tweet_text)
+    verified_view = "\n".join(
+        f"- {v['name']} ({'@'+v['handle'] if v['handle'] else 'no handle'}) — {v['method']}"
+        for v in verified
+    )
+
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write(f"""**Generated at:** {ts} UTC
+
+---
+
+# 🚀 New to ZcashMe (last 24h)
+**Count:** {len(users)}
+
+### 📝 Tweet Preview
+{tweet_users}
+
+### 👥 New Users
+{users_view}
+
+---
+
+# 🔐 Newly Verified (last 24h)
+**Count:** {len(verified)}
+
+### 📝 Tweet Preview
+{tweet_verified}
+
+### 🔎 Verification Details
+{verified_view}
+
+---
+
+This summary was automatically generated by the **ZcashMe Promote-Bot**.
+""")
+
+    print("Generated drafts/daily_combined.md")
 
 
 # ---------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--timestamp", help="Override timestamp in UTC (ISO format)", default=None)
-    parser.add_argument("--outdir", help="Directory to write drafts", default="drafts")
-    parser.add_argument("--commit", action="store_true", help="Write files instead of console preview")
-    args = parser.parse_args()
-
     supabase = get_supabase()
 
-    since_ts, now_ts = compute_since(args.timestamp)
+    now = datetime.now(timezone.utc)
+    since = (now - timedelta(hours=24)).isoformat()
+    ts = now.isoformat(timespec='minutes')
 
-    print("Fetching new users…")
-    new_users = fetch_new_users(supabase, since_ts)
+    users = fetch_new_users(supabase, since)
+    verified = fetch_new_verified(supabase, since)
 
-    print("Fetching new verifications…")
-    new_verified = fetch_new_verified(supabase, since_ts)
+    tweet_users = build_user_tweet(users, ts)
+    tweet_verified = build_verified_tweet(verified, ts)
 
-    tweet_users = build_new_users_tweet(new_users, now_ts)
-    tweet_verified = build_new_verified_tweet(new_verified, now_ts)
+    os.makedirs("drafts", exist_ok=True)
 
-    if args.commit:
-        write_outputs(args.outdir, "new_users", tweet_users, new_users, now_ts)
-        write_outputs(args.outdir, "new_verified", tweet_verified, new_verified, now_ts)
-        print(f"\nDrafts written to {args.outdir}/")
-        return
+    payload = {
+        "timestamp_utc": ts,
+        "users": users,
+        "verified": verified,
+        "tweet_users": tweet_users,
+        "tweet_verified": tweet_verified
+    }
 
-    print("\n====== NEW USERS TWEET PREVIEW ======\n")
-    print(tweet_users)
+    with open("drafts/daily_combined.json", "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
 
-    print("\n====== NEW VERIFIED TWEET PREVIEW ======\n")
-    print(tweet_verified)
+    print("Generated drafts/daily_combined.json")
+
+    write_markdown(ts, users, verified, tweet_users, tweet_verified)
 
 
 if __name__ == "__main__":
