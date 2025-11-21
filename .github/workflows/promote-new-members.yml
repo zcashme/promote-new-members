@@ -1,0 +1,60 @@
+name: Promote new members
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # Runs every day at 09:00 UTC
+  workflow_dispatch:
+    inputs:
+      timestamp_utc:
+        description: "Optional override timestamp (ISO8601 UTC). Leave empty to use now."
+        required: false
+        default: ""
+
+jobs:
+  generate-and-promote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # to commit drafts
+      actions: write    # to allow manual dispatch
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install supabase python-dotenv requests
+
+      - name: Run daily post generator
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_API_KEY: ${{ secrets.SUPABASE_API_KEY }}
+        run: |
+          TS="${{ github.event.inputs.timestamp_utc }}"
+          if [ -z "$TS" ]; then
+            python scripts/daily_tweet.py --commit --outdir drafts
+          else
+            python scripts/daily_tweet.py --commit --outdir drafts --timestamp "$TS"
+          fi
+
+      - name: Commit generated drafts
+        run: |
+          git config user.name "zcashme-bot"
+          git config user.email "bot@zcash.me"
+          git add drafts/
+          git commit -m "Daily drafts: $(date -u)" || echo "No changes to commit"
+          git push
+
+      - name: Create Trello cards
+        env:
+          TRELLO_KEY: ${{ secrets.TRELLO_KEY }}
+          TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+          TRELLO_LIST_ID: ${{ secrets.TRELLO_LIST_ID }}
+        run: |
+          python .github/scripts/create_trello_card.py drafts/new_users.json

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ZcashMe — Daily Promo Generator</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    body {
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+        margin: 40px;
+        background: #f7f7f7;
+    }
+    .card {
+        max-width: 700px;
+        margin: auto;
+        padding: 24px;
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+    h2 {
+        margin-top: 0;
+    }
+    input, button {
+        width: 100%;
+        padding: 12px;
+        margin-top: 10px;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+        font-size: 16px;
+    }
+    button {
+        background: #111;
+        color: #fff;
+        cursor: pointer;
+    }
+    button:hover {
+        background: #333;
+    }
+    #status {
+        margin-top: 20px;
+        padding: 12px;
+        border-radius: 8px;
+        background: #eef;
+    }
+</style>
+</head>
+<body>
+
+<div class="card">
+    <h2>🚀 ZcashMe Daily Promo Generator</h2>
+    <p>This tool triggers the “Promote New Members” GitHub Action. The workflow will:</p>
+    <ul>
+      <li>Fetch new users & new verifications (last 24 hours)</li>
+      <li>Generate tweet drafts</li>
+      <li>Commit the drafts into <code>/drafts</code></li>
+      <li>Create Trello cards for review</li>
+    </ul>
+
+    <p><strong>Instructions:</strong></p>
+    <ol>
+      <li>Paste a temporary GitHub Personal Access Token (PAT) with <code>repo</code> + <code>workflow</code> permission.</li>
+      <li>(Optional) provide a custom timestamp in UTC to override the “now”.</li>
+      <li>Press the button.</li>
+      <li>Check your GitHub Actions page or Trello board.</li>
+    </ol>
+
+    <label><strong>GitHub PAT (never stored):</strong></label>
+    <input id="pat" type="password" placeholder="ghp_...">
+
+    <label><strong>Optional timestamp override (UTC ISO8601)</strong><br>
+    Example: <code>2025-11-21T13:25:00Z</code></label>
+    <input id="ts" placeholder="">
+
+    <button id="run">Generate Daily Promos</button>
+
+    <div id="status" style="display:none;"></div>
+</div>
+
+<script>
+const owner = "zcashme";
+const repo = "promote-new-members";
+const workflowFile = "promote-new-members.yml";
+
+document.getElementById("run").onclick = async () => {
+    const pat = document.getElementById("pat").value.trim();
+    const ts = document.getElementById("ts").value.trim();
+
+    if (!pat) {
+        alert("Please paste a GitHub PAT.");
+        return;
+    }
+
+    const status = document.getElementById("status");
+    status.style.display = "block";
+    status.textContent = "Triggering workflow…";
+
+    const payload = ts
+      ? { ref: "main", inputs: { timestamp_utc: ts } }
+      : { ref: "main" };
+
+    const resp = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/actions/workflows/${workflowFile}/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          "Authorization": "token " + pat,
+          "Accept": "application/vnd.github.v3+json",
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
+      }
+    );
+
+    if (resp.status === 204) {
+        status.textContent = "Workflow triggered! Check the GitHub Actions tab for progress.";
+        status.style.background = "#e7ffe7";
+    } else {
+        const text = await resp.text();
+        status.textContent = "Error triggering workflow:\n" + text;
+        status.style.background = "#ffe7e7";
+    }
+};
+</script>
+
+</body>
+</html>
