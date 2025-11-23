@@ -1,22 +1,20 @@
-**Generated at:** 2025-11-22T09:21+00:00 UTC
+**Generated at:** 2025-11-23T09:21+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-11-22T09:21+00:00 UTC): 5
-Help us welcome: @Itsziyed, @nathanx_xyz
+🚀 New to ZcashMe (last 24h since 2025-11-23T09:21+00:00 UTC): 3
+Help us welcome: @hnyaoranglewat
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Ziyed (@Itsziyed)
-- nathanx (@nathanx_xyz)
-- Z (no handle)
 - aram (no handle)
-- aramdotdev (no handle)
+- Zed (no handle)
+- mrsantai (@hnyaoranglewat)
 
 ---
 
@@ -24,7 +22,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-11-22T09:21+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2025-11-23T09:21+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
