@@ -1,20 +1,18 @@
-**Generated at:** 2025-11-28T09:24+00:00 UTC
+**Generated at:** 2025-11-29T09:22+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-11-28T09:24+00:00 UTC): 3
-Help us welcome: rfqifzllweb3, rfqiifzllweb3, rfqifzlllweb3
+🚀 New to ZcashMe (last 24h since 2025-11-29T09:22+00:00 UTC): 1
+Help us welcome: @1337bytes
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- rfqifzllweb3 (no handle)
-- rfqiifzllweb3 (no handle)
-- rfqifzlllweb3 (no handle)
+- 1337bytes (@1337bytes)
 
 ---
 
@@ -22,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-11-28T09:24+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2025-11-29T09:22+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
