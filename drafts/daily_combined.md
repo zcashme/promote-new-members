@@ -1,4 +1,4 @@
-**Generated at:** 2025-12-01T09:32+00:00 UTC
+**Generated at:** 2025-12-02T09:29+00:00 UTC
 
 ---
 
@@ -6,14 +6,14 @@
 **Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-01T09:32+00:00 UTC): 2
-Help us welcome: @tecnopapapi, @Notpalangga
+🚀 New to ZcashMe (last 24h since 2025-12-02T09:29+00:00 UTC): 2
+Help us welcome: @Saladdoteth, @davidlecea
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Tecnopapapi (@tecnopapapi)
-- Majestic (@Notpalangga)
+- Salad (@Saladdoteth)
+- davidlecea (@davidlecea)
 
 ---
 
@@ -21,7 +21,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-01T09:32+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-02T09:29+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
