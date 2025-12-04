@@ -1,19 +1,18 @@
-**Generated at:** 2025-12-03T09:28+00:00 UTC
+**Generated at:** 2025-12-04T09:28+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-03T09:28+00:00 UTC): 2
-Help us welcome: @Abukhaleed_0
+🚀 New to ZcashMe (last 24h since 2025-12-04T09:28+00:00 UTC): 1
+Help us welcome: cypherr
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- OxViking (no handle)
-- Abukhaleed (@Abukhaleed_0)
+- cypherr (no handle)
 
 ---
 
@@ -21,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-03T09:28+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-04T09:28+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
