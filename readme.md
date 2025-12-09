@@ -49,15 +49,16 @@ Frontend (GitHub Pages) -> GitHub Actions -> Run workflow manually
 
 # 🗂 Data Sources (Supabase)
 
-### **1) zcasher_enriched**
+### **1) zcasher_with_referral_rank**
 
 Used for:
 
 * `id`
 * `name`
 * `created_at`
+* `last_verified_at`
 
-Purpose: detect new users in past 24h.
+Purpose: Primary source for user data, detecting new users (via `created_at`) and new verifications (via `last_verified_at`).
 
 ---
 
@@ -68,20 +69,7 @@ Used for:
 * `label`
 * `url`
 
-Purpose: extract correct Twitter handle per user.
-
----
-
-### **3) zcasher_verifications**
-
-Used for:
-
-* `zcasher_id`
-* `method`
-* `verified_at`
-* `link_id`
-
-Purpose: detect newly verified users and determine verification type.
+Purpose: Extract correct Twitter handle per user (joined via `zcasher_id`).
 
 ---
 
@@ -185,7 +173,7 @@ Workflow name: **Promote new members**
 
 Triggers:
 
-* **Daily** at 09:00 UTC
+* **Daily** at 14:00 UTC
 * **Manual** (workflow_dispatch)
 
 Performs:
@@ -227,6 +215,7 @@ Ensure all are added under:
    ```
    venv\Scripts\activate
    ```
+
 3. Create `.env`:
 
    ```
@@ -236,11 +225,13 @@ Ensure all are added under:
    TRELLO_TOKEN=xxx
    TRELLO_LIST_ID=xxx
    ```
+
 4. Run the daily generator:
 
    ```
    python scripts/daily_tweet.py
    ```
+
 5. Check `/drafts` folder for JSON + MD
 6. Create Trello card manually:
 
@@ -292,4 +283,3 @@ Fix:
 GitHub → Settings → Pages → Source → `main` → `/docs`
 
 ---
-
