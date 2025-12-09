@@ -2,7 +2,7 @@ name: Promote new members
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # 09:00 UTC daily
+    - cron: "0 14 * * *"   # 09:00 EST daily (14:00 UTC)
   workflow_dispatch:
     inputs:
       timestamp_utc:
