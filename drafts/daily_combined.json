@@ -1,11 +1,6 @@
 {
-  "timestamp_utc": "2025-12-09T10:29+00:00",
+  "timestamp_utc": "2025-12-09T10:48+00:00",
   "users": [
-    {
-      "id": 1785,
-      "name": "bitzcash",
-      "handle": "bitzcash"
-    },
     {
       "id": 1786,
       "name": "andy",
@@ -13,6 +8,6 @@
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-09T10:29+00:00 UTC): 2\nHelp us welcome: @bitzcash\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-09T10:29+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-09T10:48+00:00 UTC): 1\nHelp us welcome: andy\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-09T10:48+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
