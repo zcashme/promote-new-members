@@ -10,6 +10,8 @@ TRELLO_KEY = os.getenv("TRELLO_KEY")
 TRELLO_TOKEN = os.getenv("TRELLO_TOKEN")
 TRELLO_LIST_ID = os.getenv("TRELLO_LIST_ID")
 
+MEMBER_ID = "6374510bf2aa0e0071120277"
+
 if not all([TRELLO_KEY, TRELLO_TOKEN, TRELLO_LIST_ID]):
     raise Exception("Missing Trello environment variables.")
 
@@ -22,7 +24,8 @@ def create_trello_card(name: str, desc: str):
         "idList": TRELLO_LIST_ID,
         "name": name,
         "desc": desc,
-        "pos": "top"
+        "pos": "top",
+        "idMembers": MEMBER_ID
     }
     r = requests.post(url, params=params)
     if r.status_code >= 300:
