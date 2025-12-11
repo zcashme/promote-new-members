@@ -29,7 +29,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install supabase python-dotenv requests
+          pip install supabase python-dotenv requests tzdata
 
       - name: Generate combined daily draft
         env:

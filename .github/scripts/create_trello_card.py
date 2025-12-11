@@ -3,6 +3,8 @@ import sys
 import json
 import requests
 from dotenv import load_dotenv
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 load_dotenv()
 
@@ -59,13 +61,28 @@ def main():
     with open(md_path, "r", encoding="utf-8") as f:
         desc = f.read()
 
-    # Extract just the date (YYYY-MM-DD) from the timestamp
-    # timestamp_utc is like "2025-12-09T10:48" or "2025-12-09T10:48:00"
-    date_str = data['timestamp_utc'][:10]
-    title = date_str
+    # Parse UTC timestamp from JSON
+    # timestamp_utc is like "2025-12-09T10:48+00:00"
+    dt_utc = datetime.fromisoformat(data['timestamp_utc'])
+    
+    # Convert to EST (America/New_York)
+    # Note: We rely on ZoneInfo for correct offset (EST/EDT)
+    est_idx = ZoneInfo("America/New_York")
+    dt_est_end = dt_utc.astimezone(est_idx)
+    dt_est_start = dt_est_end - timedelta(hours=24)
+
+    # Format: 2025-12-10T09:00 am EST to 2025-12-11T09:00 am EST
+    def format_est(dt):
+        # Python strftime does not support %P for lowercase am/pm
+        # We use %p (AM/PM) and replace it or use string manipulation
+        s = dt.strftime("%Y-%m-%dT%I:%M %p EST")
+        return s.replace("AM", "am").replace("PM", "pm")
+
+    title = f"{format_est(dt_est_start)} to {format_est(dt_est_end)}"
     
     # Calculate Due Date: 1 PM EST = 18:00 UTC same day
     # We construct the ISO string for 18:00 UTC
+    date_str = data['timestamp_utc'][:10]
     due_date = f"{date_str}T18:00:00Z"
     
     create_trello_card(title, desc, due_date)
