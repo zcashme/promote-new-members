@@ -13,6 +13,7 @@ TRELLO_TOKEN = os.getenv("TRELLO_TOKEN")
 TRELLO_LIST_ID = os.getenv("TRELLO_LIST_ID")
 
 MEMBER_ID = "6374510bf2aa0e0071120277"
+LABEL_ID = "6924d2b9e964c12aa4cb9c9a"
 
 if not all([TRELLO_KEY, TRELLO_TOKEN, TRELLO_LIST_ID]):
     raise Exception("Missing Trello environment variables.")
@@ -27,7 +28,8 @@ def create_trello_card(name: str, desc: str, due: str = None):
         "name": name,
         "desc": desc,
         "pos": "top",
-        "idMembers": MEMBER_ID
+        "idMembers": MEMBER_ID,
+        "idLabels": LABEL_ID
     }
     if due:
         params["due"] = due
