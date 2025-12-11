@@ -1,13 +1,37 @@
 {
-  "timestamp_utc": "2025-12-09T10:48+00:00",
+  "timestamp_utc": "2025-12-11T05:49+00:00",
   "users": [
     {
-      "id": 1786,
-      "name": "andy",
+      "id": 1787,
+      "name": "Bjay33",
       "handle": null
+    },
+    {
+      "id": 1788,
+      "name": "Summy",
+      "handle": "Summy_summ"
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-09T10:48+00:00 UTC): 1\nHelp us welcome: andy\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-09T10:48+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 1747,
+      "name": "G",
+      "handle": "gtfarah",
+      "method": "Verified"
+    },
+    {
+      "id": 1601,
+      "name": "Zeal",
+      "handle": "ZealZcash",
+      "method": "Verified"
+    },
+    {
+      "id": 1670,
+      "name": "Smit",
+      "handle": "smit0320_",
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-11T05:49+00:00 UTC): 2\nHelp us welcome: @Summy_summ\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-11T05:49+00:00 UTC): 3\nProps to: @gtfarah, @ZealZcash, @smit0320_\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

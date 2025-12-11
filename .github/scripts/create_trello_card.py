@@ -16,7 +16,7 @@ if not all([TRELLO_KEY, TRELLO_TOKEN, TRELLO_LIST_ID]):
     raise Exception("Missing Trello environment variables.")
 
 
-def create_trello_card(name: str, desc: str):
+def create_trello_card(name: str, desc: str, due: str = None):
     url = "https://api.trello.com/1/cards"
     params = {
         "key": TRELLO_KEY,
@@ -27,6 +27,8 @@ def create_trello_card(name: str, desc: str):
         "pos": "top",
         "idMembers": MEMBER_ID
     }
+    if due:
+        params["due"] = due
     r = requests.post(url, params=params)
     if r.status_code >= 300:
         print("Trello API error:", r.status_code, r.text)
@@ -58,11 +60,15 @@ def main():
         desc = f.read()
 
     # Extract just the date (YYYY-MM-DD) from the timestamp
-    # timestamp_utc is like "2025-12-09T10:48"
+    # timestamp_utc is like "2025-12-09T10:48" or "2025-12-09T10:48:00"
     date_str = data['timestamp_utc'][:10]
     title = date_str
     
-    create_trello_card(title, desc)
+    # Calculate Due Date: 1 PM EST = 18:00 UTC same day
+    # We construct the ISO string for 18:00 UTC
+    due_date = f"{date_str}T18:00:00Z"
+    
+    create_trello_card(title, desc, due_date)
 
 
 if __name__ == "__main__":
