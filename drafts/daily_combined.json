@@ -1,46 +1,49 @@
 {
-  "timestamp_utc": "2025-12-11T14:17+00:00",
+  "timestamp_utc": "2025-12-12T14:14+00:00",
   "users": [
     {
-      "id": 1788,
-      "name": "Summy",
-      "handle": "Summy_summ"
+      "id": 1796,
+      "name": "Xiang",
+      "handle": "HX_SUC"
     },
     {
-      "id": 1792,
-      "name": "mrbutters77",
-      "handle": "bluburrybruh"
-    },
-    {
-      "id": 1793,
-      "name": "mvon",
-      "handle": "bluburrybruh"
-    },
-    {
-      "id": 1794,
-      "name": "uniqueGbengah",
-      "handle": "FagbenroGbengaH"
-    },
-    {
-      "id": 1795,
-      "name": "Noblemum",
+      "id": 1797,
+      "name": "Dandan",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 1747,
-      "name": "G",
-      "handle": "gtfarah",
+      "id": 15,
+      "name": "SaveZcash",
+      "handle": "SaveZcash",
       "method": "Verified"
     },
     {
-      "id": 1601,
-      "name": "Zeal",
-      "handle": "ZealZcash",
+      "id": 1787,
+      "name": "Bjay33",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1217,
+      "name": "Zcash South Africa",
+      "handle": "ZcashSA",
+      "method": "Verified"
+    },
+    {
+      "id": 1793,
+      "name": "mvon",
+      "handle": "bluburrybruh",
+      "method": "Verified"
+    },
+    {
+      "id": 855,
+      "name": "JowiZ",
+      "handle": "jowi_BE",
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-11T14:17+00:00 UTC): 5\nHelp us welcome: @Summy_summ, @bluburrybruh, @bluburrybruh, @FagbenroGbengaH\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-11T14:17+00:00 UTC): 2\nProps to: @gtfarah, @ZealZcash\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-12T14:14+00:00 UTC): 2\nHelp us welcome: @HX_SUC\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-12T14:14+00:00 UTC): 5\nProps to: @SaveZcash, @ZcashSA, @bluburrybruh, @jowi_BE\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

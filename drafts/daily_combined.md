@@ -1,37 +1,37 @@
-**Generated at:** 2025-12-11T14:17+00:00 UTC
+**Generated at:** 2025-12-12T14:14+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-11T14:17+00:00 UTC): 5
-Help us welcome: @Summy_summ, @bluburrybruh, @bluburrybruh, @FagbenroGbengaH
+🚀 New to ZcashMe (last 24h since 2025-12-12T14:14+00:00 UTC): 2
+Help us welcome: @HX_SUC
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Summy (@Summy_summ)
-- mrbutters77 (@bluburrybruh)
-- mvon (@bluburrybruh)
-- uniqueGbengah (@FagbenroGbengaH)
-- Noblemum (no handle)
+- Xiang (@HX_SUC)
+- Dandan (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 5
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-11T14:17+00:00 UTC): 2
-Props to: @gtfarah, @ZealZcash
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-12T14:14+00:00 UTC): 5
+Props to: @SaveZcash, @ZcashSA, @bluburrybruh, @jowi_BE
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- G (@gtfarah) — Verified
-- Zeal (@ZealZcash) — Verified
+- SaveZcash (@SaveZcash) — Verified
+- Bjay33 (no handle) — Verified
+- Zcash South Africa (@ZcashSA) — Verified
+- mvon (@bluburrybruh) — Verified
+- JowiZ (@jowi_BE) — Verified
 
 ---
 
