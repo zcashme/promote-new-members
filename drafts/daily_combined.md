@@ -1,37 +1,35 @@
-**Generated at:** 2025-12-12T14:14+00:00 UTC
+**Generated at:** 2025-12-13T14:12+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-12T14:14+00:00 UTC): 2
-Help us welcome: @HX_SUC
+🚀 New to ZcashMe (last 24h since 2025-12-13T14:12+00:00 UTC): 3
+Help us welcome: ManyryZ, king halfin, Kev
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Xiang (@HX_SUC)
-- Dandan (no handle)
+- ManyryZ (no handle)
+- king halfin (no handle)
+- Kev (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 5
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-12T14:14+00:00 UTC): 5
-Props to: @SaveZcash, @ZcashSA, @bluburrybruh, @jowi_BE
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-13T14:12+00:00 UTC): 2
+Props to: @FagbenroGbengaH, @allegedlyjason
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- SaveZcash (@SaveZcash) — Verified
-- Bjay33 (no handle) — Verified
-- Zcash South Africa (@ZcashSA) — Verified
-- mvon (@bluburrybruh) — Verified
-- JowiZ (@jowi_BE) — Verified
+- uniqueGbengah (@FagbenroGbengaH) — Verified
+- zAllegedly (@allegedlyjason) — Verified
 
 ---
 
