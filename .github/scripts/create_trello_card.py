@@ -40,50 +40,105 @@ def create_trello_card(name: str, desc: str, due: str = None):
     print("Created Trello card:", r.json().get("url"))
 
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python create_trello_cards.py drafts/daily_combined.json")
-        return
+import argparse
 
-    json_path = sys.argv[1]
+def format_description(data):
+    """
+    Formats the description as requested:
     
-    # Infer markdown path from json path
-    # e.g. drafts/daily_combined.json -> drafts/daily_combined.md
-    md_path = json_path.replace(".json", ".md")
+    Warm welcomes to
+    🆕Name (@handle)
+    ...
+    
+    If it's really you, put your http://Zcash.me in your X bio!
+    
+    
+    Now Verified:
+    
+    ✅Name (no handle)
+    ...
+    
+    Zm your friends today!
+    """
+    lines = []
+    # 1. Warm welcomes
+    users = data.get('users', [])
+    if users:
+        lines.append("Warm welcomes to")
+        for u in users:
+            name = u.get('name', 'Unknown')
+            handle = u.get('handle')
+            if handle:
+                lines.append(f"🆕{name} (@{handle})")
+            else:
+                lines.append(f"🆕{name}")
+        
+        # Add footer for new users
+        lines.append("If it's really you, put your http://Zcash.me in your X bio!")
+        lines.append("")
+        lines.append("")
+    
+    # 2. Now Verified
+    verified = data.get('verified', [])
+    if verified:
+        lines.append("Now Verified:")
+        lines.append("")
+        for v in verified:
+            name = v.get('name', 'Unknown')
+            handle = v.get('handle')
+            if handle:
+                lines.append(f"✅{name} (@{handle})")
+            else:
+                lines.append(f"✅{name} (no handle)")
+                
+        lines.append("")
+        lines.append("Zm your friends today!")
+    
+    return "\n".join(lines)
 
-    if not os.path.exists(md_path):
-        print(f"Error: Markdown file not found at {md_path}")
+
+def main():
+    parser = argparse.ArgumentParser(description="Create Trello card from daily digest JSON.")
+    parser.add_argument("json_path", help="Path to drafts/daily_combined.json")
+    parser.add_argument("--dry-run", action="store_true", help="Print description instead of creating card")
+    
+    args = parser.parse_args()
+    json_path = args.json_path
+    
+    if not os.path.exists(json_path):
+        print(f"Error: JSON file not found at {json_path}")
         return
 
-    # Read JSON for the title timestamp
+    # Read JSON for data
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Read Markdown for the card description
-    with open(md_path, "r", encoding="utf-8") as f:
-        desc = f.read()
+    # Generate new description format
+    desc = format_description(data)
+    
+    if args.dry_run:
+        print("=== Trello Card Description Preview ===")
+        print(desc)
+        print("=====================================")
+        return
 
     # Parse UTC timestamp from JSON
     # timestamp_utc is like "2025-12-09T10:48+00:00"
     dt_utc = datetime.fromisoformat(data['timestamp_utc'])
     
     # Convert to EST (America/New_York)
-    # Note: We rely on ZoneInfo for correct offset (EST/EDT)
     est_idx = ZoneInfo("America/New_York")
     dt_est_end = dt_utc.astimezone(est_idx)
     dt_est_start = dt_est_end - timedelta(hours=24)
 
     # Format: 2025-12-10T09:00 am EST to 2025-12-11T09:00 am EST
     def format_est(dt):
-        # Python strftime does not support %P for lowercase am/pm
-        # We use %p (AM/PM) and replace it or use string manipulation
         s = dt.strftime("%Y-%m-%dT%I:%M %p EST")
         return s.replace("AM", "am").replace("PM", "pm")
 
     title = f"{format_est(dt_est_start)} to {format_est(dt_est_end)}"
     
     # Calculate Due Date: 1 PM EST = 18:00 UTC same day
-    # We construct the ISO string for 18:00 UTC
     date_str = data['timestamp_utc'][:10]
     due_date = f"{date_str}T18:00:00Z"
     

@@ -1,35 +1,33 @@
-**Generated at:** 2025-12-11T05:49+00:00 UTC
+**Generated at:** 2025-12-15T10:36+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-11T05:49+00:00 UTC): 2
-Help us welcome: @Summy_summ
+🚀 New to ZcashMe (last 24h since 2025-12-15T10:36+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Bjay33 (no handle)
-- Summy (@Summy_summ)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 3
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-11T05:49+00:00 UTC): 3
-Props to: @gtfarah, @ZealZcash, @smit0320_
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-15T10:36+00:00 UTC): 2
+Props to: @Easy01M74098, @rainbowboyly
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- G (@gtfarah) — Verified
-- Zeal (@ZealZcash) — Verified
-- Smit (@smit0320_) — Verified
+- zcash monster (@Easy01M74098) — Verified
+- Rainbowboyly (@rainbowboyly) — Verified
 
 ---
 
