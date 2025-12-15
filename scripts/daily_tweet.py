@@ -35,12 +35,18 @@ def extract_twitter_handle(url: str):
         if not path:
             return None
 
-        candidate = path.split("/")[0]
+        parts = path.split("/")
+        candidate = parts[0]
+
+        # Handle malformed paths like "x.com/x.com/user"
+        if candidate.lower() in ["x.com", "twitter.com"] and len(parts) > 1:
+            candidate = parts[1]
+        candidate = candidate.lstrip("@")
 
         if candidate.lower() == "i":
             return None
 
-        if re.match(r"^[A-Za-z0-9_]{1,15}$", candidate):
+        if re.match(r"^[A-Za-z0-9_]+$", candidate):
             return candidate
 
         return None
