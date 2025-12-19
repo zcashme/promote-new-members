@@ -1,33 +1,32 @@
-**Generated at:** 2025-12-15T10:36+00:00 UTC
+**Generated at:** 2025-12-19T14:15+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-15T10:36+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2025-12-19T14:15+00:00 UTC): 1
+Help us welcome: @seifxp
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- Egypt (@seifxp)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-15T10:36+00:00 UTC): 2
-Props to: @Easy01M74098, @rainbowboyly
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-19T14:15+00:00 UTC): 1
+Props to: @smit0320_
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zcash monster (@Easy01M74098) — Verified
-- Rainbowboyly (@rainbowboyly) — Verified
+- Smit (@smit0320_) — Verified
 
 ---
 
