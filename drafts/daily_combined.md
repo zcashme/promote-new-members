@@ -1,4 +1,4 @@
-**Generated at:** 2025-12-19T14:15+00:00 UTC
+**Generated at:** 2025-12-20T02:29+00:00 UTC
 
 ---
 
@@ -6,13 +6,13 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-19T14:15+00:00 UTC): 1
-Help us welcome: @seifxp
+🚀 New to ZcashMe (last 24h since 2025-12-20T02:29+00:00 UTC): 1
+Help us welcome: zombiecash
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Egypt (@seifxp)
+- zombiecash (no handle)
 
 ---
 
@@ -20,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-19T14:15+00:00 UTC): 1
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-20T02:29+00:00 UTC): 1
 Props to: @smit0320_
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
