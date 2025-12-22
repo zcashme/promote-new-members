@@ -1,32 +1,45 @@
-**Generated at:** 2025-12-21T02:54+00:00 UTC
+**Generated at:** 2025-12-22T02:55+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 13
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-21T02:54+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2025-12-22T02:55+00:00 UTC): 13
+Help us welcome: @Thegreyhandler, @OsasDInvestor, @l_etim, @Emynice_, @etukudo68370, @l_etim, @missfifi__, @sagethecreative, @lowxxey_, @Reine9125, @Boiishola, @ann_imoagene, @ShieldOrder
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- KatDaddy (@Thegreyhandler)
+- Osas (@OsasDInvestor)
+- Gabriel Etim (@l_etim)
+- Emynice (@Emynice_)
+- Abasibiangake (@etukudo68370)
+- Gabriel Etim (@l_etim)
+- missfifi (@missfifi__)
+- sagethecreative (@sagethecreative)
+- lowxxey (@lowxxey_)
+- Reine (@Reine9125)
+- ISHOLA (@Boiishola)
+- Ann (@ann_imoagene)
+- ShieldOrder (@ShieldOrder)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-21T02:54+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-22T02:55+00:00 UTC): 2
+Props to: @im_trinath, @smit0320_
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- Trinath (@im_trinath) — Verified
+- Smit (@smit0320_) — Verified
 
 ---
 

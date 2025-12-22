@@ -1,7 +1,86 @@
 {
-  "timestamp_utc": "2025-12-21T02:54+00:00",
-  "users": [],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-21T02:54+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-21T02:54+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "timestamp_utc": "2025-12-22T02:55+00:00",
+  "users": [
+    {
+      "id": 1817,
+      "name": "KatDaddy",
+      "handle": "Thegreyhandler"
+    },
+    {
+      "id": 1818,
+      "name": "Osas",
+      "handle": "OsasDInvestor"
+    },
+    {
+      "id": 1820,
+      "name": "Gabriel Etim",
+      "handle": "l_etim"
+    },
+    {
+      "id": 1821,
+      "name": "Emynice",
+      "handle": "Emynice_"
+    },
+    {
+      "id": 1822,
+      "name": "Abasibiangake",
+      "handle": "etukudo68370"
+    },
+    {
+      "id": 1823,
+      "name": "Gabriel Etim",
+      "handle": "l_etim"
+    },
+    {
+      "id": 1824,
+      "name": "missfifi",
+      "handle": "missfifi__"
+    },
+    {
+      "id": 1825,
+      "name": "sagethecreative",
+      "handle": "sagethecreative"
+    },
+    {
+      "id": 1826,
+      "name": "lowxxey",
+      "handle": "lowxxey_"
+    },
+    {
+      "id": 1827,
+      "name": "Reine",
+      "handle": "Reine9125"
+    },
+    {
+      "id": 1828,
+      "name": "ISHOLA",
+      "handle": "Boiishola"
+    },
+    {
+      "id": 1829,
+      "name": "Ann",
+      "handle": "ann_imoagene"
+    },
+    {
+      "id": 1830,
+      "name": "ShieldOrder",
+      "handle": "ShieldOrder"
+    }
+  ],
+  "verified": [
+    {
+      "id": 1077,
+      "name": "Trinath",
+      "handle": "im_trinath",
+      "method": "Verified"
+    },
+    {
+      "id": 1670,
+      "name": "Smit",
+      "handle": "smit0320_",
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-22T02:55+00:00 UTC): 13\nHelp us welcome: @Thegreyhandler, @OsasDInvestor, @l_etim, @Emynice_, @etukudo68370, @l_etim, @missfifi__, @sagethecreative, @lowxxey_, @Reine9125, @Boiishola, @ann_imoagene, @ShieldOrder\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-22T02:55+00:00 UTC): 2\nProps to: @im_trinath, @smit0320_\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
