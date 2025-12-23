@@ -1,45 +1,42 @@
-**Generated at:** 2025-12-22T02:55+00:00 UTC
+**Generated at:** 2025-12-23T02:50+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 13
+**Count:** 5
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-22T02:55+00:00 UTC): 13
-Help us welcome: @Thegreyhandler, @OsasDInvestor, @l_etim, @Emynice_, @etukudo68370, @l_etim, @missfifi__, @sagethecreative, @lowxxey_, @Reine9125, @Boiishola, @ann_imoagene, @ShieldOrder
+🚀 New to ZcashMe (last 24h since 2025-12-23T02:50+00:00 UTC): 5
+Help us welcome: @savezcash, @bubuner, @Thedrekal
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- KatDaddy (@Thegreyhandler)
-- Osas (@OsasDInvestor)
-- Gabriel Etim (@l_etim)
-- Emynice (@Emynice_)
-- Abasibiangake (@etukudo68370)
-- Gabriel Etim (@l_etim)
-- missfifi (@missfifi__)
-- sagethecreative (@sagethecreative)
-- lowxxey (@lowxxey_)
-- Reine (@Reine9125)
-- ISHOLA (@Boiishola)
-- Ann (@ann_imoagene)
-- ShieldOrder (@ShieldOrder)
+- James (@savezcash)
+- Juiced (no handle)
+- milan (no handle)
+- Bubu (@bubuner)
+- Bigdrr (@Thedrekal)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 7
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-22T02:55+00:00 UTC): 2
-Props to: @im_trinath, @smit0320_
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-23T02:50+00:00 UTC): 7
+Props to: @zcashme, @im_trinath, @smit0320_, @OsasDInvestor, @etukudo68370, @l_etim
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
+- Zechariah (@zcashme) — Verified
 - Trinath (@im_trinath) — Verified
 - Smit (@smit0320_) — Verified
+- zombiecash (no handle) — Verified
+- Osas (@OsasDInvestor) — Verified
+- Abasibiangake (@etukudo68370) — Verified
+- Gabriel Etim (@l_etim) — Verified
 
 ---
 
