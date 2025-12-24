@@ -1,42 +1,32 @@
-**Generated at:** 2025-12-23T02:50+00:00 UTC
+**Generated at:** 2025-12-24T02:47+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-23T02:50+00:00 UTC): 5
-Help us welcome: @savezcash, @bubuner, @Thedrekal
+🚀 New to ZcashMe (last 24h since 2025-12-24T02:47+00:00 UTC): 1
+Help us welcome: @siloe8790187232
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- James (@savezcash)
-- Juiced (no handle)
-- milan (no handle)
-- Bubu (@bubuner)
-- Bigdrr (@Thedrekal)
+- Yendira Digital (@siloe8790187232)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 7
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-23T02:50+00:00 UTC): 7
-Props to: @zcashme, @im_trinath, @smit0320_, @OsasDInvestor, @etukudo68370, @l_etim
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-24T02:47+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Zechariah (@zcashme) — Verified
-- Trinath (@im_trinath) — Verified
-- Smit (@smit0320_) — Verified
-- zombiecash (no handle) — Verified
-- Osas (@OsasDInvestor) — Verified
-- Abasibiangake (@etukudo68370) — Verified
-- Gabriel Etim (@l_etim) — Verified
+
 
 ---
 
