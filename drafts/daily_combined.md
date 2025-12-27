@@ -1,32 +1,36 @@
-**Generated at:** 2025-12-26T02:49+00:00 UTC
+**Generated at:** 2025-12-27T02:46+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-26T02:49+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2025-12-27T02:46+00:00 UTC): 4
+Help us welcome: @swiftlybo, @bt_wis
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- universaltestingmachine (no handle)
+- Zachary (no handle)
+- Jennifer (@swiftlybo)
+- Will (@bt_wis)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-26T02:49+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-27T02:46+00:00 UTC): 2
+Props to: @SaveZcash, @swiftlybo
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- SaveZcash (@SaveZcash) — Verified
+- Jennifer (@swiftlybo) — Verified
 
 ---
 

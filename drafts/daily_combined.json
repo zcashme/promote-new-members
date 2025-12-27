@@ -1,7 +1,41 @@
 {
-  "timestamp_utc": "2025-12-26T02:49+00:00",
-  "users": [],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-26T02:49+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-26T02:49+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "timestamp_utc": "2025-12-27T02:46+00:00",
+  "users": [
+    {
+      "id": 1837,
+      "name": "universaltestingmachine",
+      "handle": null
+    },
+    {
+      "id": 1838,
+      "name": "Zachary",
+      "handle": null
+    },
+    {
+      "id": 1839,
+      "name": "Jennifer",
+      "handle": "swiftlybo"
+    },
+    {
+      "id": 1840,
+      "name": "Will",
+      "handle": "bt_wis"
+    }
+  ],
+  "verified": [
+    {
+      "id": 15,
+      "name": "SaveZcash",
+      "handle": "SaveZcash",
+      "method": "Verified"
+    },
+    {
+      "id": 1839,
+      "name": "Jennifer",
+      "handle": "swiftlybo",
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-27T02:46+00:00 UTC): 4\nHelp us welcome: @swiftlybo, @bt_wis\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-27T02:46+00:00 UTC): 2\nProps to: @SaveZcash, @swiftlybo\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
