@@ -1,40 +1,35 @@
-**Generated at:** 2025-12-28T03:01+00:00 UTC
+**Generated at:** 2025-12-29T03:01+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 9
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-28T03:01+00:00 UTC): 9
-Help us welcome: @rominaramon, @Simononchain, @cryptonzkie, @Wagmiteth, @derzathon
+🚀 New to ZcashMe (last 24h since 2025-12-29T03:01+00:00 UTC): 4
+Help us welcome: @pavvannn
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Romina (@rominaramon)
-- byorn (no handle)
-- dwillington (no handle)
-- Simon (@Simononchain)
-- cryptonzkie (@cryptonzkie)
-- hershey (no handle)
-- Luxustrata (no handle)
-- wagmit (@Wagmiteth)
-- Derzathon (@derzathon)
+- J (no handle)
+- Arkorias (no handle)
+- bitcoin (no handle)
+- pavvan (@pavvannn)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-28T03:01+00:00 UTC): 1
-Props to: @Fasb63259099
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-29T03:01+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Fasb63259099 (@Fasb63259099) — Verified
+
 
 ---
 

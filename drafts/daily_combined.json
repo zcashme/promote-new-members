@@ -1,60 +1,28 @@
 {
-  "timestamp_utc": "2025-12-28T03:01+00:00",
+  "timestamp_utc": "2025-12-29T03:01+00:00",
   "users": [
     {
-      "id": 1841,
-      "name": "Romina",
-      "handle": "rominaramon"
-    },
-    {
-      "id": 1842,
-      "name": "byorn",
+      "id": 1850,
+      "name": "J",
       "handle": null
     },
     {
-      "id": 1843,
-      "name": "dwillington",
+      "id": 1851,
+      "name": "Arkorias",
       "handle": null
     },
     {
-      "id": 1844,
-      "name": "Simon",
-      "handle": "Simononchain"
-    },
-    {
-      "id": 1845,
-      "name": "cryptonzkie",
-      "handle": "cryptonzkie"
-    },
-    {
-      "id": 1846,
-      "name": "hershey",
+      "id": 1852,
+      "name": "bitcoin",
       "handle": null
     },
     {
-      "id": 1847,
-      "name": "Luxustrata",
-      "handle": null
-    },
-    {
-      "id": 1848,
-      "name": "wagmit",
-      "handle": "Wagmiteth"
-    },
-    {
-      "id": 1849,
-      "name": "Derzathon",
-      "handle": "derzathon"
+      "id": 1853,
+      "name": "pavvan",
+      "handle": "pavvannn"
     }
   ],
-  "verified": [
-    {
-      "id": 1360,
-      "name": "Fasb63259099",
-      "handle": "Fasb63259099",
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-28T03:01+00:00 UTC): 9\nHelp us welcome: @rominaramon, @Simononchain, @cryptonzkie, @Wagmiteth, @derzathon\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-28T03:01+00:00 UTC): 1\nProps to: @Fasb63259099\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-29T03:01+00:00 UTC): 4\nHelp us welcome: @pavvannn\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-29T03:01+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
