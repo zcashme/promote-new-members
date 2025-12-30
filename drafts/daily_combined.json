@@ -1,28 +1,56 @@
 {
-  "timestamp_utc": "2025-12-29T03:01+00:00",
+  "timestamp_utc": "2025-12-30T02:51+00:00",
   "users": [
     {
-      "id": 1850,
-      "name": "J",
+      "id": 1854,
+      "name": "Soroush",
       "handle": null
     },
     {
-      "id": 1851,
-      "name": "Arkorias",
+      "id": 1855,
+      "name": "Soroush",
       "handle": null
     },
     {
-      "id": 1852,
-      "name": "bitcoin",
+      "id": 1856,
+      "name": "Ishola",
+      "handle": "Boiishola"
+    },
+    {
+      "id": 1857,
+      "name": "akhilbhima",
+      "handle": "Akhilbhima"
+    },
+    {
+      "id": 1858,
+      "name": "Wrxwrx",
       "handle": null
     },
     {
-      "id": 1853,
-      "name": "pavvan",
-      "handle": "pavvannn"
+      "id": 1859,
+      "name": "Nolano",
+      "handle": null
+    },
+    {
+      "id": 1860,
+      "name": "Jules0X",
+      "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-29T03:01+00:00 UTC): 4\nHelp us welcome: @pavvannn\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-29T03:01+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 1848,
+      "name": "wagmit",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1817,
+      "name": "KatDaddy",
+      "handle": "Thegreyhandler",
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2025-12-30T02:51+00:00 UTC): 7\nHelp us welcome: @Boiishola, @Akhilbhima\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2025-12-30T02:51+00:00 UTC): 2\nProps to: @Thegreyhandler\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
