@@ -1,39 +1,36 @@
-**Generated at:** 2025-12-30T02:51+00:00 UTC
+**Generated at:** 2025-12-31T02:50+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 7
+**Count:** 5
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2025-12-30T02:51+00:00 UTC): 7
-Help us welcome: @Boiishola, @Akhilbhima
+🚀 New to ZcashMe (last 24h since 2025-12-31T02:50+00:00 UTC): 5
+Help us welcome: @wrx_pxs
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Soroush (no handle)
-- Soroush (no handle)
-- Ishola (@Boiishola)
-- akhilbhima (@Akhilbhima)
-- Wrxwrx (no handle)
-- Nolano (no handle)
-- Jules0X (no handle)
+- roadies (no handle)
+- Wrxwrx (@wrx_pxs)
+- rebel (no handle)
+- hanz (no handle)
+- Holsetymoon (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2025-12-30T02:51+00:00 UTC): 2
-Props to: @Thegreyhandler
+🔐 Newly verified on ZcashMe (last 24h since 2025-12-31T02:50+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- wagmit (no handle) — Verified
-- KatDaddy (@Thegreyhandler) — Verified
+
 
 ---
 
