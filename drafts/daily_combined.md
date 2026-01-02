@@ -1,46 +1,32 @@
-**Generated at:** 2026-01-01T03:03+00:00 UTC
+**Generated at:** 2026-01-02T02:54+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 13
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-01T03:03+00:00 UTC): 13
-Help us welcome: @lionliyat, @otaviotweets, @tunappaul, @exiriofinance, @konrad_gnat, @jinglescode, @asyncakash, @Danette1234x
+🚀 New to ZcashMe (last 24h since 2026-01-02T02:54+00:00 UTC): 1
+Help us welcome: @Lana2Mars
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Shizu (no handle)
-- lionelyat (@lionliyat)
-- web3 (no handle)
-- ozymandias (@otaviotweets)
-- tunap (@tunappaul)
-- Exirio (@exiriofinance)
-- checker (no handle)
-- nestedarray (@konrad_gnat)
-- Badshah (no handle)
-- 0xbilgin (no handle)
-- jingles (@jinglescode)
-- zkash (@asyncakash)
-- Danette (@Danette1234x)
+- GirlfromMars (@Lana2Mars)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 3
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-01T03:03+00:00 UTC): 3
-Props to: @ann_imoagene, @nilraka
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-02T02:54+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Ann (@ann_imoagene) — Verified
-- rebel (no handle) — Verified
-- nilraka (@nilraka) — Verified
+
 
 ---
 

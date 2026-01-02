@@ -1,92 +1,13 @@
 {
-  "timestamp_utc": "2026-01-01T03:03+00:00",
+  "timestamp_utc": "2026-01-02T02:54+00:00",
   "users": [
     {
-      "id": 1867,
-      "name": "Shizu",
-      "handle": null
-    },
-    {
-      "id": 1869,
-      "name": "lionelyat",
-      "handle": "lionliyat"
-    },
-    {
-      "id": 1870,
-      "name": "web3",
-      "handle": null
-    },
-    {
-      "id": 1871,
-      "name": "ozymandias",
-      "handle": "otaviotweets"
-    },
-    {
-      "id": 1872,
-      "name": "tunap",
-      "handle": "tunappaul"
-    },
-    {
-      "id": 1873,
-      "name": "Exirio",
-      "handle": "exiriofinance"
-    },
-    {
-      "id": 1874,
-      "name": "checker",
-      "handle": null
-    },
-    {
-      "id": 1875,
-      "name": "nestedarray",
-      "handle": "konrad_gnat"
-    },
-    {
-      "id": 1876,
-      "name": "Badshah",
-      "handle": null
-    },
-    {
-      "id": 1877,
-      "name": "0xbilgin",
-      "handle": null
-    },
-    {
-      "id": 1878,
-      "name": "jingles",
-      "handle": "jinglescode"
-    },
-    {
-      "id": 1879,
-      "name": "zkash",
-      "handle": "asyncakash"
-    },
-    {
-      "id": 1880,
-      "name": "Danette",
-      "handle": "Danette1234x"
+      "id": 1881,
+      "name": "GirlfromMars",
+      "handle": "Lana2Mars"
     }
   ],
-  "verified": [
-    {
-      "id": 1829,
-      "name": "Ann",
-      "handle": "ann_imoagene",
-      "method": "Verified"
-    },
-    {
-      "id": 1864,
-      "name": "rebel",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 1615,
-      "name": "nilraka",
-      "handle": "nilraka",
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-01T03:03+00:00 UTC): 13\nHelp us welcome: @lionliyat, @otaviotweets, @tunappaul, @exiriofinance, @konrad_gnat, @jinglescode, @asyncakash, @Danette1234x\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-01T03:03+00:00 UTC): 3\nProps to: @ann_imoagene, @nilraka\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-02T02:54+00:00 UTC): 1\nHelp us welcome: @Lana2Mars\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-02T02:54+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
