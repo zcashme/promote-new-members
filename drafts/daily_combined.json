@@ -1,13 +1,25 @@
 {
-  "timestamp_utc": "2026-01-02T02:54+00:00",
+  "timestamp_utc": "2026-01-03T02:45+00:00",
   "users": [
     {
-      "id": 1881,
-      "name": "GirlfromMars",
-      "handle": "Lana2Mars"
+      "id": 1884,
+      "name": "king halfin",
+      "handle": "EgiDwiSapu97950"
+    },
+    {
+      "id": 1883,
+      "name": "jacobgriscom",
+      "handle": "GriscomJacob"
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-02T02:54+00:00 UTC): 1\nHelp us welcome: @Lana2Mars\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-02T02:54+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 415,
+      "name": "Zechariah",
+      "handle": "zcashme",
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-03T02:45+00:00 UTC): 2\nHelp us welcome: @EgiDwiSapu97950, @GriscomJacob\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-03T02:45+00:00 UTC): 1\nProps to: @zcashme\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
