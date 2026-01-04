@@ -1,33 +1,34 @@
-**Generated at:** 2026-01-03T02:45+00:00 UTC
+**Generated at:** 2026-01-04T03:04+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-03T02:45+00:00 UTC): 2
-Help us welcome: @EgiDwiSapu97950, @GriscomJacob
+🚀 New to ZcashMe (last 24h since 2026-01-04T03:04+00:00 UTC): 3
+Help us welcome: @katif_rahim, @zcashme, @zreadymouse
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- king halfin (@EgiDwiSapu97950)
-- jacobgriscom (@GriscomJacob)
+- Katif (@katif_rahim)
+- James J (@zcashme)
+- readymouse (@zreadymouse)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-03T02:45+00:00 UTC): 1
-Props to: @zcashme
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-04T03:04+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Zechariah (@zcashme) — Verified
+
 
 ---
 
