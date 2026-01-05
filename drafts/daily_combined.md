@@ -1,20 +1,19 @@
-**Generated at:** 2026-01-04T03:04+00:00 UTC
+**Generated at:** 2026-01-05T03:06+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-04T03:04+00:00 UTC): 3
-Help us welcome: @katif_rahim, @zcashme, @zreadymouse
+🚀 New to ZcashMe (last 24h since 2026-01-05T03:06+00:00 UTC): 2
+Help us welcome: @Vivanlive, @adamtpang
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Katif (@katif_rahim)
-- James J (@zcashme)
-- readymouse (@zreadymouse)
+- Vivan (@Vivanlive)
+- adamtpang (@adamtpang)
 
 ---
 
@@ -22,7 +21,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-04T03:04+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-05T03:06+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓

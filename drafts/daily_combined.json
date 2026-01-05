@@ -1,23 +1,18 @@
 {
-  "timestamp_utc": "2026-01-04T03:04+00:00",
+  "timestamp_utc": "2026-01-05T03:06+00:00",
   "users": [
     {
-      "id": 1887,
-      "name": "Katif",
-      "handle": "katif_rahim"
+      "id": 1889,
+      "name": "Vivan",
+      "handle": "Vivanlive"
     },
     {
-      "id": 1886,
-      "name": "James J",
-      "handle": "zcashme"
-    },
-    {
-      "id": 1885,
-      "name": "readymouse",
-      "handle": "zreadymouse"
+      "id": 1888,
+      "name": "adamtpang",
+      "handle": "adamtpang"
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-04T03:04+00:00 UTC): 3\nHelp us welcome: @katif_rahim, @zcashme, @zreadymouse\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-04T03:04+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-05T03:06+00:00 UTC): 2\nHelp us welcome: @Vivanlive, @adamtpang\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-05T03:06+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
