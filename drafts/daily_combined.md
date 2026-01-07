@@ -1,18 +1,19 @@
-**Generated at:** 2026-01-06T02:53+00:00 UTC
+**Generated at:** 2026-01-07T02:53+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-06T02:53+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-01-07T02:53+00:00 UTC): 2
+Help us welcome: @simononchain, @Collinscribes
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- simon (@simononchain)
+- Collinsville22 (@Collinscribes)
 
 ---
 
@@ -20,13 +21,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-06T02:53+00:00 UTC): 1
-Props to: ozymandias
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-07T02:53+00:00 UTC): 1
+Props to: @pavvannn
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- ozymandias (no handle) — Verified
+- pavvan (@pavvannn) — Verified
 
 ---
 
