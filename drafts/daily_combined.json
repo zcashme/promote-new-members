@@ -1,25 +1,26 @@
 {
-  "timestamp_utc": "2026-01-07T02:53+00:00",
+  "timestamp_utc": "2026-01-08T02:53+00:00",
   "users": [
     {
-      "id": 1891,
-      "name": "simon",
-      "handle": "simononchain"
-    },
-    {
-      "id": 1890,
-      "name": "Collinsville22",
-      "handle": "Collinscribes"
+      "id": 1892,
+      "name": "britt",
+      "handle": "brittintech"
     }
   ],
   "verified": [
     {
-      "id": 1853,
-      "name": "pavvan",
-      "handle": "pavvannn",
+      "id": 1809,
+      "name": "Blakiat",
+      "handle": "Blakiat",
+      "method": "Verified"
+    },
+    {
+      "id": 415,
+      "name": "Zechariah",
+      "handle": "zcashme",
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-07T02:53+00:00 UTC): 2\nHelp us welcome: @simononchain, @Collinscribes\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-07T02:53+00:00 UTC): 1\nProps to: @pavvannn\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-08T02:53+00:00 UTC): 1\nHelp us welcome: @brittintech\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-08T02:53+00:00 UTC): 2\nProps to: @Blakiat, @zcashme\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

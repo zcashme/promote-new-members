@@ -1,33 +1,33 @@
-**Generated at:** 2026-01-07T02:53+00:00 UTC
+**Generated at:** 2026-01-08T02:53+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-07T02:53+00:00 UTC): 2
-Help us welcome: @simononchain, @Collinscribes
+🚀 New to ZcashMe (last 24h since 2026-01-08T02:53+00:00 UTC): 1
+Help us welcome: @brittintech
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- simon (@simononchain)
-- Collinsville22 (@Collinscribes)
+- britt (@brittintech)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-07T02:53+00:00 UTC): 1
-Props to: @pavvannn
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-08T02:53+00:00 UTC): 2
+Props to: @Blakiat, @zcashme
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- pavvan (@pavvannn) — Verified
+- Blakiat (@Blakiat) — Verified
+- Zechariah (@zcashme) — Verified
 
 ---
 
