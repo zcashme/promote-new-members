@@ -1,32 +1,33 @@
-**Generated at:** 2026-01-14T02:59+00:00 UTC
+**Generated at:** 2026-01-15T02:54+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-14T02:59+00:00 UTC): 1
-Help us welcome: @Sheemprende_
+🚀 New to ZcashMe (last 24h since 2026-01-15T02:54+00:00 UTC): 2
+Help us welcome: @tyneslol, @Player1Taco
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Sheemprende (@Sheemprende_)
+- tynes (@tyneslol)
+- player1taco (@Player1Taco)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-14T02:59+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-15T02:54+00:00 UTC): 1
+Props to: @Player1Taco
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- player1taco (@Player1Taco) — Verified
 
 ---
 
