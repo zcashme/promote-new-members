@@ -1,25 +1,31 @@
 {
-  "timestamp_utc": "2026-01-15T02:54+00:00",
+  "timestamp_utc": "2026-01-16T02:54+00:00",
   "users": [
     {
-      "id": 1900,
-      "name": "tynes",
-      "handle": "tyneslol"
+      "id": 1902,
+      "name": "shreyas",
+      "handle": "spapinwar"
     },
     {
-      "id": 1899,
-      "name": "player1taco",
-      "handle": "Player1Taco"
+      "id": 1901,
+      "name": "hus",
+      "handle": "drhus"
     }
   ],
   "verified": [
     {
-      "id": 1899,
-      "name": "player1taco",
-      "handle": "Player1Taco",
+      "id": 15,
+      "name": "SaveZcash",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1900,
+      "name": "tynes",
+      "handle": "tyneslol",
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-15T02:54+00:00 UTC): 2\nHelp us welcome: @tyneslol, @Player1Taco\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-15T02:54+00:00 UTC): 1\nProps to: @Player1Taco\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-16T02:54+00:00 UTC): 2\nHelp us welcome: @spapinwar, @drhus\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-16T02:54+00:00 UTC): 2\nProps to: @tyneslol\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
