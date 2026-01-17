@@ -1,34 +1,37 @@
-**Generated at:** 2026-01-16T02:54+00:00 UTC
+**Generated at:** 2026-01-17T02:46+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 6
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-16T02:54+00:00 UTC): 2
-Help us welcome: @spapinwar, @drhus
+🚀 New to ZcashMe (last 24h since 2026-01-17T02:46+00:00 UTC): 6
+Help us welcome: @zypherscan, @Pseudo0x0x, @relishthisperk
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- shreyas (@spapinwar)
-- hus (@drhus)
+- zypherscan (@zypherscan)
+- abdomo (no handle)
+- nid (no handle)
+- localphil (no handle)
+- pseudo (@Pseudo0x0x)
+- pol (@relishthisperk)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-16T02:54+00:00 UTC): 2
-Props to: @tyneslol
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-17T02:46+00:00 UTC): 1
+Props to: SaveZcash
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
 - SaveZcash (no handle) — Verified
-- tynes (@tyneslol) — Verified
 
 ---
 
