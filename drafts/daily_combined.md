@@ -1,37 +1,33 @@
-**Generated at:** 2026-01-17T02:46+00:00 UTC
+**Generated at:** 2026-01-18T03:02+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 6
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-17T02:46+00:00 UTC): 6
-Help us welcome: @zypherscan, @Pseudo0x0x, @relishthisperk
+🚀 New to ZcashMe (last 24h since 2026-01-18T03:02+00:00 UTC): 1
+Help us welcome: qimchi
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- zypherscan (@zypherscan)
-- abdomo (no handle)
-- nid (no handle)
-- localphil (no handle)
-- pseudo (@Pseudo0x0x)
-- pol (@relishthisperk)
+- qimchi (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-17T02:46+00:00 UTC): 1
-Props to: SaveZcash
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-18T03:02+00:00 UTC): 2
+Props to: SaveZcash, Zechariah
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
 - SaveZcash (no handle) — Verified
+- Zechariah (no handle) — Verified
 
 ---
 
