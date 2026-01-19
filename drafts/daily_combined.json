@@ -1,19 +1,23 @@
 {
-  "timestamp_utc": "2026-01-18T03:02+00:00",
+  "timestamp_utc": "2026-01-19T03:02+00:00",
   "users": [
     {
-      "id": 1910,
-      "name": "qimchi",
+      "id": 1913,
+      "name": "jaime",
+      "handle": null
+    },
+    {
+      "id": 1912,
+      "name": "lemz100x",
+      "handle": "lemz100x"
+    },
+    {
+      "id": 1911,
+      "name": "ZecFiCapital",
       "handle": null
     }
   ],
   "verified": [
-    {
-      "id": 15,
-      "name": "SaveZcash",
-      "handle": null,
-      "method": "Verified"
-    },
     {
       "id": 415,
       "name": "Zechariah",
@@ -21,6 +25,6 @@
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-18T03:02+00:00 UTC): 1\nHelp us welcome: qimchi\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-18T03:02+00:00 UTC): 2\nProps to: SaveZcash, Zechariah\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 3\nHelp us welcome: @lemz100x\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 1\nProps to: Zechariah\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

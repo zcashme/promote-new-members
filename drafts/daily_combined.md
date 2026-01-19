@@ -1,32 +1,33 @@
-**Generated at:** 2026-01-18T03:02+00:00 UTC
+**Generated at:** 2026-01-19T03:02+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-18T03:02+00:00 UTC): 1
-Help us welcome: qimchi
+🚀 New to ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 3
+Help us welcome: @lemz100x
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- qimchi (no handle)
+- jaime (no handle)
+- lemz100x (@lemz100x)
+- ZecFiCapital (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-18T03:02+00:00 UTC): 2
-Props to: SaveZcash, Zechariah
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 1
+Props to: Zechariah
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- SaveZcash (no handle) — Verified
 - Zechariah (no handle) — Verified
 
 ---
