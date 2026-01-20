@@ -1,19 +1,59 @@
 {
-  "timestamp_utc": "2026-01-19T03:02+00:00",
+  "timestamp_utc": "2026-01-20T02:56+00:00",
   "users": [
     {
-      "id": 1913,
-      "name": "jaime",
+      "id": 1924,
+      "name": "0xCosmos",
+      "handle": "0xCosmos__"
+    },
+    {
+      "id": 1923,
+      "name": "hal1n77",
       "handle": null
     },
     {
-      "id": 1912,
-      "name": "lemz100x",
-      "handle": "lemz100x"
+      "id": 1922,
+      "name": "cartel",
+      "handle": null
     },
     {
-      "id": 1911,
-      "name": "ZecFiCapital",
+      "id": 1921,
+      "name": "elonmusk",
+      "handle": null
+    },
+    {
+      "id": 1920,
+      "name": "Marox",
+      "handle": "Mar0xBda"
+    },
+    {
+      "id": 1919,
+      "name": "Marox",
+      "handle": "Mar0xBda"
+    },
+    {
+      "id": 1918,
+      "name": "Gren",
+      "handle": null
+    },
+    {
+      "id": 1917,
+      "name": "Raichu",
+      "handle": null
+    },
+    {
+      "id": 1916,
+      "name": "Cb4",
+      "handle": "X_SharkBnB"
+    },
+    {
+      "id": 1915,
+      "name": "Z15pro420k",
+      "handle": null
+    },
+    {
+      "id": 1914,
+      "name": "Robin",
       "handle": null
     }
   ],
@@ -25,6 +65,6 @@
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 3\nHelp us welcome: @lemz100x\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 1\nProps to: Zechariah\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 11\nHelp us welcome: @0xCosmos__, @Mar0xBda, @Mar0xBda, @X_SharkBnB\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 1\nProps to: Zechariah\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

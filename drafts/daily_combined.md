@@ -1,20 +1,28 @@
-**Generated at:** 2026-01-19T03:02+00:00 UTC
+**Generated at:** 2026-01-20T02:56+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 11
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 3
-Help us welcome: @lemz100x
+🚀 New to ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 11
+Help us welcome: @0xCosmos__, @Mar0xBda, @Mar0xBda, @X_SharkBnB
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- jaime (no handle)
-- lemz100x (@lemz100x)
-- ZecFiCapital (no handle)
+- 0xCosmos (@0xCosmos__)
+- hal1n77 (no handle)
+- cartel (no handle)
+- elonmusk (no handle)
+- Marox (@Mar0xBda)
+- Marox (@Mar0xBda)
+- Gren (no handle)
+- Raichu (no handle)
+- Cb4 (@X_SharkBnB)
+- Z15pro420k (no handle)
+- Robin (no handle)
 
 ---
 
@@ -22,7 +30,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-19T03:02+00:00 UTC): 1
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 1
 Props to: Zechariah
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
