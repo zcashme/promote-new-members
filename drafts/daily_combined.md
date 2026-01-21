@@ -1,42 +1,52 @@
-**Generated at:** 2026-01-20T02:56+00:00 UTC
+**Generated at:** 2026-01-21T02:55+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 11
+**Count:** 20
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 11
-Help us welcome: @0xCosmos__, @Mar0xBda, @Mar0xBda, @X_SharkBnB
+🚀 New to ZcashMe (last 24h since 2026-01-21T02:55+00:00 UTC): 20
+Help us welcome: @HaniiHanott, @IAmStillAKiddd, @Xyalero, @Mar0xBda
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- 0xCosmos (@0xCosmos__)
-- hal1n77 (no handle)
-- cartel (no handle)
-- elonmusk (no handle)
+- amrit (no handle)
+- Cb4 (no handle)
+- coinbuild (no handle)
+- HaniiHanott (@HaniiHanott)
+- ica2vi (no handle)
+- bh88363617189 (no handle)
+- ProofOfMood (no handle)
+- Outcast (@IAmStillAKiddd)
+- Princesscutire1 (no handle)
+- Jesse (no handle)
+- Deesam2 (no handle)
+- Alaintzy (no handle)
+- deusdionisio (no handle)
+- Ibnmessaoud (no handle)
+- yechengaol (no handle)
+- xyalero (@Xyalero)
 - Marox (@Mar0xBda)
-- Marox (@Mar0xBda)
-- Gren (no handle)
-- Raichu (no handle)
-- Cb4 (@X_SharkBnB)
-- Z15pro420k (no handle)
-- Robin (no handle)
+- zayn (no handle)
+- Yagamoski (no handle)
+- Rust (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 1
-Props to: Zechariah
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-21T02:55+00:00 UTC): 2
+Props to: @zypherscan
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Zechariah (no handle) — Verified
+- zypherscan (@zypherscan) — Verified
+- ZecFiCapital (no handle) — Verified
 
 ---
 

@@ -1,70 +1,121 @@
 {
-  "timestamp_utc": "2026-01-20T02:56+00:00",
+  "timestamp_utc": "2026-01-21T02:55+00:00",
   "users": [
     {
-      "id": 1924,
-      "name": "0xCosmos",
-      "handle": "0xCosmos__"
-    },
-    {
-      "id": 1923,
-      "name": "hal1n77",
+      "id": 1945,
+      "name": "amrit",
       "handle": null
     },
     {
-      "id": 1922,
-      "name": "cartel",
-      "handle": null
-    },
-    {
-      "id": 1921,
-      "name": "elonmusk",
-      "handle": null
-    },
-    {
-      "id": 1920,
-      "name": "Marox",
-      "handle": "Mar0xBda"
-    },
-    {
-      "id": 1919,
-      "name": "Marox",
-      "handle": "Mar0xBda"
-    },
-    {
-      "id": 1918,
-      "name": "Gren",
-      "handle": null
-    },
-    {
-      "id": 1917,
-      "name": "Raichu",
-      "handle": null
-    },
-    {
-      "id": 1916,
+      "id": 1944,
       "name": "Cb4",
-      "handle": "X_SharkBnB"
-    },
-    {
-      "id": 1915,
-      "name": "Z15pro420k",
       "handle": null
     },
     {
-      "id": 1914,
-      "name": "Robin",
+      "id": 1943,
+      "name": "coinbuild",
+      "handle": null
+    },
+    {
+      "id": 1942,
+      "name": "HaniiHanott",
+      "handle": "HaniiHanott"
+    },
+    {
+      "id": 1940,
+      "name": "ica2vi",
+      "handle": null
+    },
+    {
+      "id": 1939,
+      "name": "bh88363617189",
+      "handle": null
+    },
+    {
+      "id": 1938,
+      "name": "ProofOfMood",
+      "handle": null
+    },
+    {
+      "id": 1937,
+      "name": "Outcast",
+      "handle": "IAmStillAKiddd"
+    },
+    {
+      "id": 1936,
+      "name": "Princesscutire1",
+      "handle": null
+    },
+    {
+      "id": 1935,
+      "name": "Jesse",
+      "handle": null
+    },
+    {
+      "id": 1934,
+      "name": "Deesam2",
+      "handle": null
+    },
+    {
+      "id": 1933,
+      "name": "Alaintzy",
+      "handle": null
+    },
+    {
+      "id": 1932,
+      "name": "deusdionisio",
+      "handle": null
+    },
+    {
+      "id": 1931,
+      "name": "Ibnmessaoud",
+      "handle": null
+    },
+    {
+      "id": 1930,
+      "name": "yechengaol",
+      "handle": null
+    },
+    {
+      "id": 1929,
+      "name": "xyalero",
+      "handle": "Xyalero"
+    },
+    {
+      "id": 1928,
+      "name": "Marox",
+      "handle": "Mar0xBda"
+    },
+    {
+      "id": 1927,
+      "name": "zayn",
+      "handle": null
+    },
+    {
+      "id": 1926,
+      "name": "Yagamoski",
+      "handle": null
+    },
+    {
+      "id": 1925,
+      "name": "Rust",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 415,
-      "name": "Zechariah",
+      "id": 1908,
+      "name": "zypherscan",
+      "handle": "zypherscan",
+      "method": "Verified"
+    },
+    {
+      "id": 1911,
+      "name": "ZecFiCapital",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 11\nHelp us welcome: @0xCosmos__, @Mar0xBda, @Mar0xBda, @X_SharkBnB\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-20T02:56+00:00 UTC): 1\nProps to: Zechariah\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-21T02:55+00:00 UTC): 20\nHelp us welcome: @HaniiHanott, @IAmStillAKiddd, @Xyalero, @Mar0xBda\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-21T02:55+00:00 UTC): 2\nProps to: @zypherscan\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
