@@ -1,52 +1,32 @@
-**Generated at:** 2026-01-21T02:55+00:00 UTC
+**Generated at:** 2026-01-22T03:00+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 20
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-21T02:55+00:00 UTC): 20
-Help us welcome: @HaniiHanott, @IAmStillAKiddd, @Xyalero, @Mar0xBda
+🚀 New to ZcashMe (last 24h since 2026-01-22T03:00+00:00 UTC): 1
+Help us welcome: vik
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- amrit (no handle)
-- Cb4 (no handle)
-- coinbuild (no handle)
-- HaniiHanott (@HaniiHanott)
-- ica2vi (no handle)
-- bh88363617189 (no handle)
-- ProofOfMood (no handle)
-- Outcast (@IAmStillAKiddd)
-- Princesscutire1 (no handle)
-- Jesse (no handle)
-- Deesam2 (no handle)
-- Alaintzy (no handle)
-- deusdionisio (no handle)
-- Ibnmessaoud (no handle)
-- yechengaol (no handle)
-- xyalero (@Xyalero)
-- Marox (@Mar0xBda)
-- zayn (no handle)
-- Yagamoski (no handle)
-- Rust (no handle)
+- vik (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-21T02:55+00:00 UTC): 2
-Props to: @zypherscan
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-22T03:00+00:00 UTC): 1
+Props to: king halfin
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zypherscan (@zypherscan) — Verified
-- ZecFiCapital (no handle) — Verified
+- king halfin (no handle) — Verified
 
 ---
 
