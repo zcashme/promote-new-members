@@ -1,20 +1,53 @@
 {
-  "timestamp_utc": "2026-01-22T03:00+00:00",
+  "timestamp_utc": "2026-01-23T02:56+00:00",
   "users": [
     {
-      "id": 1946,
-      "name": "vik",
+      "id": 1955,
+      "name": "AAmandita.me",
+      "handle": "aamandita_"
+    },
+    {
+      "id": 1954,
+      "name": "Legion",
+      "handle": null
+    },
+    {
+      "id": 1953,
+      "name": "lemz100x",
+      "handle": "lemz100x"
+    },
+    {
+      "id": 1952,
+      "name": "zucchini",
+      "handle": "zucchinifi"
+    },
+    {
+      "id": 1951,
+      "name": "sethforprivacy",
+      "handle": null
+    },
+    {
+      "id": 1950,
+      "name": "Ebubededraw",
+      "handle": null
+    },
+    {
+      "id": 1949,
+      "name": "mahaboobhussain",
+      "handle": "Mahaboob909"
+    },
+    {
+      "id": 1948,
+      "name": "mehmetongny",
+      "handle": "mehmetongny"
+    },
+    {
+      "id": 1947,
+      "name": "artezy",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 1884,
-      "name": "king halfin",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-22T03:00+00:00 UTC): 1\nHelp us welcome: vik\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-22T03:00+00:00 UTC): 1\nProps to: king halfin\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-23T02:56+00:00 UTC): 9\nHelp us welcome: @aamandita_, @lemz100x, @zucchinifi, @Mahaboob909, @mehmetongny\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-23T02:56+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
