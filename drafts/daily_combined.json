@@ -1,53 +1,63 @@
 {
-  "timestamp_utc": "2026-01-23T02:56+00:00",
+  "timestamp_utc": "2026-01-24T02:50+00:00",
   "users": [
     {
-      "id": 1955,
-      "name": "AAmandita.me",
-      "handle": "aamandita_"
-    },
-    {
-      "id": 1954,
-      "name": "Legion",
+      "id": 1967,
+      "name": "andrew",
       "handle": null
     },
     {
-      "id": 1953,
-      "name": "lemz100x",
-      "handle": "lemz100x"
-    },
-    {
-      "id": 1952,
-      "name": "zucchini",
-      "handle": "zucchinifi"
-    },
-    {
-      "id": 1951,
-      "name": "sethforprivacy",
+      "id": 1966,
+      "name": "T3shadow",
       "handle": null
     },
     {
-      "id": 1950,
-      "name": "Ebubededraw",
+      "id": 1965,
+      "name": "thebackupkid",
       "handle": null
     },
     {
-      "id": 1949,
-      "name": "mahaboobhussain",
-      "handle": "Mahaboob909"
+      "id": 1964,
+      "name": "Go",
+      "handle": null
     },
     {
-      "id": 1948,
-      "name": "mehmetongny",
-      "handle": "mehmetongny"
+      "id": 1962,
+      "name": "go88188",
+      "handle": null
     },
     {
-      "id": 1947,
-      "name": "artezy",
+      "id": 1961,
+      "name": "dblezzz",
+      "handle": "dblezzz"
+    },
+    {
+      "id": 1960,
+      "name": "cryptotaxguy",
+      "handle": "Cryptotaxguyeth"
+    },
+    {
+      "id": 1959,
+      "name": "Onlyzcash",
+      "handle": null
+    },
+    {
+      "id": 1958,
+      "name": "siewwwin",
+      "handle": null
+    },
+    {
+      "id": 1957,
+      "name": "superdjoko",
+      "handle": null
+    },
+    {
+      "id": 1956,
+      "name": "skellington",
       "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-23T02:56+00:00 UTC): 9\nHelp us welcome: @aamandita_, @lemz100x, @zucchinifi, @Mahaboob909, @mehmetongny\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-23T02:56+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 11\nHelp us welcome: @dblezzz, @Cryptotaxguyeth\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

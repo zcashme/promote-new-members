@@ -1,26 +1,28 @@
-**Generated at:** 2026-01-23T02:56+00:00 UTC
+**Generated at:** 2026-01-24T02:50+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 9
+**Count:** 11
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-23T02:56+00:00 UTC): 9
-Help us welcome: @aamandita_, @lemz100x, @zucchinifi, @Mahaboob909, @mehmetongny
+🚀 New to ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 11
+Help us welcome: @dblezzz, @Cryptotaxguyeth
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- AAmandita.me (@aamandita_)
-- Legion (no handle)
-- lemz100x (@lemz100x)
-- zucchini (@zucchinifi)
-- sethforprivacy (no handle)
-- Ebubededraw (no handle)
-- mahaboobhussain (@Mahaboob909)
-- mehmetongny (@mehmetongny)
-- artezy (no handle)
+- andrew (no handle)
+- T3shadow (no handle)
+- thebackupkid (no handle)
+- Go (no handle)
+- go88188 (no handle)
+- dblezzz (@dblezzz)
+- cryptotaxguy (@Cryptotaxguyeth)
+- Onlyzcash (no handle)
+- siewwwin (no handle)
+- superdjoko (no handle)
+- skellington (no handle)
 
 ---
 
@@ -28,7 +30,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-23T02:56+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
