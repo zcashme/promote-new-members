@@ -1,4 +1,4 @@
-**Generated at:** 2026-01-24T02:50+00:00 UTC
+**Generated at:** 2026-01-25T03:07+00:00 UTC
 
 ---
 
@@ -6,37 +6,38 @@
 **Count:** 11
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 11
-Help us welcome: @dblezzz, @Cryptotaxguyeth
+🚀 New to ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 11
+Help us welcome: @Xanianthegreat, @akhilbhima
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- andrew (no handle)
-- T3shadow (no handle)
-- thebackupkid (no handle)
-- Go (no handle)
-- go88188 (no handle)
-- dblezzz (@dblezzz)
-- cryptotaxguy (@Cryptotaxguyeth)
-- Onlyzcash (no handle)
-- siewwwin (no handle)
-- superdjoko (no handle)
-- skellington (no handle)
+- Sbn (no handle)
+- Nila (no handle)
+- Xanian (@Xanianthegreat)
+- white (no handle)
+- aowiseone (no handle)
+- IMPULSE (no handle)
+- Cokiiiwin (no handle)
+- ray (no handle)
+- Yutanicorp (no handle)
+- GUNAWANGACOR (no handle)
+- akhilbhima (@akhilbhima)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 2
+Props to: Blakiat, Nolano
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- Blakiat (no handle) — Verified
+- Nolano (no handle) — Verified
 
 ---
 

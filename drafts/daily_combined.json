@@ -1,63 +1,76 @@
 {
-  "timestamp_utc": "2026-01-24T02:50+00:00",
+  "timestamp_utc": "2026-01-25T03:07+00:00",
   "users": [
     {
-      "id": 1967,
-      "name": "andrew",
+      "id": 1978,
+      "name": "Sbn",
       "handle": null
     },
     {
-      "id": 1966,
-      "name": "T3shadow",
+      "id": 1977,
+      "name": "Nila",
       "handle": null
     },
     {
-      "id": 1965,
-      "name": "thebackupkid",
+      "id": 1976,
+      "name": "Xanian",
+      "handle": "Xanianthegreat"
+    },
+    {
+      "id": 1975,
+      "name": "white",
       "handle": null
     },
     {
-      "id": 1964,
-      "name": "Go",
+      "id": 1974,
+      "name": "aowiseone",
       "handle": null
     },
     {
-      "id": 1962,
-      "name": "go88188",
+      "id": 1973,
+      "name": "IMPULSE",
       "handle": null
     },
     {
-      "id": 1961,
-      "name": "dblezzz",
-      "handle": "dblezzz"
-    },
-    {
-      "id": 1960,
-      "name": "cryptotaxguy",
-      "handle": "Cryptotaxguyeth"
-    },
-    {
-      "id": 1959,
-      "name": "Onlyzcash",
+      "id": 1972,
+      "name": "Cokiiiwin",
       "handle": null
     },
     {
-      "id": 1958,
-      "name": "siewwwin",
+      "id": 1971,
+      "name": "ray",
       "handle": null
     },
     {
-      "id": 1957,
-      "name": "superdjoko",
+      "id": 1970,
+      "name": "Yutanicorp",
       "handle": null
     },
     {
-      "id": 1956,
-      "name": "skellington",
+      "id": 1969,
+      "name": "GUNAWANGACOR",
       "handle": null
+    },
+    {
+      "id": 1968,
+      "name": "akhilbhima",
+      "handle": "akhilbhima"
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 11\nHelp us welcome: @dblezzz, @Cryptotaxguyeth\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-24T02:50+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 1809,
+      "name": "Blakiat",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1859,
+      "name": "Nolano",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 11\nHelp us welcome: @Xanianthegreat, @akhilbhima\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 2\nProps to: Blakiat, Nolano\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
