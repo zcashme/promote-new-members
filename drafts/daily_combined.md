@@ -1,28 +1,20 @@
-**Generated at:** 2026-01-25T03:07+00:00 UTC
+**Generated at:** 2026-01-26T03:08+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 11
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 11
-Help us welcome: @Xanianthegreat, @akhilbhima
+🚀 New to ZcashMe (last 24h since 2026-01-26T03:08+00:00 UTC): 3
+Help us welcome: skminghe, isuru, jg
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Sbn (no handle)
-- Nila (no handle)
-- Xanian (@Xanianthegreat)
-- white (no handle)
-- aowiseone (no handle)
-- IMPULSE (no handle)
-- Cokiiiwin (no handle)
-- ray (no handle)
-- Yutanicorp (no handle)
-- GUNAWANGACOR (no handle)
-- akhilbhima (@akhilbhima)
+- skminghe (no handle)
+- isuru (no handle)
+- jg (no handle)
 
 ---
 
@@ -30,14 +22,14 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 2
-Props to: Blakiat, Nolano
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-26T03:08+00:00 UTC): 2
+Props to: Edicksonjga, sethforprivacy
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Blakiat (no handle) — Verified
-- Nolano (no handle) — Verified
+- Edicksonjga (no handle) — Verified
+- sethforprivacy (no handle) — Verified
 
 ---
 

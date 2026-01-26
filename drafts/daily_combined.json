@@ -1,76 +1,36 @@
 {
-  "timestamp_utc": "2026-01-25T03:07+00:00",
+  "timestamp_utc": "2026-01-26T03:08+00:00",
   "users": [
     {
-      "id": 1978,
-      "name": "Sbn",
+      "id": 1981,
+      "name": "skminghe",
       "handle": null
     },
     {
-      "id": 1977,
-      "name": "Nila",
+      "id": 1980,
+      "name": "isuru",
       "handle": null
     },
     {
-      "id": 1976,
-      "name": "Xanian",
-      "handle": "Xanianthegreat"
-    },
-    {
-      "id": 1975,
-      "name": "white",
+      "id": 1979,
+      "name": "jg",
       "handle": null
-    },
-    {
-      "id": 1974,
-      "name": "aowiseone",
-      "handle": null
-    },
-    {
-      "id": 1973,
-      "name": "IMPULSE",
-      "handle": null
-    },
-    {
-      "id": 1972,
-      "name": "Cokiiiwin",
-      "handle": null
-    },
-    {
-      "id": 1971,
-      "name": "ray",
-      "handle": null
-    },
-    {
-      "id": 1970,
-      "name": "Yutanicorp",
-      "handle": null
-    },
-    {
-      "id": 1969,
-      "name": "GUNAWANGACOR",
-      "handle": null
-    },
-    {
-      "id": 1968,
-      "name": "akhilbhima",
-      "handle": "akhilbhima"
     }
   ],
   "verified": [
     {
-      "id": 1809,
-      "name": "Blakiat",
+      "id": 281,
+      "name": "Edicksonjga",
       "handle": null,
       "method": "Verified"
     },
     {
-      "id": 1859,
-      "name": "Nolano",
+      "id": 1951,
+      "name": "sethforprivacy",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 11\nHelp us welcome: @Xanianthegreat, @akhilbhima\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-25T03:07+00:00 UTC): 2\nProps to: Blakiat, Nolano\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-26T03:08+00:00 UTC): 3\nHelp us welcome: skminghe, isuru, jg\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-26T03:08+00:00 UTC): 2\nProps to: Edicksonjga, sethforprivacy\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
