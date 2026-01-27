@@ -1,36 +1,37 @@
 {
-  "timestamp_utc": "2026-01-26T03:08+00:00",
+  "timestamp_utc": "2026-01-27T03:01+00:00",
   "users": [
     {
-      "id": 1981,
-      "name": "skminghe",
+      "id": 1985,
+      "name": "yesper",
       "handle": null
     },
     {
-      "id": 1980,
-      "name": "isuru",
-      "handle": null
-    },
-    {
-      "id": 1979,
-      "name": "jg",
-      "handle": null
+      "id": 1984,
+      "name": "Parzival",
+      "handle": "ParzivalXMR"
     }
   ],
   "verified": [
     {
-      "id": 281,
-      "name": "Edicksonjga",
+      "id": 15,
+      "name": "SaveZcash",
       "handle": null,
       "method": "Verified"
     },
     {
-      "id": 1951,
-      "name": "sethforprivacy",
+      "id": 415,
+      "name": "Zechariah",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 230,
+      "name": "PacBR",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-26T03:08+00:00 UTC): 3\nHelp us welcome: skminghe, isuru, jg\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-26T03:08+00:00 UTC): 2\nProps to: Edicksonjga, sethforprivacy\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-27T03:01+00:00 UTC): 2\nHelp us welcome: @ParzivalXMR\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-27T03:01+00:00 UTC): 3\nProps to: SaveZcash, Zechariah, PacBR\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
