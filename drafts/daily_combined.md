@@ -1,35 +1,33 @@
-**Generated at:** 2026-01-27T03:01+00:00 UTC
+**Generated at:** 2026-01-28T02:58+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-27T03:01+00:00 UTC): 2
-Help us welcome: @ParzivalXMR
+🚀 New to ZcashMe (last 24h since 2026-01-28T02:58+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- yesper (no handle)
-- Parzival (@ParzivalXMR)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 3
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-27T03:01+00:00 UTC): 3
-Props to: SaveZcash, Zechariah, PacBR
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-28T02:58+00:00 UTC): 2
+Props to: SaveZcash, Zechariah
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
 - SaveZcash (no handle) — Verified
 - Zechariah (no handle) — Verified
-- PacBR (no handle) — Verified
 
 ---
 
