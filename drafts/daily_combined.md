@@ -1,36 +1,36 @@
-**Generated at:** 2026-01-29T03:22+00:00 UTC
+**Generated at:** 2026-01-30T03:23+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 5
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-29T03:22+00:00 UTC): 2
-Help us welcome: Pacbr2, LavenderHour
+🚀 New to ZcashMe (last 24h since 2026-01-30T03:23+00:00 UTC): 5
+Help us welcome: @mehmetongny
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Pacbr2 (no handle)
-- LavenderHour (no handle)
+- mehmetongy (@mehmetongny)
+- ruff_boi56 (no handle)
+- zatoshi (no handle)
+- ZEC_Africa (no handle)
+- zgodz (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 4
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-29T03:22+00:00 UTC): 4
-Props to: thebackupkid, T3shadow, SaveZcash, zechariah
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-30T03:23+00:00 UTC): 1
+Props to: SaveZcash
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- thebackupkid (no handle) — Verified
-- T3shadow (no handle) — Verified
 - SaveZcash (no handle) — Verified
-- zechariah (no handle) — Verified
 
 ---
 
