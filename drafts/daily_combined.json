@@ -1,40 +1,25 @@
 {
-  "timestamp_utc": "2026-01-30T03:23+00:00",
+  "timestamp_utc": "2026-01-31T03:14+00:00",
   "users": [
     {
-      "id": 1992,
-      "name": "mehmetongy",
-      "handle": "mehmetongny"
-    },
-    {
-      "id": 1991,
-      "name": "ruff_boi56",
+      "id": 1995,
+      "name": "rick",
       "handle": null
     },
     {
-      "id": 1990,
-      "name": "zatoshi",
-      "handle": null
-    },
-    {
-      "id": 1989,
-      "name": "ZEC_Africa",
-      "handle": null
-    },
-    {
-      "id": 1988,
-      "name": "zgodz",
+      "id": 1994,
+      "name": "equanimas",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 15,
-      "name": "SaveZcash",
+      "id": 1995,
+      "name": "rick",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-30T03:23+00:00 UTC): 5\nHelp us welcome: @mehmetongny\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-30T03:23+00:00 UTC): 1\nProps to: SaveZcash\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-01-31T03:14+00:00 UTC): 2\nHelp us welcome: rick, equanimas\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-01-31T03:14+00:00 UTC): 1\nProps to: rick\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

@@ -1,22 +1,19 @@
-**Generated at:** 2026-01-30T03:23+00:00 UTC
+**Generated at:** 2026-01-31T03:14+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-01-30T03:23+00:00 UTC): 5
-Help us welcome: @mehmetongny
+🚀 New to ZcashMe (last 24h since 2026-01-31T03:14+00:00 UTC): 2
+Help us welcome: rick, equanimas
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- mehmetongy (@mehmetongny)
-- ruff_boi56 (no handle)
-- zatoshi (no handle)
-- ZEC_Africa (no handle)
-- zgodz (no handle)
+- rick (no handle)
+- equanimas (no handle)
 
 ---
 
@@ -24,13 +21,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-01-30T03:23+00:00 UTC): 1
-Props to: SaveZcash
+🔐 Newly verified on ZcashMe (last 24h since 2026-01-31T03:14+00:00 UTC): 1
+Props to: rick
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- SaveZcash (no handle) — Verified
+- rick (no handle) — Verified
 
 ---
 
