@@ -1,33 +1,33 @@
-**Generated at:** 2026-02-01T03:44+00:00 UTC
+**Generated at:** 2026-02-02T03:35+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-01T03:44+00:00 UTC): 1
-Help us welcome: joy_jhei
+🚀 New to ZcashMe (last 24h since 2026-02-02T03:35+00:00 UTC): 2
+Help us welcome: @karthiknagpuri
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- joy_jhei (no handle)
+- karthiknagpuri (@karthiknagpuri)
+- SECURITY_AUDIT_TEST_1769962443990 (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-01T03:44+00:00 UTC): 2
-Props to: AAmandita, PacBR
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-02T03:35+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- AAmandita (no handle) — Verified
-- PacBR (no handle) — Verified
+
 
 ---
 
