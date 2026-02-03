@@ -1,18 +1,7 @@
 {
-  "timestamp_utc": "2026-02-02T03:35+00:00",
-  "users": [
-    {
-      "id": 1998,
-      "name": "karthiknagpuri",
-      "handle": "karthiknagpuri"
-    },
-    {
-      "id": 1997,
-      "name": "SECURITY_AUDIT_TEST_1769962443990",
-      "handle": null
-    }
-  ],
+  "timestamp_utc": "2026-02-03T03:29+00:00",
+  "users": [],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-02T03:35+00:00 UTC): 2\nHelp us welcome: @karthiknagpuri\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-02T03:35+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-03T03:29+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-03T03:29+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
