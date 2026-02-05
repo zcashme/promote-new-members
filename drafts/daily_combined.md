@@ -1,32 +1,32 @@
-**Generated at:** 2026-02-04T03:27+00:00 UTC
+**Generated at:** 2026-02-05T03:27+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-04T03:27+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-02-05T03:27+00:00 UTC): 1
+Help us welcome: shieldedFlow
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- shieldedFlow (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-04T03:27+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-05T03:27+00:00 UTC): 1
+Props to: Smit
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- Smit (no handle) — Verified
 
 ---
 
