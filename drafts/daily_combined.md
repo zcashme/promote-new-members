@@ -1,4 +1,4 @@
-**Generated at:** 2026-02-05T03:27+00:00 UTC
+**Generated at:** 2026-02-06T03:27+00:00 UTC
 
 ---
 
@@ -6,13 +6,13 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-05T03:27+00:00 UTC): 1
-Help us welcome: shieldedFlow
+🚀 New to ZcashMe (last 24h since 2026-02-06T03:27+00:00 UTC): 1
+Help us welcome: Annabelle
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- shieldedFlow (no handle)
+- Annabelle (no handle)
 
 ---
 
@@ -20,13 +20,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-05T03:27+00:00 UTC): 1
-Props to: Smit
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-06T03:27+00:00 UTC): 1
+Props to: Annabelle
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Smit (no handle) — Verified
+- Annabelle (no handle) — Verified
 
 ---
 
