@@ -1,20 +1,26 @@
 {
-  "timestamp_utc": "2026-02-06T03:27+00:00",
+  "timestamp_utc": "2026-02-07T03:19+00:00",
   "users": [
     {
-      "id": 2001,
-      "name": "Annabelle",
-      "handle": null
+      "id": 2002,
+      "name": "Bigdre",
+      "handle": "thedrekal"
     }
   ],
   "verified": [
     {
-      "id": 2001,
-      "name": "Annabelle",
+      "id": 2000,
+      "name": "shieldedFlow",
       "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1898,
+      "name": "Sheemprende",
+      "handle": "Sheemprende_",
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-06T03:27+00:00 UTC): 1\nHelp us welcome: Annabelle\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-06T03:27+00:00 UTC): 1\nProps to: Annabelle\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-07T03:19+00:00 UTC): 1\nHelp us welcome: @thedrekal\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-07T03:19+00:00 UTC): 2\nProps to: @Sheemprende_\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
