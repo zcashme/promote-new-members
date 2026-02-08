@@ -1,4 +1,4 @@
-**Generated at:** 2026-02-07T03:19+00:00 UTC
+**Generated at:** 2026-02-08T03:50+00:00 UTC
 
 ---
 
@@ -6,28 +6,27 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-07T03:19+00:00 UTC): 1
-Help us welcome: @thedrekal
+🚀 New to ZcashMe (last 24h since 2026-02-08T03:50+00:00 UTC): 1
+Help us welcome: SilverMarcs
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Bigdre (@thedrekal)
+- SilverMarcs (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-07T03:19+00:00 UTC): 2
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-08T03:50+00:00 UTC): 1
 Props to: @Sheemprende_
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- shieldedFlow (no handle) — Verified
-- Sheemprende (@Sheemprende_) — Verified
+- sheemprende (@Sheemprende_) — Verified
 
 ---
 
