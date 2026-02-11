@@ -1,32 +1,33 @@
-**Generated at:** 2026-02-10T03:46+00:00 UTC
+**Generated at:** 2026-02-11T03:43+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-10T03:46+00:00 UTC): 1
-Help us welcome: rls_audit_probe_DELETE_ME
+🚀 New to ZcashMe (last 24h since 2026-02-11T03:43+00:00 UTC): 2
+Help us welcome: @ndyfox
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- rls_audit_probe_DELETE_ME (no handle)
+- fox (@ndyfox)
+- cipherscan (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-10T03:46+00:00 UTC): 1
-Props to: julian_abraham
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-11T03:43+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- julian_abraham (no handle) — Verified
+
 
 ---
 
