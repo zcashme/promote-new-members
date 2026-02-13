@@ -1,32 +1,33 @@
-**Generated at:** 2026-02-12T03:37+00:00 UTC
+**Generated at:** 2026-02-13T03:36+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-12T03:37+00:00 UTC): 1
-Help us welcome: l0ck
+🚀 New to ZcashMe (last 24h since 2026-02-13T03:36+00:00 UTC): 2
+Help us welcome: noob, noob
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- l0ck (no handle)
+- noob (no handle)
+- noob (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-12T03:37+00:00 UTC): 1
-Props to: l0ck
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-13T03:36+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- l0ck (no handle) — Verified
+
 
 ---
 
