@@ -1,4 +1,4 @@
-**Generated at:** 2026-02-13T03:36+00:00 UTC
+**Generated at:** 2026-02-14T03:23+00:00 UTC
 
 ---
 
@@ -6,28 +6,28 @@
 **Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-13T03:36+00:00 UTC): 2
-Help us welcome: noob, noob
+🚀 New to ZcashMe (last 24h since 2026-02-14T03:23+00:00 UTC): 2
+Help us welcome: john, anjal
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- noob (no handle)
-- noob (no handle)
+- john (no handle)
+- anjal (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-13T03:36+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-14T03:23+00:00 UTC): 1
+Props to: anjal
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- anjal (no handle) — Verified
 
 ---
 
