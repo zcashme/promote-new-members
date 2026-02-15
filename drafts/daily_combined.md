@@ -1,33 +1,35 @@
-**Generated at:** 2026-02-14T03:23+00:00 UTC
+**Generated at:** 2026-02-15T03:37+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-14T03:23+00:00 UTC): 2
-Help us welcome: john, anjal
+🚀 New to ZcashMe (last 24h since 2026-02-15T03:37+00:00 UTC): 4
+Help us welcome: ruzcash, archit, Torchablazed, balajis
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- john (no handle)
-- anjal (no handle)
+- ruzcash (no handle)
+- archit (no handle)
+- Torchablazed (no handle)
+- balajis (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-14T03:23+00:00 UTC): 1
-Props to: anjal
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-15T03:37+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- anjal (no handle) — Verified
+
 
 ---
 
