@@ -1,35 +1,32 @@
-**Generated at:** 2026-02-17T03:31+00:00 UTC
+**Generated at:** 2026-02-18T03:33+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-17T03:31+00:00 UTC): 2
-Help us welcome: mishy, SECURITY_TEST_DELETE_ME
+🚀 New to ZcashMe (last 24h since 2026-02-18T03:33+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- mishy (no handle)
-- SECURITY_TEST_DELETE_ME (no handle)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 3
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-17T03:31+00:00 UTC): 3
-Props to: mishy, Yendira Digital, SilverMarcs
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-18T03:33+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- mishy (no handle) — Verified
-- Yendira Digital (no handle) — Verified
-- SilverMarcs (no handle) — Verified
+
 
 ---
 

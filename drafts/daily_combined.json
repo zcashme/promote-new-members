@@ -1,37 +1,7 @@
 {
-  "timestamp_utc": "2026-02-17T03:31+00:00",
-  "users": [
-    {
-      "id": 2018,
-      "name": "mishy",
-      "handle": null
-    },
-    {
-      "id": 2017,
-      "name": "SECURITY_TEST_DELETE_ME",
-      "handle": null
-    }
-  ],
-  "verified": [
-    {
-      "id": 2018,
-      "name": "mishy",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 1836,
-      "name": "Yendira Digital",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 2003,
-      "name": "SilverMarcs",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-17T03:31+00:00 UTC): 2\nHelp us welcome: mishy, SECURITY_TEST_DELETE_ME\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-17T03:31+00:00 UTC): 3\nProps to: mishy, Yendira Digital, SilverMarcs\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "timestamp_utc": "2026-02-18T03:33+00:00",
+  "users": [],
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-18T03:33+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-18T03:33+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
