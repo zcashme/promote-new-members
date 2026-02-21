@@ -1,20 +1,28 @@
 {
-  "timestamp_utc": "2026-02-20T03:27+00:00",
+  "timestamp_utc": "2026-02-21T03:15+00:00",
   "users": [
     {
-      "id": 2019,
-      "name": "snrdev",
+      "id": 2023,
+      "name": "Bafo86",
+      "handle": null
+    },
+    {
+      "id": 2022,
+      "name": "zchat",
+      "handle": null
+    },
+    {
+      "id": 2021,
+      "name": "robert",
+      "handle": null
+    },
+    {
+      "id": 2020,
+      "name": "test",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 2014,
-      "name": "Torchablazed",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-20T03:27+00:00 UTC): 1\nHelp us welcome: snrdev\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-20T03:27+00:00 UTC): 1\nProps to: Torchablazed\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-21T03:15+00:00 UTC): 4\nHelp us welcome: Bafo86, zchat, robert, test\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-21T03:15+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

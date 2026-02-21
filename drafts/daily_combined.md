@@ -1,32 +1,35 @@
-**Generated at:** 2026-02-20T03:27+00:00 UTC
+**Generated at:** 2026-02-21T03:15+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-20T03:27+00:00 UTC): 1
-Help us welcome: snrdev
+🚀 New to ZcashMe (last 24h since 2026-02-21T03:15+00:00 UTC): 4
+Help us welcome: Bafo86, zchat, robert, test
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- snrdev (no handle)
+- Bafo86 (no handle)
+- zchat (no handle)
+- robert (no handle)
+- test (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-20T03:27+00:00 UTC): 1
-Props to: Torchablazed
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-21T03:15+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Torchablazed (no handle) — Verified
+
 
 ---
 
