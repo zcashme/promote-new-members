@@ -1,21 +1,18 @@
-**Generated at:** 2026-02-21T03:15+00:00 UTC
+**Generated at:** 2026-02-22T03:31+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 4
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-21T03:15+00:00 UTC): 4
-Help us welcome: Bafo86, zchat, robert, test
+🚀 New to ZcashMe (last 24h since 2026-02-22T03:31+00:00 UTC): 1
+Help us welcome: marty
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Bafo86 (no handle)
-- zchat (no handle)
-- robert (no handle)
-- test (no handle)
+- marty (no handle)
 
 ---
 
@@ -23,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-21T03:15+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-22T03:31+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
