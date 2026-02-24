@@ -1,18 +1,18 @@
-**Generated at:** 2026-02-23T03:35+00:00 UTC
+**Generated at:** 2026-02-24T03:31+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-23T03:35+00:00 UTC): 1
-Help us welcome: Zodler
+🚀 New to ZcashMe (last 24h since 2026-02-24T03:31+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Zodler (no handle)
+
 
 ---
 
@@ -20,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-23T03:35+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-24T03:31+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
