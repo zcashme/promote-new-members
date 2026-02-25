@@ -1,7 +1,113 @@
 {
-  "timestamp_utc": "2026-02-24T03:31+00:00",
-  "users": [],
+  "timestamp_utc": "2026-02-25T03:31+00:00",
+  "users": [
+    {
+      "id": 2047,
+      "name": "Rey69",
+      "handle": null
+    },
+    {
+      "id": 2046,
+      "name": "ale",
+      "handle": null
+    },
+    {
+      "id": 2045,
+      "name": "Josh",
+      "handle": null
+    },
+    {
+      "id": 2044,
+      "name": "saidur",
+      "handle": null
+    },
+    {
+      "id": 2043,
+      "name": "SmidgenPoP",
+      "handle": null
+    },
+    {
+      "id": 2042,
+      "name": "D_quixote37",
+      "handle": "D_quixote37"
+    },
+    {
+      "id": 2041,
+      "name": "Iwansurya",
+      "handle": null
+    },
+    {
+      "id": 2040,
+      "name": "TaufikJF",
+      "handle": null
+    },
+    {
+      "id": 2039,
+      "name": "gabogabriel",
+      "handle": null
+    },
+    {
+      "id": 2038,
+      "name": "Irenitty",
+      "handle": null
+    },
+    {
+      "id": 2037,
+      "name": "Chasers",
+      "handle": null
+    },
+    {
+      "id": 2036,
+      "name": "baker",
+      "handle": null
+    },
+    {
+      "id": 2035,
+      "name": "INDISPENSABLE",
+      "handle": null
+    },
+    {
+      "id": 2034,
+      "name": "Gandinaaay",
+      "handle": null
+    },
+    {
+      "id": 2033,
+      "name": "johnnyonline",
+      "handle": null
+    },
+    {
+      "id": 2032,
+      "name": "Neozyx",
+      "handle": "Neozyx21"
+    },
+    {
+      "id": 2031,
+      "name": "Gonzebei",
+      "handle": "0xmikedubo"
+    },
+    {
+      "id": 2030,
+      "name": "periagoge",
+      "handle": null
+    },
+    {
+      "id": 2029,
+      "name": "Jay",
+      "handle": null
+    },
+    {
+      "id": 2028,
+      "name": "NotNakamoto",
+      "handle": null
+    },
+    {
+      "id": 2027,
+      "name": "marc",
+      "handle": null
+    }
+  ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-24T03:31+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-24T03:31+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 21\nHelp us welcome: @D_quixote37, @Neozyx21, @0xmikedubo\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

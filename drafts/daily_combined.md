@@ -1,18 +1,38 @@
-**Generated at:** 2026-02-24T03:31+00:00 UTC
+**Generated at:** 2026-02-25T03:31+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 21
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-24T03:31+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 21
+Help us welcome: @D_quixote37, @Neozyx21, @0xmikedubo
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- Rey69 (no handle)
+- ale (no handle)
+- Josh (no handle)
+- saidur (no handle)
+- SmidgenPoP (no handle)
+- D_quixote37 (@D_quixote37)
+- Iwansurya (no handle)
+- TaufikJF (no handle)
+- gabogabriel (no handle)
+- Irenitty (no handle)
+- Chasers (no handle)
+- baker (no handle)
+- INDISPENSABLE (no handle)
+- Gandinaaay (no handle)
+- johnnyonline (no handle)
+- Neozyx (@Neozyx21)
+- Gonzebei (@0xmikedubo)
+- periagoge (no handle)
+- Jay (no handle)
+- NotNakamoto (no handle)
+- marc (no handle)
 
 ---
 
@@ -20,7 +40,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-24T03:31+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
