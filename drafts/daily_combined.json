@@ -1,113 +1,70 @@
 {
-  "timestamp_utc": "2026-02-25T03:31+00:00",
+  "timestamp_utc": "2026-02-26T03:28+00:00",
   "users": [
     {
-      "id": 2047,
-      "name": "Rey69",
+      "id": 2057,
+      "name": "Sheckler7",
       "handle": null
     },
     {
-      "id": 2046,
-      "name": "ale",
+      "id": 2056,
+      "name": "jangle",
       "handle": null
     },
     {
-      "id": 2045,
-      "name": "Josh",
+      "id": 2055,
+      "name": "remedy",
       "handle": null
     },
     {
-      "id": 2044,
-      "name": "saidur",
+      "id": 2054,
+      "name": "Polartek",
       "handle": null
     },
     {
-      "id": 2043,
-      "name": "SmidgenPoP",
+      "id": 2053,
+      "name": "Austinoneto",
       "handle": null
     },
     {
-      "id": 2042,
-      "name": "D_quixote37",
-      "handle": "D_quixote37"
-    },
-    {
-      "id": 2041,
-      "name": "Iwansurya",
+      "id": 2052,
+      "name": "Boni__",
       "handle": null
     },
     {
-      "id": 2040,
-      "name": "TaufikJF",
+      "id": 2051,
+      "name": "sheckler",
       "handle": null
     },
     {
-      "id": 2039,
-      "name": "gabogabriel",
-      "handle": null
-    },
-    {
-      "id": 2038,
-      "name": "Irenitty",
-      "handle": null
-    },
-    {
-      "id": 2037,
-      "name": "Chasers",
-      "handle": null
-    },
-    {
-      "id": 2036,
-      "name": "baker",
-      "handle": null
-    },
-    {
-      "id": 2035,
-      "name": "INDISPENSABLE",
-      "handle": null
-    },
-    {
-      "id": 2034,
-      "name": "Gandinaaay",
-      "handle": null
-    },
-    {
-      "id": 2033,
-      "name": "johnnyonline",
-      "handle": null
-    },
-    {
-      "id": 2032,
-      "name": "Neozyx",
-      "handle": "Neozyx21"
-    },
-    {
-      "id": 2031,
-      "name": "Gonzebei",
-      "handle": "0xmikedubo"
-    },
-    {
-      "id": 2030,
-      "name": "periagoge",
-      "handle": null
-    },
-    {
-      "id": 2029,
+      "id": 2050,
       "name": "Jay",
       "handle": null
     },
     {
-      "id": 2028,
-      "name": "NotNakamoto",
+      "id": 2049,
+      "name": "sanadayuki88531",
       "handle": null
     },
     {
-      "id": 2027,
-      "name": "marc",
+      "id": 2048,
+      "name": "btcalm",
+      "handle": null
+    },
+    {
+      "id": 2047,
+      "name": "Rey69",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 21\nHelp us welcome: @D_quixote37, @Neozyx21, @0xmikedubo\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 1772,
+      "name": "julian_abraham",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-26T03:28+00:00 UTC): 11\nHelp us welcome: Sheckler7, jangle, remedy, Polartek, Austinoneto, Boni__, sheckler, Jay, sanadayuki88531, btcalm, Rey69\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-26T03:28+00:00 UTC): 1\nProps to: julian_abraham\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

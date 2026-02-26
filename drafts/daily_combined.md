@@ -1,52 +1,42 @@
-**Generated at:** 2026-02-25T03:31+00:00 UTC
+**Generated at:** 2026-02-26T03:28+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 21
+**Count:** 11
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 21
-Help us welcome: @D_quixote37, @Neozyx21, @0xmikedubo
+🚀 New to ZcashMe (last 24h since 2026-02-26T03:28+00:00 UTC): 11
+Help us welcome: Sheckler7, jangle, remedy, Polartek, Austinoneto, Boni__, sheckler, Jay, sanadayuki88531, btcalm, Rey69
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Rey69 (no handle)
-- ale (no handle)
-- Josh (no handle)
-- saidur (no handle)
-- SmidgenPoP (no handle)
-- D_quixote37 (@D_quixote37)
-- Iwansurya (no handle)
-- TaufikJF (no handle)
-- gabogabriel (no handle)
-- Irenitty (no handle)
-- Chasers (no handle)
-- baker (no handle)
-- INDISPENSABLE (no handle)
-- Gandinaaay (no handle)
-- johnnyonline (no handle)
-- Neozyx (@Neozyx21)
-- Gonzebei (@0xmikedubo)
-- periagoge (no handle)
+- Sheckler7 (no handle)
+- jangle (no handle)
+- remedy (no handle)
+- Polartek (no handle)
+- Austinoneto (no handle)
+- Boni__ (no handle)
+- sheckler (no handle)
 - Jay (no handle)
-- NotNakamoto (no handle)
-- marc (no handle)
+- sanadayuki88531 (no handle)
+- btcalm (no handle)
+- Rey69 (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-25T03:31+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-26T03:28+00:00 UTC): 1
+Props to: julian_abraham
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- julian_abraham (no handle) — Verified
 
 ---
 
