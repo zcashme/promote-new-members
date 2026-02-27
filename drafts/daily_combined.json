@@ -1,70 +1,13 @@
 {
-  "timestamp_utc": "2026-02-26T03:28+00:00",
+  "timestamp_utc": "2026-02-27T03:25+00:00",
   "users": [
     {
-      "id": 2057,
-      "name": "Sheckler7",
-      "handle": null
-    },
-    {
-      "id": 2056,
-      "name": "jangle",
-      "handle": null
-    },
-    {
-      "id": 2055,
-      "name": "remedy",
-      "handle": null
-    },
-    {
-      "id": 2054,
-      "name": "Polartek",
-      "handle": null
-    },
-    {
-      "id": 2053,
-      "name": "Austinoneto",
-      "handle": null
-    },
-    {
-      "id": 2052,
-      "name": "Boni__",
-      "handle": null
-    },
-    {
-      "id": 2051,
-      "name": "sheckler",
-      "handle": null
-    },
-    {
-      "id": 2050,
-      "name": "Jay",
-      "handle": null
-    },
-    {
-      "id": 2049,
-      "name": "sanadayuki88531",
-      "handle": null
-    },
-    {
-      "id": 2048,
-      "name": "btcalm",
-      "handle": null
-    },
-    {
-      "id": 2047,
-      "name": "Rey69",
-      "handle": null
+      "id": 2058,
+      "name": "Z3cb4",
+      "handle": "X_sharkbnb"
     }
   ],
-  "verified": [
-    {
-      "id": 1772,
-      "name": "julian_abraham",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-26T03:28+00:00 UTC): 11\nHelp us welcome: Sheckler7, jangle, remedy, Polartek, Austinoneto, Boni__, sheckler, Jay, sanadayuki88531, btcalm, Rey69\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-26T03:28+00:00 UTC): 1\nProps to: julian_abraham\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-02-27T03:25+00:00 UTC): 1\nHelp us welcome: @X_sharkbnb\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-02-27T03:25+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
