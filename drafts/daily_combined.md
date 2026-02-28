@@ -1,4 +1,4 @@
-**Generated at:** 2026-02-27T03:25+00:00 UTC
+**Generated at:** 2026-02-28T03:05+00:00 UTC
 
 ---
 
@@ -6,27 +6,29 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-02-27T03:25+00:00 UTC): 1
-Help us welcome: @X_sharkbnb
+🚀 New to ZcashMe (last 24h since 2026-02-28T03:05+00:00 UTC): 1
+Help us welcome: orb
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Z3cb4 (@X_sharkbnb)
+- orb (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 3
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-02-27T03:25+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-02-28T03:05+00:00 UTC): 3
+Props to: SaveZcash, Gonzebei, julian_abraham
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- SaveZcash (no handle) — Verified
+- Gonzebei (no handle) — Verified
+- julian_abraham (no handle) — Verified
 
 ---
 
