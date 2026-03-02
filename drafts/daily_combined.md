@@ -1,32 +1,33 @@
-**Generated at:** 2026-03-01T03:37+00:00 UTC
+**Generated at:** 2026-03-02T03:26+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-01T03:37+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-03-02T03:26+00:00 UTC): 1
+Help us welcome: f
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- f (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-01T03:37+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-02T03:26+00:00 UTC): 2
+Props to: zechariah, ZecFiCapital
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- zechariah (no handle) — Verified
+- ZecFiCapital (no handle) — Verified
 
 ---
 
