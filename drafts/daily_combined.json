@@ -1,13 +1,18 @@
 {
-  "timestamp_utc": "2026-03-03T03:29+00:00",
+  "timestamp_utc": "2026-03-04T03:21+00:00",
   "users": [
     {
-      "id": 2061,
-      "name": "OBA",
-      "handle": "iamarctyxian"
+      "id": 2063,
+      "name": "John",
+      "handle": null
+    },
+    {
+      "id": 2062,
+      "name": "Mon3tiz3",
+      "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-03T03:29+00:00 UTC): 1\nHelp us welcome: @iamarctyxian\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-03T03:29+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-04T03:21+00:00 UTC): 2\nHelp us welcome: John, Mon3tiz3\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-04T03:21+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
