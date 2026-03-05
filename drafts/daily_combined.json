@@ -1,18 +1,28 @@
 {
-  "timestamp_utc": "2026-03-04T03:21+00:00",
+  "timestamp_utc": "2026-03-05T03:24+00:00",
   "users": [
     {
-      "id": 2063,
+      "id": 2067,
       "name": "John",
       "handle": null
     },
     {
-      "id": 2062,
-      "name": "Mon3tiz3",
+      "id": 2066,
+      "name": "usdt_exchange",
+      "handle": "USDT_Exchange"
+    },
+    {
+      "id": 2065,
+      "name": "John",
+      "handle": null
+    },
+    {
+      "id": 2064,
+      "name": "John",
       "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-04T03:21+00:00 UTC): 2\nHelp us welcome: John, Mon3tiz3\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-04T03:21+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-05T03:24+00:00 UTC): 4\nHelp us welcome: @USDT_Exchange\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-05T03:24+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
