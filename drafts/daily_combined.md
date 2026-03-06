@@ -1,35 +1,32 @@
-**Generated at:** 2026-03-05T03:24+00:00 UTC
+**Generated at:** 2026-03-06T03:23+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 4
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-05T03:24+00:00 UTC): 4
-Help us welcome: @USDT_Exchange
+🚀 New to ZcashMe (last 24h since 2026-03-06T03:23+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- John (no handle)
-- usdt_exchange (@USDT_Exchange)
-- John (no handle)
-- John (no handle)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-05T03:24+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-06T03:23+00:00 UTC): 1
+Props to: Mark
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- Mark (no handle) — Verified
 
 ---
 
