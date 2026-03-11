@@ -1,33 +1,40 @@
-**Generated at:** 2026-03-10T03:22+00:00 UTC
+**Generated at:** 2026-03-11T03:21+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 7
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-10T03:22+00:00 UTC): 2
-Help us welcome: Roundlyio, Konvalut
+🚀 New to ZcashMe (last 24h since 2026-03-11T03:21+00:00 UTC): 7
+Help us welcome: @tx_track, @0xmrtweet
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Roundlyio (no handle)
-- Konvalut (no handle)
+- promptedoutcomes (no handle)
+- lana (@tx_track)
+- beggar (no handle)
+- claw (no handle)
+- amin (no handle)
+- david (no handle)
+- truepower (@0xmrtweet)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 3
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-10T03:22+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-11T03:21+00:00 UTC): 3
+Props to: @tx_track
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- SaveZcash (no handle) — Verified
+- david (no handle) — Verified
+- lana (@tx_track) — Verified
 
 ---
 

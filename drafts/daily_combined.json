@@ -1,18 +1,62 @@
 {
-  "timestamp_utc": "2026-03-10T03:22+00:00",
+  "timestamp_utc": "2026-03-11T03:21+00:00",
   "users": [
     {
-      "id": 2070,
-      "name": "Roundlyio",
+      "id": 2077,
+      "name": "promptedoutcomes",
       "handle": null
     },
     {
-      "id": 2069,
-      "name": "Konvalut",
+      "id": 2076,
+      "name": "lana",
+      "handle": "tx_track"
+    },
+    {
+      "id": 2075,
+      "name": "beggar",
       "handle": null
+    },
+    {
+      "id": 2074,
+      "name": "claw",
+      "handle": null
+    },
+    {
+      "id": 2073,
+      "name": "amin",
+      "handle": null
+    },
+    {
+      "id": 2072,
+      "name": "david",
+      "handle": null
+    },
+    {
+      "id": 2071,
+      "name": "truepower",
+      "handle": "0xmrtweet"
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-10T03:22+00:00 UTC): 2\nHelp us welcome: Roundlyio, Konvalut\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-10T03:22+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 15,
+      "name": "SaveZcash",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2072,
+      "name": "david",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2076,
+      "name": "lana",
+      "handle": "tx_track",
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-11T03:21+00:00 UTC): 7\nHelp us welcome: @tx_track, @0xmrtweet\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-11T03:21+00:00 UTC): 3\nProps to: @tx_track\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
