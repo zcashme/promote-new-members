@@ -1,32 +1,34 @@
-**Generated at:** 2026-03-12T03:28+00:00 UTC
+**Generated at:** 2026-03-13T03:24+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-12T03:28+00:00 UTC): 1
-Help us welcome: Ifocusdesign
+🚀 New to ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 3
+Help us welcome: hal, nick, Archit
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Ifocusdesign (no handle)
+- hal (no handle)
+- nick (no handle)
+- Archit (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-12T03:28+00:00 UTC): 1
-Props to: cryptonzkie
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- cryptonzkie (no handle) — Verified
+
 
 ---
 

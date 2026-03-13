@@ -1,20 +1,23 @@
 {
-  "timestamp_utc": "2026-03-12T03:28+00:00",
+  "timestamp_utc": "2026-03-13T03:24+00:00",
   "users": [
     {
-      "id": 2078,
-      "name": "Ifocusdesign",
+      "id": 2081,
+      "name": "hal",
+      "handle": null
+    },
+    {
+      "id": 2080,
+      "name": "nick",
+      "handle": null
+    },
+    {
+      "id": 2079,
+      "name": "Archit",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 1845,
-      "name": "cryptonzkie",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-12T03:28+00:00 UTC): 1\nHelp us welcome: Ifocusdesign\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-12T03:28+00:00 UTC): 1\nProps to: cryptonzkie\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 3\nHelp us welcome: hal, nick, Archit\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
