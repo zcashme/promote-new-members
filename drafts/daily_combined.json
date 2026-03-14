@@ -1,23 +1,46 @@
 {
-  "timestamp_utc": "2026-03-13T03:24+00:00",
+  "timestamp_utc": "2026-03-14T03:22+00:00",
   "users": [
     {
-      "id": 2081,
-      "name": "hal",
+      "id": 2086,
+      "name": "nium_aftw",
       "handle": null
     },
     {
-      "id": 2080,
-      "name": "nick",
+      "id": 2085,
+      "name": "azizah08",
       "handle": null
     },
     {
-      "id": 2079,
-      "name": "Archit",
+      "id": 2084,
+      "name": "uzaxirr",
+      "handle": "uzaxirr"
+    },
+    {
+      "id": 2083,
+      "name": "jp4g",
+      "handle": null
+    },
+    {
+      "id": 2082,
+      "name": "nyah",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 3\nHelp us welcome: hal, nick, Archit\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 2078,
+      "name": "Ifocusdesign",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2083,
+      "name": "jp4g",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-14T03:22+00:00 UTC): 5\nHelp us welcome: @uzaxirr\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-14T03:22+00:00 UTC): 2\nProps to: Ifocusdesign, jp4g\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

@@ -1,34 +1,37 @@
-**Generated at:** 2026-03-13T03:24+00:00 UTC
+**Generated at:** 2026-03-14T03:22+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 5
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 3
-Help us welcome: hal, nick, Archit
+🚀 New to ZcashMe (last 24h since 2026-03-14T03:22+00:00 UTC): 5
+Help us welcome: @uzaxirr
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- hal (no handle)
-- nick (no handle)
-- Archit (no handle)
+- nium_aftw (no handle)
+- azizah08 (no handle)
+- uzaxirr (@uzaxirr)
+- jp4g (no handle)
+- nyah (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-13T03:24+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-14T03:22+00:00 UTC): 2
+Props to: Ifocusdesign, jp4g
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- Ifocusdesign (no handle) — Verified
+- jp4g (no handle) — Verified
 
 ---
 
