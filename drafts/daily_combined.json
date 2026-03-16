@@ -1,18 +1,43 @@
 {
-  "timestamp_utc": "2026-03-15T03:46+00:00",
+  "timestamp_utc": "2026-03-16T03:50+00:00",
   "users": [
     {
-      "id": 2088,
-      "name": "Izem",
+      "id": 2095,
+      "name": "tengen",
       "handle": null
     },
     {
-      "id": 2087,
-      "name": "itsmaeri",
+      "id": 2094,
+      "name": "Youngestxchange",
+      "handle": null
+    },
+    {
+      "id": 2093,
+      "name": "S3fBz",
+      "handle": null
+    },
+    {
+      "id": 2092,
+      "name": "Lourdhartz",
+      "handle": null
+    },
+    {
+      "id": 2091,
+      "name": "Lydia",
+      "handle": "0xlydia_"
+    },
+    {
+      "id": 2090,
+      "name": "Ofure_Eth",
+      "handle": null
+    },
+    {
+      "id": 2089,
+      "name": "azizah",
       "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-15T03:46+00:00 UTC): 2\nHelp us welcome: Izem, itsmaeri\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-15T03:46+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-16T03:50+00:00 UTC): 7\nHelp us welcome: @0xlydia_\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-16T03:50+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
