@@ -1,43 +1,48 @@
 {
-  "timestamp_utc": "2026-03-16T03:50+00:00",
+  "timestamp_utc": "2026-03-17T03:28+00:00",
   "users": [
     {
-      "id": 2095,
-      "name": "tengen",
+      "id": 2098,
+      "name": "vibes",
       "handle": null
     },
     {
-      "id": 2094,
-      "name": "Youngestxchange",
+      "id": 2097,
+      "name": "oro",
       "handle": null
     },
     {
-      "id": 2093,
-      "name": "S3fBz",
-      "handle": null
-    },
-    {
-      "id": 2092,
-      "name": "Lourdhartz",
-      "handle": null
-    },
-    {
-      "id": 2091,
-      "name": "Lydia",
-      "handle": "0xlydia_"
-    },
-    {
-      "id": 2090,
-      "name": "Ofure_Eth",
-      "handle": null
-    },
-    {
-      "id": 2089,
-      "name": "azizah",
-      "handle": null
+      "id": 2096,
+      "name": "Xzlab",
+      "handle": "Xzlab"
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-16T03:50+00:00 UTC): 7\nHelp us welcome: @0xlydia_\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-16T03:50+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 118,
+      "name": "jenkin",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2083,
+      "name": "jp4g",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 332,
+      "name": "UknowZork",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1814,
+      "name": "zombiecash",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-03-17T03:28+00:00 UTC): 3\nHelp us welcome: @Xzlab\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-03-17T03:28+00:00 UTC): 4\nProps to: jenkin, jp4g, UknowZork, zombiecash\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

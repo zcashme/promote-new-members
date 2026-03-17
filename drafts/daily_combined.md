@@ -1,38 +1,37 @@
-**Generated at:** 2026-03-16T03:50+00:00 UTC
+**Generated at:** 2026-03-17T03:28+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 7
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-16T03:50+00:00 UTC): 7
-Help us welcome: @0xlydia_
+🚀 New to ZcashMe (last 24h since 2026-03-17T03:28+00:00 UTC): 3
+Help us welcome: @Xzlab
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- tengen (no handle)
-- Youngestxchange (no handle)
-- S3fBz (no handle)
-- Lourdhartz (no handle)
-- Lydia (@0xlydia_)
-- Ofure_Eth (no handle)
-- azizah (no handle)
+- vibes (no handle)
+- oro (no handle)
+- Xzlab (@Xzlab)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 4
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-16T03:50+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-17T03:28+00:00 UTC): 4
+Props to: jenkin, jp4g, UknowZork, zombiecash
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- jenkin (no handle) — Verified
+- jp4g (no handle) — Verified
+- UknowZork (no handle) — Verified
+- zombiecash (no handle) — Verified
 
 ---
 
