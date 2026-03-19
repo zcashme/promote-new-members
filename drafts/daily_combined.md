@@ -1,35 +1,33 @@
-**Generated at:** 2026-03-18T03:35+00:00 UTC
+**Generated at:** 2026-03-19T03:35+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-18T03:35+00:00 UTC): 3
-Help us welcome: shieldedpool, nick, polystate
+🚀 New to ZcashMe (last 24h since 2026-03-19T03:35+00:00 UTC): 2
+Help us welcome: Peace, shawnmuggle
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- shieldedpool (no handle)
-- nick (no handle)
-- polystate (no handle)
+- Peace (no handle)
+- shawnmuggle (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-18T03:35+00:00 UTC): 2
-Props to: david, polystate
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-19T03:35+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- david (no handle) — Verified
-- polystate (no handle) — Verified
+
 
 ---
 
