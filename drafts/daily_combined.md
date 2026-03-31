@@ -1,18 +1,20 @@
-**Generated at:** 2026-03-30T03:55+00:00 UTC
+**Generated at:** 2026-03-31T03:46+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-30T03:55+00:00 UTC): 1
-Help us welcome: keiara_d
+🚀 New to ZcashMe (last 24h since 2026-03-31T03:46+00:00 UTC): 3
+Help us welcome: mgf, Cb43th, lumbung
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- keiara_d (no handle)
+- mgf (no handle)
+- Cb43th (no handle)
+- lumbung (no handle)
 
 ---
 
@@ -20,13 +22,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-30T03:55+00:00 UTC): 1
-Props to: 1337bytes
+🔐 Newly verified on ZcashMe (last 24h since 2026-03-31T03:46+00:00 UTC): 1
+Props to: shawnmuggle
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- 1337bytes (no handle) — Verified
+- shawnmuggle (no handle) — Verified
 
 ---
 
