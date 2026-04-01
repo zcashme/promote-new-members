@@ -1,4 +1,4 @@
-**Generated at:** 2026-03-31T03:46+00:00 UTC
+**Generated at:** 2026-04-01T03:57+00:00 UTC
 
 ---
 
@@ -6,29 +6,30 @@
 **Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-03-31T03:46+00:00 UTC): 3
-Help us welcome: mgf, Cb43th, lumbung
+🚀 New to ZcashMe (last 24h since 2026-04-01T03:57+00:00 UTC): 3
+Help us welcome: xsstest1774988798632, xsstest1774988780833, konvalut
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- mgf (no handle)
-- Cb43th (no handle)
-- lumbung (no handle)
+- xsstest1774988798632 (no handle)
+- xsstest1774988780833 (no handle)
+- konvalut (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-03-31T03:46+00:00 UTC): 1
-Props to: shawnmuggle
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-01T03:57+00:00 UTC): 2
+Props to: Rothbard, 0
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- shawnmuggle (no handle) — Verified
+- Rothbard (no handle) — Verified
+- 0 (no handle) — Verified
 
 ---
 
