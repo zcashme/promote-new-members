@@ -1,36 +1,18 @@
 {
-  "timestamp_utc": "2026-04-01T03:57+00:00",
+  "timestamp_utc": "2026-04-02T03:39+00:00",
   "users": [
     {
-      "id": 2116,
-      "name": "xsstest1774988798632",
+      "id": 2118,
+      "name": "chipprbots",
       "handle": null
     },
     {
-      "id": 2115,
-      "name": "xsstest1774988780833",
-      "handle": null
-    },
-    {
-      "id": 2114,
-      "name": "konvalut",
+      "id": 2117,
+      "name": "joris",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 61,
-      "name": "Rothbard",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 245,
-      "name": "0",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-01T03:57+00:00 UTC): 3\nHelp us welcome: xsstest1774988798632, xsstest1774988780833, konvalut\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-01T03:57+00:00 UTC): 2\nProps to: Rothbard, 0\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-02T03:39+00:00 UTC): 2\nHelp us welcome: chipprbots, joris\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-02T03:39+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
