@@ -1,18 +1,81 @@
 {
-  "timestamp_utc": "2026-04-02T03:39+00:00",
+  "timestamp_utc": "2026-04-03T03:41+00:00",
   "users": [
     {
-      "id": 2118,
-      "name": "chipprbots",
+      "id": 2124,
+      "name": "zkradio",
       "handle": null
     },
     {
-      "id": 2117,
-      "name": "joris",
+      "id": 2123,
+      "name": "Zooko",
+      "handle": null
+    },
+    {
+      "id": 2122,
+      "name": "kylyok",
+      "handle": null
+    },
+    {
+      "id": 2121,
+      "name": "ZK-POP",
+      "handle": null
+    },
+    {
+      "id": 2120,
+      "name": "gordonestv",
+      "handle": null
+    },
+    {
+      "id": 2119,
+      "name": "robmarn",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-02T03:39+00:00 UTC): 2\nHelp us welcome: chipprbots, joris\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-02T03:39+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 1307,
+      "name": "Yoditar",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2119,
+      "name": "robmarn",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2120,
+      "name": "gordonestv",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 377,
+      "name": "Asia",
+      "handle": "axelbuddy",
+      "method": "Verified"
+    },
+    {
+      "id": 2124,
+      "name": "zkradio",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 415,
+      "name": "zechariah",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1772,
+      "name": "julian_abraham",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-03T03:41+00:00 UTC): 6\nHelp us welcome: zkradio, Zooko, kylyok, ZK-POP, gordonestv, robmarn\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-03T03:41+00:00 UTC): 7\nProps to: @axelbuddy\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
