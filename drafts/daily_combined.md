@@ -1,43 +1,33 @@
-**Generated at:** 2026-04-03T03:41+00:00 UTC
+**Generated at:** 2026-04-04T03:28+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 6
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-03T03:41+00:00 UTC): 6
-Help us welcome: zkradio, Zooko, kylyok, ZK-POP, gordonestv, robmarn
+🚀 New to ZcashMe (last 24h since 2026-04-04T03:28+00:00 UTC): 2
+Help us welcome: Nerd, Gilmar
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- zkradio (no handle)
-- Zooko (no handle)
-- kylyok (no handle)
-- ZK-POP (no handle)
-- gordonestv (no handle)
-- robmarn (no handle)
+- Nerd (no handle)
+- Gilmar (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 7
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-03T03:41+00:00 UTC): 7
-Props to: @axelbuddy
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-04T03:28+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Yoditar (no handle) — Verified
-- robmarn (no handle) — Verified
-- gordonestv (no handle) — Verified
-- Asia (@axelbuddy) — Verified
-- zkradio (no handle) — Verified
-- zechariah (no handle) — Verified
-- julian_abraham (no handle) — Verified
+
 
 ---
 
