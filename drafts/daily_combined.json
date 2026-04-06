@@ -1,18 +1,31 @@
 {
-  "timestamp_utc": "2026-04-05T03:50+00:00",
+  "timestamp_utc": "2026-04-06T03:54+00:00",
   "users": [
     {
-      "id": 2128,
-      "name": "CoGiC",
+      "id": 2130,
+      "name": "zaynrae05",
       "handle": null
     },
     {
-      "id": 2127,
-      "name": "CoGiCzcash",
+      "id": 2129,
+      "name": "ZKPOP",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-05T03:50+00:00 UTC): 2\nHelp us welcome: CoGiC, CoGiCzcash\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-05T03:50+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 2129,
+      "name": "ZKPOP",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2086,
+      "name": "nium_aftw",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-06T03:54+00:00 UTC): 2\nHelp us welcome: zaynrae05, ZKPOP\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-06T03:54+00:00 UTC): 2\nProps to: ZKPOP, nium_aftw\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
