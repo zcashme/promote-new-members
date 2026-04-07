@@ -1,34 +1,32 @@
-**Generated at:** 2026-04-06T03:54+00:00 UTC
+**Generated at:** 2026-04-07T03:45+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-06T03:54+00:00 UTC): 2
-Help us welcome: zaynrae05, ZKPOP
+🚀 New to ZcashMe (last 24h since 2026-04-07T03:45+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- zaynrae05 (no handle)
-- ZKPOP (no handle)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-06T03:54+00:00 UTC): 2
-Props to: ZKPOP, nium_aftw
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-07T03:45+00:00 UTC): 1
+Props to: Blakiat
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- ZKPOP (no handle) — Verified
-- nium_aftw (no handle) — Verified
+- Blakiat (no handle) — Verified
 
 ---
 
