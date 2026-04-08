@@ -1,14 +1,79 @@
 {
-  "timestamp_utc": "2026-04-07T03:45+00:00",
-  "users": [],
+  "timestamp_utc": "2026-04-08T03:47+00:00",
+  "users": [
+    {
+      "id": 2138,
+      "name": "Gummi",
+      "handle": null
+    },
+    {
+      "id": 2137,
+      "name": "whale",
+      "handle": null
+    },
+    {
+      "id": 2136,
+      "name": "Lowo",
+      "handle": null
+    },
+    {
+      "id": 2135,
+      "name": "ezec",
+      "handle": null
+    },
+    {
+      "id": 2134,
+      "name": "mrkit2u",
+      "handle": null
+    },
+    {
+      "id": 2133,
+      "name": "Zebediah",
+      "handle": null
+    },
+    {
+      "id": 2132,
+      "name": "nullcopy",
+      "handle": null
+    },
+    {
+      "id": 2131,
+      "name": "gorusys",
+      "handle": null
+    }
+  ],
   "verified": [
     {
-      "id": 1809,
-      "name": "Blakiat",
+      "id": 1599,
+      "name": "Anchor",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2131,
+      "name": "gorusys",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2132,
+      "name": "nullcopy",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2133,
+      "name": "Zebediah",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2135,
+      "name": "ezec",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-07T03:45+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-07T03:45+00:00 UTC): 1\nProps to: Blakiat\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-08T03:47+00:00 UTC): 8\nHelp us welcome: Gummi, whale, Lowo, ezec, mrkit2u, Zebediah, nullcopy, gorusys\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-08T03:47+00:00 UTC): 5\nProps to: Anchor, gorusys, nullcopy, Zebediah, ezec\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
