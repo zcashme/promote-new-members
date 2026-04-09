@@ -1,43 +1,34 @@
-**Generated at:** 2026-04-08T03:47+00:00 UTC
+**Generated at:** 2026-04-09T03:42+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 8
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-08T03:47+00:00 UTC): 8
-Help us welcome: Gummi, whale, Lowo, ezec, mrkit2u, Zebediah, nullcopy, gorusys
+🚀 New to ZcashMe (last 24h since 2026-04-09T03:42+00:00 UTC): 2
+Help us welcome: ZNSintern, zcashnames
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Gummi (no handle)
-- whale (no handle)
-- Lowo (no handle)
-- ezec (no handle)
-- mrkit2u (no handle)
-- Zebediah (no handle)
-- nullcopy (no handle)
-- gorusys (no handle)
+- ZNSintern (no handle)
+- zcashnames (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 5
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-08T03:47+00:00 UTC): 5
-Props to: Anchor, gorusys, nullcopy, Zebediah, ezec
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-09T03:42+00:00 UTC): 2
+Props to: zcashnames, ZNSintern
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Anchor (no handle) — Verified
-- gorusys (no handle) — Verified
-- nullcopy (no handle) — Verified
-- Zebediah (no handle) — Verified
-- ezec (no handle) — Verified
+- zcashnames (no handle) — Verified
+- ZNSintern (no handle) — Verified
 
 ---
 
