@@ -1,19 +1,18 @@
-**Generated at:** 2026-04-09T03:42+00:00 UTC
+**Generated at:** 2026-04-10T03:55+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-09T03:42+00:00 UTC): 2
-Help us welcome: ZNSintern, zcashnames
+🚀 New to ZcashMe (last 24h since 2026-04-10T03:55+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- ZNSintern (no handle)
-- zcashnames (no handle)
+
 
 ---
 
@@ -21,14 +20,14 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-09T03:42+00:00 UTC): 2
-Props to: zcashnames, ZNSintern
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-10T03:55+00:00 UTC): 2
+Props to: keiara_d, Zilin
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zcashnames (no handle) — Verified
-- ZNSintern (no handle) — Verified
+- keiara_d (no handle) — Verified
+- Zilin (no handle) — Verified
 
 ---
 
