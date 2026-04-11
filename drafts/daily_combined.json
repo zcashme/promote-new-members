@@ -1,20 +1,7 @@
 {
-  "timestamp_utc": "2026-04-10T03:55+00:00",
+  "timestamp_utc": "2026-04-11T03:32+00:00",
   "users": [],
-  "verified": [
-    {
-      "id": 2110,
-      "name": "keiara_d",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 685,
-      "name": "Zilin",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-10T03:55+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-10T03:55+00:00 UTC): 2\nProps to: keiara_d, Zilin\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-11T03:32+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-11T03:32+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
