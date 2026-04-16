@@ -1,32 +1,33 @@
-**Generated at:** 2026-04-15T03:55+00:00 UTC
+**Generated at:** 2026-04-16T04:10+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-15T03:55+00:00 UTC): 1
-Help us welcome: ZcashTest
+🚀 New to ZcashMe (last 24h since 2026-04-16T04:10+00:00 UTC): 2
+Help us welcome: Oreziiy, Doctoreth
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- ZcashTest (no handle)
+- Oreziiy (no handle)
+- Doctoreth (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-15T03:55+00:00 UTC): 1
-Props to: ZcashTest
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-16T04:10+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- ZcashTest (no handle) — Verified
+
 
 ---
 
