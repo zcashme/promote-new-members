@@ -1,23 +1,18 @@
 {
-  "timestamp_utc": "2026-04-21T04:15+00:00",
+  "timestamp_utc": "2026-04-22T04:11+00:00",
   "users": [
     {
-      "id": 2150,
-      "name": "marcelo",
+      "id": 2152,
+      "name": "zaynrae",
       "handle": null
     },
     {
-      "id": 2149,
-      "name": "orchardguardian",
-      "handle": null
-    },
-    {
-      "id": 2148,
-      "name": "realist",
+      "id": 2151,
+      "name": "Althaa",
       "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-21T04:15+00:00 UTC): 3\nHelp us welcome: marcelo, orchardguardian, realist\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-21T04:15+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-22T04:11+00:00 UTC): 2\nHelp us welcome: zaynrae, Althaa\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-22T04:11+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
