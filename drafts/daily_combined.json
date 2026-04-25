@@ -1,13 +1,26 @@
 {
-  "timestamp_utc": "2026-04-24T04:20+00:00",
+  "timestamp_utc": "2026-04-25T03:55+00:00",
   "users": [
     {
-      "id": 2153,
-      "name": "Doctoreth",
-      "handle": "Cryptogalaxy254"
+      "id": 2154,
+      "name": "gaby",
+      "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-24T04:20+00:00 UTC): 1\nHelp us welcome: @Cryptogalaxy254\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-24T04:20+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 415,
+      "name": "zechariah",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 867,
+      "name": "Paul Brigner",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-25T03:55+00:00 UTC): 1\nHelp us welcome: gaby\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-25T03:55+00:00 UTC): 2\nProps to: zechariah, Paul Brigner\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

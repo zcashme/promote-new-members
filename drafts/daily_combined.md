@@ -1,4 +1,4 @@
-**Generated at:** 2026-04-24T04:20+00:00 UTC
+**Generated at:** 2026-04-25T03:55+00:00 UTC
 
 ---
 
@@ -6,27 +6,28 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-24T04:20+00:00 UTC): 1
-Help us welcome: @Cryptogalaxy254
+🚀 New to ZcashMe (last 24h since 2026-04-25T03:55+00:00 UTC): 1
+Help us welcome: gaby
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Doctoreth (@Cryptogalaxy254)
+- gaby (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-24T04:20+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-25T03:55+00:00 UTC): 2
+Props to: zechariah, Paul Brigner
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- zechariah (no handle) — Verified
+- Paul Brigner (no handle) — Verified
 
 ---
 
