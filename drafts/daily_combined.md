@@ -1,4 +1,4 @@
-**Generated at:** 2026-04-25T03:55+00:00 UTC
+**Generated at:** 2026-04-26T04:26+00:00 UTC
 
 ---
 
@@ -6,28 +6,27 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-25T03:55+00:00 UTC): 1
-Help us welcome: gaby
+🚀 New to ZcashMe (last 24h since 2026-04-26T04:26+00:00 UTC): 1
+Help us welcome: @PD_EXP
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- gaby (no handle)
+- HowlingMutant (@PD_EXP)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-25T03:55+00:00 UTC): 2
-Props to: zechariah, Paul Brigner
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-26T04:26+00:00 UTC): 1
+Props to: @PD_EXP
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zechariah (no handle) — Verified
-- Paul Brigner (no handle) — Verified
+- HowlingMutant (@PD_EXP) — Verified
 
 ---
 
