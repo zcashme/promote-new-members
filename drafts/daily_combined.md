@@ -1,20 +1,18 @@
-**Generated at:** 2026-04-28T04:38+00:00 UTC
+**Generated at:** 2026-04-29T04:34+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-04-28T04:38+00:00 UTC): 3
-Help us welcome: Glow_meta, Alpha, Althariz
+🚀 New to ZcashMe (last 24h since 2026-04-29T04:34+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Glow_meta (no handle)
-- Alpha (no handle)
-- Althariz (no handle)
+
 
 ---
 
@@ -22,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-04-28T04:38+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-04-29T04:34+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
