@@ -1,20 +1,18 @@
 {
-  "timestamp_utc": "2026-04-30T04:36+00:00",
+  "timestamp_utc": "2026-05-01T04:53+00:00",
   "users": [
     {
-      "id": 2159,
-      "name": "hello",
+      "id": 2161,
+      "name": "anter",
+      "handle": null
+    },
+    {
+      "id": 2160,
+      "name": "ruzcash",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 2159,
-      "name": "hello",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-04-30T04:36+00:00 UTC): 1\nHelp us welcome: hello\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-04-30T04:36+00:00 UTC): 1\nProps to: hello\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-01T04:53+00:00 UTC): 2\nHelp us welcome: anter, ruzcash\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-01T04:53+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
