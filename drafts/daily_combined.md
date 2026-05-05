@@ -1,19 +1,18 @@
-**Generated at:** 2026-05-04T04:44+00:00 UTC
+**Generated at:** 2026-05-05T04:20+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-04T04:44+00:00 UTC): 2
-Help us welcome: riegocss, ZEC
+🚀 New to ZcashMe (last 24h since 2026-05-05T04:20+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- riegocss (no handle)
-- ZEC (no handle)
+
 
 ---
 
@@ -21,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-04T04:44+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-05T04:20+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
