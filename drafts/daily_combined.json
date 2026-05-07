@@ -1,13 +1,20 @@
 {
-  "timestamp_utc": "2026-05-06T04:37+00:00",
+  "timestamp_utc": "2026-05-07T04:37+00:00",
   "users": [
     {
-      "id": 2170,
-      "name": "oghenekparobor",
+      "id": 2171,
+      "name": "arturh",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-06T04:37+00:00 UTC): 1\nHelp us welcome: oghenekparobor\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-06T04:37+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 1888,
+      "name": "adamtpang",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-07T04:37+00:00 UTC): 1\nHelp us welcome: arturh\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-07T04:37+00:00 UTC): 1\nProps to: adamtpang\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

@@ -1,4 +1,4 @@
-**Generated at:** 2026-05-06T04:37+00:00 UTC
+**Generated at:** 2026-05-07T04:37+00:00 UTC
 
 ---
 
@@ -6,27 +6,27 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-06T04:37+00:00 UTC): 1
-Help us welcome: oghenekparobor
+🚀 New to ZcashMe (last 24h since 2026-05-07T04:37+00:00 UTC): 1
+Help us welcome: arturh
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- oghenekparobor (no handle)
+- arturh (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-06T04:37+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-07T04:37+00:00 UTC): 1
+Props to: adamtpang
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- adamtpang (no handle) — Verified
 
 ---
 
