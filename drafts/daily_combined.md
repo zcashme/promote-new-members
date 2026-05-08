@@ -1,32 +1,33 @@
-**Generated at:** 2026-05-07T04:37+00:00 UTC
+**Generated at:** 2026-05-08T04:19+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-07T04:37+00:00 UTC): 1
-Help us welcome: arturh
+🚀 New to ZcashMe (last 24h since 2026-05-08T04:19+00:00 UTC): 2
+Help us welcome: @Alexis_brock_
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- arturh (no handle)
+- Jebus (no handle)
+- Alexisarin (@Alexis_brock_)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-07T04:37+00:00 UTC): 1
-Props to: adamtpang
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-08T04:19+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- adamtpang (no handle) — Verified
+
 
 ---
 
