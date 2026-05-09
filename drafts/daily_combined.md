@@ -1,19 +1,35 @@
-**Generated at:** 2026-05-08T04:19+00:00 UTC
+**Generated at:** 2026-05-09T04:28+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 18
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-08T04:19+00:00 UTC): 2
-Help us welcome: @Alexis_brock_
+🚀 New to ZcashMe (last 24h since 2026-05-09T04:28+00:00 UTC): 18
+Help us welcome: @Jokoz_xyz, @Itxmaeel, @blindfxk
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Jebus (no handle)
-- Alexisarin (@Alexis_brock_)
+- neetmfer (no handle)
+- Elaraether (no handle)
+- Silence (no handle)
+- Mayor03 (no handle)
+- Jokoz (@Jokoz_xyz)
+- Aidreamnet (no handle)
+- liquidweb3 (no handle)
+- zxw (no handle)
+- zac (no handle)
+- OCHAYI_23 (no handle)
+- Decent (@Itxmaeel)
+- inverseping (no handle)
+- Kingboncos (no handle)
+- konnek (no handle)
+- bloccboyq (@blindfxk)
+- Perezace (no handle)
+- Mikroyce (no handle)
+- Humblegiwa (no handle)
 
 ---
 
@@ -21,7 +37,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-08T04:19+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-09T04:28+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
