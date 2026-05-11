@@ -1,22 +1,18 @@
-**Generated at:** 2026-05-10T04:49+00:00 UTC
+**Generated at:** 2026-05-11T05:02+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-10T04:49+00:00 UTC): 5
-Help us welcome: Avin, ridoh, Altahh, Altxyz, Dakruz
+🚀 New to ZcashMe (last 24h since 2026-05-11T05:02+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Avin (no handle)
-- ridoh (no handle)
-- Altahh (no handle)
-- Altxyz (no handle)
-- Dakruz (no handle)
+
 
 ---
 
@@ -24,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-10T04:49+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-11T05:02+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
