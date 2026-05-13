@@ -1,18 +1,23 @@
 {
-  "timestamp_utc": "2026-05-12T04:41+00:00",
+  "timestamp_utc": "2026-05-13T04:53+00:00",
   "users": [
     {
-      "id": 2198,
-      "name": "elonmusk",
+      "id": 2201,
+      "name": "Arris",
       "handle": null
     },
     {
-      "id": 2197,
-      "name": "zoro",
+      "id": 2200,
+      "name": "417_Degen",
+      "handle": null
+    },
+    {
+      "id": 2199,
+      "name": "417_Degen",
       "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-12T04:41+00:00 UTC): 2\nHelp us welcome: elonmusk, zoro\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-12T04:41+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-13T04:53+00:00 UTC): 3\nHelp us welcome: Arris, 417_Degen, 417_Degen\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-13T04:53+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
