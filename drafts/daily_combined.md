@@ -1,34 +1,32 @@
-**Generated at:** 2026-05-13T04:53+00:00 UTC
+**Generated at:** 2026-05-14T04:52+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-13T04:53+00:00 UTC): 3
-Help us welcome: Arris, 417_Degen, 417_Degen
+🚀 New to ZcashMe (last 24h since 2026-05-14T04:52+00:00 UTC): 1
+Help us welcome: @extropic_vc
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Arris (no handle)
-- 417_Degen (no handle)
-- 417_Degen (no handle)
+- extropic (@extropic_vc)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-13T04:53+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-14T04:52+00:00 UTC): 1
+Props to: @extropic_vc
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- extropic (@extropic_vc) — Verified
 
 ---
 
