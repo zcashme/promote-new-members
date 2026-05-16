@@ -1,4 +1,4 @@
-**Generated at:** 2026-05-15T04:56+00:00 UTC
+**Generated at:** 2026-05-16T04:33+00:00 UTC
 
 ---
 
@@ -6,13 +6,13 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-15T04:56+00:00 UTC): 1
-Help us welcome: @r4nk0X
+🚀 New to ZcashMe (last 24h since 2026-05-16T04:33+00:00 UTC): 1
+Help us welcome: 0xblackadam
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- ranko_x (@r4nk0X)
+- 0xblackadam (no handle)
 
 ---
 
@@ -20,13 +20,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-15T04:56+00:00 UTC): 1
-Props to: jenkin
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-16T04:33+00:00 UTC): 1
+Props to: zombiecash
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- jenkin (no handle) — Verified
+- zombiecash (no handle) — Verified
 
 ---
 
