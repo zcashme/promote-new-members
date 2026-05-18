@@ -1,33 +1,33 @@
-**Generated at:** 2026-05-17T04:57+00:00 UTC
+**Generated at:** 2026-05-18T05:12+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-17T04:57+00:00 UTC): 2
-Help us welcome: 0xkivous, nsf
+🚀 New to ZcashMe (last 24h since 2026-05-18T05:12+00:00 UTC): 1
+Help us welcome: aarnott
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- 0xkivous (no handle)
-- nsf (no handle)
+- aarnott (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-17T04:57+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-18T05:12+00:00 UTC): 2
+Props to: 0xkivous, aarnott
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- 0xkivous (no handle) — Verified
+- aarnott (no handle) — Verified
 
 ---
 
