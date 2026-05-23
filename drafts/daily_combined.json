@@ -1,25 +1,30 @@
 {
-  "timestamp_utc": "2026-05-22T05:07+00:00",
+  "timestamp_utc": "2026-05-23T04:47+00:00",
   "users": [
     {
-      "id": 2211,
-      "name": "apple",
+      "id": 2214,
+      "name": "mineZcash",
       "handle": null
     },
     {
-      "id": 2209,
-      "name": "zshieldher",
+      "id": 2213,
+      "name": "Lumen",
+      "handle": null
+    },
+    {
+      "id": 2212,
+      "name": "DanielRajan",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2209,
-      "name": "zshieldher",
+      "id": 2214,
+      "name": "mineZcash",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-22T05:07+00:00 UTC): 2\nHelp us welcome: apple, zshieldher\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-22T05:07+00:00 UTC): 1\nProps to: zshieldher\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-23T04:47+00:00 UTC): 3\nHelp us welcome: mineZcash, Lumen, DanielRajan\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-23T04:47+00:00 UTC): 1\nProps to: mineZcash\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

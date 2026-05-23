@@ -1,19 +1,20 @@
-**Generated at:** 2026-05-22T05:07+00:00 UTC
+**Generated at:** 2026-05-23T04:47+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-22T05:07+00:00 UTC): 2
-Help us welcome: apple, zshieldher
+🚀 New to ZcashMe (last 24h since 2026-05-23T04:47+00:00 UTC): 3
+Help us welcome: mineZcash, Lumen, DanielRajan
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- apple (no handle)
-- zshieldher (no handle)
+- mineZcash (no handle)
+- Lumen (no handle)
+- DanielRajan (no handle)
 
 ---
 
@@ -21,13 +22,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-22T05:07+00:00 UTC): 1
-Props to: zshieldher
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-23T04:47+00:00 UTC): 1
+Props to: mineZcash
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zshieldher (no handle) — Verified
+- mineZcash (no handle) — Verified
 
 ---
 
