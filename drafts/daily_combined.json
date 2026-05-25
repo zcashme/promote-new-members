@@ -1,41 +1,25 @@
 {
-  "timestamp_utc": "2026-05-24T05:07+00:00",
+  "timestamp_utc": "2026-05-25T05:26+00:00",
   "users": [
     {
-      "id": 2218,
-      "name": "Princematty",
-      "handle": "Felixodumod"
-    },
-    {
-      "id": 2217,
-      "name": "eduards",
+      "id": 2220,
+      "name": "arman",
       "handle": null
     },
     {
-      "id": 2216,
-      "name": "ed",
-      "handle": null
-    },
-    {
-      "id": 2215,
-      "name": "zebra",
+      "id": 2219,
+      "name": "gokhan",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2212,
-      "name": "AI",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 2215,
-      "name": "zebra",
+      "id": 2219,
+      "name": "gokhan",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-24T05:07+00:00 UTC): 4\nHelp us welcome: @Felixodumod\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-24T05:07+00:00 UTC): 2\nProps to: AI, zebra\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-05-25T05:26+00:00 UTC): 2\nHelp us welcome: arman, gokhan\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-05-25T05:26+00:00 UTC): 1\nProps to: gokhan\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

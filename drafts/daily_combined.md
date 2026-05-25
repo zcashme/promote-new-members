@@ -1,36 +1,33 @@
-**Generated at:** 2026-05-24T05:07+00:00 UTC
+**Generated at:** 2026-05-25T05:26+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 4
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-24T05:07+00:00 UTC): 4
-Help us welcome: @Felixodumod
+🚀 New to ZcashMe (last 24h since 2026-05-25T05:26+00:00 UTC): 2
+Help us welcome: arman, gokhan
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Princematty (@Felixodumod)
-- eduards (no handle)
-- ed (no handle)
-- zebra (no handle)
+- arman (no handle)
+- gokhan (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-24T05:07+00:00 UTC): 2
-Props to: AI, zebra
+🔐 Newly verified on ZcashMe (last 24h since 2026-05-25T05:26+00:00 UTC): 1
+Props to: gokhan
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- AI (no handle) — Verified
-- zebra (no handle) — Verified
+- gokhan (no handle) — Verified
 
 ---
 
