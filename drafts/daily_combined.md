@@ -1,4 +1,4 @@
-**Generated at:** 2026-05-31T05:24+00:00 UTC
+**Generated at:** 2026-06-01T06:10+00:00 UTC
 
 ---
 
@@ -6,13 +6,13 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-05-31T05:24+00:00 UTC): 1
-Help us welcome: conjecture_institute
+🚀 New to ZcashMe (last 24h since 2026-06-01T06:10+00:00 UTC): 1
+Help us welcome: @r4nk0X
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- conjecture_institute (no handle)
+- r4nk0x (@r4nk0X)
 
 ---
 
@@ -20,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-05-31T05:24+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-06-01T06:10+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
