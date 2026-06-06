@@ -1,19 +1,18 @@
-**Generated at:** 2026-06-05T05:24+00:00 UTC
+**Generated at:** 2026-06-06T04:59+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-06-05T05:24+00:00 UTC): 2
-Help us welcome: jk, JK
+🚀 New to ZcashMe (last 24h since 2026-06-06T04:59+00:00 UTC): 1
+Help us welcome: Crestodian
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- jk (no handle)
-- JK (no handle)
+- Crestodian (no handle)
 
 ---
 
@@ -21,7 +20,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-06-05T05:24+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-06-06T04:59+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
