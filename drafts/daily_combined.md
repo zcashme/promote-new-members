@@ -1,4 +1,4 @@
-**Generated at:** 2026-06-15T06:32+00:00 UTC
+**Generated at:** 2026-06-16T06:38+00:00 UTC
 
 ---
 
@@ -6,28 +6,28 @@
 **Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-06-15T06:32+00:00 UTC): 2
-Help us welcome: amoskang, zilky
+🚀 New to ZcashMe (last 24h since 2026-06-16T06:38+00:00 UTC): 2
+Help us welcome: manyrios, Jeejeee
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- amoskang (no handle)
-- zilky (no handle)
+- manyrios (no handle)
+- Jeejeee (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-06-15T06:32+00:00 UTC): 1
-Props to: julian_abraham
+🔐 Newly verified on ZcashMe (last 24h since 2026-06-16T06:38+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- julian_abraham (no handle) — Verified
+
 
 ---
 
