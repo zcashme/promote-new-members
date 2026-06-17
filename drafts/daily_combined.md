@@ -1,33 +1,34 @@
-**Generated at:** 2026-06-16T06:38+00:00 UTC
+**Generated at:** 2026-06-17T06:21+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-06-16T06:38+00:00 UTC): 2
-Help us welcome: manyrios, Jeejeee
+🚀 New to ZcashMe (last 24h since 2026-06-17T06:21+00:00 UTC): 3
+Help us welcome: morpheus, Zcash, Arris
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- manyrios (no handle)
-- Jeejeee (no handle)
+- morpheus (no handle)
+- Zcash (no handle)
+- Arris (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-06-16T06:38+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-06-17T06:21+00:00 UTC): 1
+Props to: KeenanRIVALS
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- KeenanRIVALS (no handle) — Verified
 
 ---
 
