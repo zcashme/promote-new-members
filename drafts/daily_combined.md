@@ -1,18 +1,19 @@
-**Generated at:** 2026-06-19T06:25+00:00 UTC
+**Generated at:** 2026-06-20T05:21+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-06-19T06:25+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-06-20T05:21+00:00 UTC): 2
+Help us welcome: Shadow1418, Shadow360
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- Shadow1418 (no handle)
+- Shadow360 (no handle)
 
 ---
 
@@ -20,7 +21,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-06-19T06:25+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-06-20T05:21+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
