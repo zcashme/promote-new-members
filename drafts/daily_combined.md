@@ -1,4 +1,4 @@
-**Generated at:** 2026-06-21T06:10+00:00 UTC
+**Generated at:** 2026-06-22T06:34+00:00 UTC
 
 ---
 
@@ -6,27 +6,27 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-06-21T06:10+00:00 UTC): 1
-Help us welcome: Doug
+🚀 New to ZcashMe (last 24h since 2026-06-22T06:34+00:00 UTC): 1
+Help us welcome: bradley
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- Doug (no handle)
+- bradley (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-06-21T06:10+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-06-22T06:34+00:00 UTC): 1
+Props to: bradley
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- bradley (no handle) — Verified
 
 ---
 
