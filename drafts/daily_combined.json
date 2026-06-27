@@ -1,14 +1,13 @@
 {
-  "timestamp_utc": "2026-06-26T05:15+00:00",
-  "users": [],
-  "verified": [
+  "timestamp_utc": "2026-06-27T04:58+00:00",
+  "users": [
     {
-      "id": 1772,
-      "name": "julian_abraham",
-      "handle": null,
-      "method": "Verified"
+      "id": 2247,
+      "name": "oxwrld",
+      "handle": "ox_wrld"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-06-26T05:15+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-06-26T05:15+00:00 UTC): 1\nProps to: julian_abraham\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-06-27T04:58+00:00 UTC): 1\nHelp us welcome: @ox_wrld\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-06-27T04:58+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
