@@ -1,18 +1,21 @@
-**Generated at:** 2026-07-06T05:18+00:00 UTC
+**Generated at:** 2026-07-07T04:59+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-07-06T05:18+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-07-07T04:59+00:00 UTC): 4
+Help us welcome: grtonmoy, grtonmoy, grtonmoy, tonmoy23
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- grtonmoy (no handle)
+- grtonmoy (no handle)
+- grtonmoy (no handle)
+- tonmoy23 (no handle)
 
 ---
 
@@ -20,7 +23,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-07-06T05:18+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-07-07T04:59+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
