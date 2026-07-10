@@ -1,18 +1,25 @@
 {
-  "timestamp_utc": "2026-07-09T04:59+00:00",
+  "timestamp_utc": "2026-07-10T04:59+00:00",
   "users": [
     {
-      "id": 2254,
-      "name": "mojito",
-      "handle": "mojito_cx"
+      "id": 2256,
+      "name": "harry",
+      "handle": null
     },
     {
-      "id": 2253,
-      "name": "m4tsuri",
+      "id": 2255,
+      "name": "zostr",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-07-09T04:59+00:00 UTC): 2\nHelp us welcome: @mojito_cx\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-07-09T04:59+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 2255,
+      "name": "zostr",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-07-10T04:59+00:00 UTC): 2\nHelp us welcome: harry, zostr\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-07-10T04:59+00:00 UTC): 1\nProps to: zostr\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
