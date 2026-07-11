@@ -1,33 +1,32 @@
-**Generated at:** 2026-07-10T04:59+00:00 UTC
+**Generated at:** 2026-07-11T04:18+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-07-10T04:59+00:00 UTC): 2
-Help us welcome: harry, zostr
+🚀 New to ZcashMe (last 24h since 2026-07-11T04:18+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- harry (no handle)
-- zostr (no handle)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-07-10T04:59+00:00 UTC): 1
-Props to: zostr
+🔐 Newly verified on ZcashMe (last 24h since 2026-07-11T04:18+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zostr (no handle) — Verified
+
 
 ---
 
