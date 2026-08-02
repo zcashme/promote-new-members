@@ -1,7 +1,58 @@
 {
-  "timestamp_utc": "2026-08-01T04:25+00:00",
-  "users": [],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-08-01T04:25+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-08-01T04:25+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "timestamp_utc": "2026-08-02T04:28+00:00",
+  "users": [
+    {
+      "id": 2267,
+      "name": "cyze",
+      "handle": null
+    },
+    {
+      "id": 2266,
+      "name": "uscmigs",
+      "handle": null
+    },
+    {
+      "id": 2265,
+      "name": "Sahand",
+      "handle": "0xsahand"
+    },
+    {
+      "id": 2264,
+      "name": "S3f59",
+      "handle": null
+    },
+    {
+      "id": 2263,
+      "name": "lkp",
+      "handle": null
+    }
+  ],
+  "verified": [
+    {
+      "id": 415,
+      "name": "zechariah",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2265,
+      "name": "Sahand",
+      "handle": "0xsahand",
+      "method": "Verified"
+    },
+    {
+      "id": 2266,
+      "name": "uscmigs",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2267,
+      "name": "cyze",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-08-02T04:28+00:00 UTC): 5\nHelp us welcome: @0xsahand\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-08-02T04:28+00:00 UTC): 4\nProps to: @0xsahand\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
