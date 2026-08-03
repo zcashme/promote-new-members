@@ -1,39 +1,32 @@
-**Generated at:** 2026-08-02T04:28+00:00 UTC
+**Generated at:** 2026-08-03T04:35+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-08-02T04:28+00:00 UTC): 5
-Help us welcome: @0xsahand
+🚀 New to ZcashMe (last 24h since 2026-08-03T04:35+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- cyze (no handle)
-- uscmigs (no handle)
-- Sahand (@0xsahand)
-- S3f59 (no handle)
-- lkp (no handle)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 4
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-08-02T04:28+00:00 UTC): 4
-Props to: @0xsahand
+🔐 Newly verified on ZcashMe (last 24h since 2026-08-03T04:35+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zechariah (no handle) — Verified
-- Sahand (@0xsahand) — Verified
-- uscmigs (no handle) — Verified
-- cyze (no handle) — Verified
+
 
 ---
 
