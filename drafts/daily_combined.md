@@ -1,4 +1,4 @@
-**Generated at:** 2026-08-08T02:57+00:00 UTC
+**Generated at:** 2026-08-09T03:04+00:00 UTC
 
 ---
 
@@ -6,28 +6,28 @@
 **Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-08-08T02:57+00:00 UTC): 2
-Help us welcome: jk, Dutei
+🚀 New to ZcashMe (last 24h since 2026-08-09T03:04+00:00 UTC): 2
+Help us welcome: Soltan99, zoro
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- jk (no handle)
-- Dutei (no handle)
+- Soltan99 (no handle)
+- zoro (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-08-08T02:57+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-08-09T03:04+00:00 UTC): 1
+Props to: zechariah
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- zechariah (no handle) — Verified
 
 ---
 
