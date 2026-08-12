@@ -1,7 +1,20 @@
 {
-  "timestamp_utc": "2026-08-11T03:06+00:00",
-  "users": [],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-08-11T03:06+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-08-11T03:06+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "timestamp_utc": "2026-08-12T03:25+00:00",
+  "users": [
+    {
+      "id": 2272,
+      "name": "Sebastein",
+      "handle": null
+    }
+  ],
+  "verified": [
+    {
+      "id": 867,
+      "name": "Paul Brigner",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-08-12T03:25+00:00 UTC): 1\nHelp us welcome: Sebastein\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-08-12T03:25+00:00 UTC): 1\nProps to: Paul Brigner\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
