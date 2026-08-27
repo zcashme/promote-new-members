@@ -1,34 +1,32 @@
-**Generated at:** 2026-08-26T02:26+00:00 UTC
+**Generated at:** 2026-08-27T11:06+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-08-26T02:26+00:00 UTC): 2
-Help us welcome: pelios, josh
+🚀 New to ZcashMe (last 24h since 2026-08-27T11:06+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- pelios (no handle)
-- josh (no handle)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-08-26T02:26+00:00 UTC): 2
-Props to: josh, pelios
+🔐 Newly verified on ZcashMe (last 24h since 2026-08-27T11:06+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- josh (no handle) — Verified
-- pelios (no handle) — Verified
+
 
 ---
 
