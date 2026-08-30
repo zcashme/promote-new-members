@@ -1,18 +1,7 @@
 {
-  "timestamp_utc": "2026-08-29T07:47+00:00",
-  "users": [
-    {
-      "id": 2279,
-      "name": "dom",
-      "handle": null
-    },
-    {
-      "id": 2280,
-      "name": "tonyx",
-      "handle": "0xtonyx"
-    }
-  ],
+  "timestamp_utc": "2026-08-30T06:26+00:00",
+  "users": [],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-08-29T07:47+00:00 UTC): 2\nHelp us welcome: @0xtonyx\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-08-29T07:47+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-08-30T06:26+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-08-30T06:26+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
