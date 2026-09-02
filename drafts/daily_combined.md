@@ -1,4 +1,4 @@
-**Generated at:** 2026-09-01T06:10+00:00 UTC
+**Generated at:** 2026-09-02T05:37+00:00 UTC
 
 ---
 
@@ -6,7 +6,7 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-01T06:10+00:00 UTC): 1
+🚀 New to ZcashMe (last 24h since 2026-09-02T05:37+00:00 UTC): 1
 Help us welcome: @0xbrov
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
@@ -17,16 +17,17 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-01T06:10+00:00 UTC): 1
-Props to: robmarn
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-02T05:37+00:00 UTC): 2
+Props to: @0xbrov
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- robmarn (no handle) — Verified
+- zechariah (no handle) — Verified
+- 0xbrov (@0xbrov) — Verified
 
 ---
 
