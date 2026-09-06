@@ -1,32 +1,48 @@
-**Generated at:** 2026-09-05T05:32+00:00 UTC
+**Generated at:** 2026-09-06T05:44+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 14
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-05T05:32+00:00 UTC): 1
-Help us welcome: dguardian0
+🚀 New to ZcashMe (last 24h since 2026-09-06T05:44+00:00 UTC): 14
+Help us welcome: @0xWeb3DevRel, @maxnaut, @alexsaussier, @maxnaut
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- dguardian0 (no handle)
+- piatoss3612 (no handle)
+- ciberaguila (no handle)
+- Kavopp (no handle)
+- 0xWeb3DevRel (@0xWeb3DevRel)
+- maxnaut (@maxnaut)
+- As (@alexsaussier)
+- kandii (no handle)
+- maxnaut (@maxnaut)
+- zerotrace (no handle)
+- Wuwei113 (no handle)
+- Zatoshi (no handle)
+- freelcoder (no handle)
+- most (no handle)
+- buidl (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 4
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-05T05:32+00:00 UTC): 1
-Props to: zchat
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-06T05:44+00:00 UTC): 4
+Props to: freelcoder, Wuwei113, zerotrace, piatoss3612
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zchat (no handle) — Verified
+- freelcoder (no handle) — Verified
+- Wuwei113 (no handle) — Verified
+- zerotrace (no handle) — Verified
+- piatoss3612 (no handle) — Verified
 
 ---
 

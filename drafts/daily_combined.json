@@ -1,20 +1,103 @@
 {
-  "timestamp_utc": "2026-09-05T05:32+00:00",
+  "timestamp_utc": "2026-09-06T05:44+00:00",
   "users": [
     {
-      "id": 2284,
-      "name": "dguardian0",
+      "id": 2298,
+      "name": "piatoss3612",
+      "handle": null
+    },
+    {
+      "id": 2297,
+      "name": "ciberaguila",
+      "handle": null
+    },
+    {
+      "id": 2296,
+      "name": "Kavopp",
+      "handle": null
+    },
+    {
+      "id": 2295,
+      "name": "0xWeb3DevRel",
+      "handle": "0xWeb3DevRel"
+    },
+    {
+      "id": 2294,
+      "name": "maxnaut",
+      "handle": "maxnaut"
+    },
+    {
+      "id": 2293,
+      "name": "As",
+      "handle": "alexsaussier"
+    },
+    {
+      "id": 2292,
+      "name": "kandii",
+      "handle": null
+    },
+    {
+      "id": 2291,
+      "name": "maxnaut",
+      "handle": "maxnaut"
+    },
+    {
+      "id": 2290,
+      "name": "zerotrace",
+      "handle": null
+    },
+    {
+      "id": 2289,
+      "name": "Wuwei113",
+      "handle": null
+    },
+    {
+      "id": 2288,
+      "name": "Zatoshi",
+      "handle": null
+    },
+    {
+      "id": 2287,
+      "name": "freelcoder",
+      "handle": null
+    },
+    {
+      "id": 2286,
+      "name": "most",
+      "handle": null
+    },
+    {
+      "id": 2285,
+      "name": "buidl",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2022,
-      "name": "zchat",
+      "id": 2287,
+      "name": "freelcoder",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2289,
+      "name": "Wuwei113",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2290,
+      "name": "zerotrace",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2298,
+      "name": "piatoss3612",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-05T05:32+00:00 UTC): 1\nHelp us welcome: dguardian0\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-05T05:32+00:00 UTC): 1\nProps to: zchat\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-06T05:44+00:00 UTC): 14\nHelp us welcome: @0xWeb3DevRel, @maxnaut, @alexsaussier, @maxnaut\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-06T05:44+00:00 UTC): 4\nProps to: freelcoder, Wuwei113, zerotrace, piatoss3612\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
