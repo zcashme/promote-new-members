@@ -1,48 +1,43 @@
-**Generated at:** 2026-09-06T05:44+00:00 UTC
+**Generated at:** 2026-09-07T05:54+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 14
+**Count:** 12
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-06T05:44+00:00 UTC): 14
-Help us welcome: @0xWeb3DevRel, @maxnaut, @alexsaussier, @maxnaut
+🚀 New to ZcashMe (last 24h since 2026-09-07T05:54+00:00 UTC): 12
+Help us welcome: @maxnaut
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- piatoss3612 (no handle)
-- ciberaguila (no handle)
-- Kavopp (no handle)
-- 0xWeb3DevRel (@0xWeb3DevRel)
+- hujiawei (no handle)
+- mert (no handle)
 - maxnaut (@maxnaut)
-- As (@alexsaussier)
-- kandii (no handle)
-- maxnaut (@maxnaut)
-- zerotrace (no handle)
-- Wuwei113 (no handle)
-- Zatoshi (no handle)
-- freelcoder (no handle)
-- most (no handle)
-- buidl (no handle)
+- Satoshi (no handle)
+- Gomasio (no handle)
+- Stonk (no handle)
+- shib (no handle)
+- wahyuff (no handle)
+- 404 (no handle)
+- gyanubhai (no handle)
+- Krhuize (no handle)
+- jan (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 4
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-06T05:44+00:00 UTC): 4
-Props to: freelcoder, Wuwei113, zerotrace, piatoss3612
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-07T05:54+00:00 UTC): 1
+Props to: @maxnaut
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- freelcoder (no handle) — Verified
-- Wuwei113 (no handle) — Verified
-- zerotrace (no handle) — Verified
-- piatoss3612 (no handle) — Verified
+- maxnaut (@maxnaut) — Verified
 
 ---
 
