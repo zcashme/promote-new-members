@@ -1,75 +1,52 @@
 {
-  "timestamp_utc": "2026-09-07T05:54+00:00",
+  "timestamp_utc": "2026-09-08T05:47+00:00",
   "users": [
     {
-      "id": 2310,
-      "name": "hujiawei",
+      "id": 2315,
+      "name": "meme",
       "handle": null
     },
     {
-      "id": 2309,
-      "name": "mert",
+      "id": 2314,
+      "name": "zkSNARKs",
       "handle": null
     },
     {
-      "id": 2308,
-      "name": "maxnaut",
-      "handle": "maxnaut"
-    },
-    {
-      "id": 2307,
-      "name": "Satoshi",
+      "id": 2313,
+      "name": "pablopicasso",
       "handle": null
     },
     {
-      "id": 2306,
-      "name": "Gomasio",
+      "id": 2312,
+      "name": "Satishh727",
       "handle": null
     },
     {
-      "id": 2305,
-      "name": "Stonk",
-      "handle": null
-    },
-    {
-      "id": 2304,
-      "name": "shib",
-      "handle": null
-    },
-    {
-      "id": 2303,
-      "name": "wahyuff",
-      "handle": null
-    },
-    {
-      "id": 2302,
-      "name": "404",
-      "handle": null
-    },
-    {
-      "id": 2301,
-      "name": "gyanubhai",
-      "handle": null
-    },
-    {
-      "id": 2300,
-      "name": "Krhuize",
-      "handle": null
-    },
-    {
-      "id": 2299,
-      "name": "jan",
+      "id": 2311,
+      "name": "c",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2308,
-      "name": "maxnaut",
-      "handle": "maxnaut",
+      "id": 2310,
+      "name": "hujiawei",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2314,
+      "name": "zkSNARKs",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2315,
+      "name": "meme",
+      "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-07T05:54+00:00 UTC): 12\nHelp us welcome: @maxnaut\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-07T05:54+00:00 UTC): 1\nProps to: @maxnaut\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 5\nHelp us welcome: meme, zkSNARKs, pablopicasso, Satishh727, c\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 3\nProps to: hujiawei, zkSNARKs, meme\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

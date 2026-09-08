@@ -1,43 +1,38 @@
-**Generated at:** 2026-09-07T05:54+00:00 UTC
+**Generated at:** 2026-09-08T05:47+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 12
+**Count:** 5
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-07T05:54+00:00 UTC): 12
-Help us welcome: @maxnaut
+🚀 New to ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 5
+Help us welcome: meme, zkSNARKs, pablopicasso, Satishh727, c
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- hujiawei (no handle)
-- mert (no handle)
-- maxnaut (@maxnaut)
-- Satoshi (no handle)
-- Gomasio (no handle)
-- Stonk (no handle)
-- shib (no handle)
-- wahyuff (no handle)
-- 404 (no handle)
-- gyanubhai (no handle)
-- Krhuize (no handle)
-- jan (no handle)
+- meme (no handle)
+- zkSNARKs (no handle)
+- pablopicasso (no handle)
+- Satishh727 (no handle)
+- c (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 3
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-07T05:54+00:00 UTC): 1
-Props to: @maxnaut
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 3
+Props to: hujiawei, zkSNARKs, meme
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- maxnaut (@maxnaut) — Verified
+- hujiawei (no handle) — Verified
+- zkSNARKs (no handle) — Verified
+- meme (no handle) — Verified
 
 ---
 
