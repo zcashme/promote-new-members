@@ -1,52 +1,28 @@
 {
-  "timestamp_utc": "2026-09-08T05:47+00:00",
+  "timestamp_utc": "2026-09-09T05:51+00:00",
   "users": [
     {
-      "id": 2315,
-      "name": "meme",
+      "id": 2319,
+      "name": "wukong",
       "handle": null
     },
     {
-      "id": 2314,
-      "name": "zkSNARKs",
+      "id": 2318,
+      "name": "ganen",
       "handle": null
     },
     {
-      "id": 2313,
-      "name": "pablopicasso",
+      "id": 2317,
+      "name": "ZK0",
       "handle": null
     },
     {
-      "id": 2312,
-      "name": "Satishh727",
-      "handle": null
-    },
-    {
-      "id": 2311,
-      "name": "c",
+      "id": 2316,
+      "name": "precious",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 2310,
-      "name": "hujiawei",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 2314,
-      "name": "zkSNARKs",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 2315,
-      "name": "meme",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 5\nHelp us welcome: meme, zkSNARKs, pablopicasso, Satishh727, c\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 3\nProps to: hujiawei, zkSNARKs, meme\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-09T05:51+00:00 UTC): 4\nHelp us welcome: wukong, ganen, ZK0, precious\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-09T05:51+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

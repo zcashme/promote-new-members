@@ -1,38 +1,35 @@
-**Generated at:** 2026-09-08T05:47+00:00 UTC
+**Generated at:** 2026-09-09T05:51+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 5
-Help us welcome: meme, zkSNARKs, pablopicasso, Satishh727, c
+🚀 New to ZcashMe (last 24h since 2026-09-09T05:51+00:00 UTC): 4
+Help us welcome: wukong, ganen, ZK0, precious
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- meme (no handle)
-- zkSNARKs (no handle)
-- pablopicasso (no handle)
-- Satishh727 (no handle)
-- c (no handle)
+- wukong (no handle)
+- ganen (no handle)
+- ZK0 (no handle)
+- precious (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 3
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-08T05:47+00:00 UTC): 3
-Props to: hujiawei, zkSNARKs, meme
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-09T05:51+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- hujiawei (no handle) — Verified
-- zkSNARKs (no handle) — Verified
-- meme (no handle) — Verified
+
 
 ---
 
