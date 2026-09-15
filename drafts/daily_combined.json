@@ -1,13 +1,18 @@
 {
-  "timestamp_utc": "2026-09-14T06:00+00:00",
+  "timestamp_utc": "2026-09-15T06:00+00:00",
   "users": [
     {
-      "id": 2324,
-      "name": "wilson",
-      "handle": null
+      "id": 2328,
+      "name": "0xprincex",
+      "handle": "0xPrinceX"
+    },
+    {
+      "id": 2325,
+      "name": "0xprincex",
+      "handle": "0xPrinceX"
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-14T06:00+00:00 UTC): 1\nHelp us welcome: wilson\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-14T06:00+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-15T06:00+00:00 UTC): 2\nHelp us welcome: @0xPrinceX, @0xPrinceX\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-15T06:00+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
