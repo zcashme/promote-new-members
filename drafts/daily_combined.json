@@ -1,28 +1,78 @@
 {
-  "timestamp_utc": "2026-09-17T05:58+00:00",
+  "timestamp_utc": "2026-09-18T05:45+00:00",
   "users": [
     {
-      "id": 2348,
-      "name": "wildhorse",
-      "handle": "phuquydx"
-    },
-    {
-      "id": 2347,
-      "name": "pasopati",
+      "id": 2363,
+      "name": "000zcash",
       "handle": null
     },
     {
-      "id": 2346,
-      "name": "nax",
-      "handle": "naxweb3"
+      "id": 2362,
+      "name": "unipcs",
+      "handle": null
     },
     {
-      "id": 2345,
-      "name": "decrypt",
-      "handle": "0x_decrypt"
+      "id": 2361,
+      "name": "1",
+      "handle": null
+    },
+    {
+      "id": 2360,
+      "name": "leo",
+      "handle": null
+    },
+    {
+      "id": 2359,
+      "name": "unipics",
+      "handle": null
+    },
+    {
+      "id": 2358,
+      "name": "rocco",
+      "handle": null
+    },
+    {
+      "id": 2357,
+      "name": "bigbob",
+      "handle": null
+    },
+    {
+      "id": 2356,
+      "name": "gabbcaii",
+      "handle": null
+    },
+    {
+      "id": 2355,
+      "name": "nftcollector",
+      "handle": null
+    },
+    {
+      "id": 2354,
+      "name": "tee",
+      "handle": null
+    },
+    {
+      "id": 2353,
+      "name": "unknown",
+      "handle": null
+    },
+    {
+      "id": 2352,
+      "name": "gml",
+      "handle": null
+    },
+    {
+      "id": 2351,
+      "name": "sammyeth",
+      "handle": null
+    },
+    {
+      "id": 2350,
+      "name": "cobra",
+      "handle": "0xCobra_"
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-17T05:58+00:00 UTC): 4\nHelp us welcome: @phuquydx, @naxweb3, @0x_decrypt\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-17T05:58+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-18T05:45+00:00 UTC): 14\nHelp us welcome: @0xCobra_\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-18T05:45+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
