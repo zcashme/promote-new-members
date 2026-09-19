@@ -1,31 +1,21 @@
-**Generated at:** 2026-09-18T05:45+00:00 UTC
+**Generated at:** 2026-09-19T05:40+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 14
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-18T05:45+00:00 UTC): 14
-Help us welcome: @0xCobra_
+🚀 New to ZcashMe (last 24h since 2026-09-19T05:40+00:00 UTC): 4
+Help us welcome: metaronics, chielgd, zoronnomics, thesyndicate
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- 000zcash (no handle)
-- unipcs (no handle)
-- 1 (no handle)
-- leo (no handle)
-- unipics (no handle)
-- rocco (no handle)
-- bigbob (no handle)
-- gabbcaii (no handle)
-- nftcollector (no handle)
-- tee (no handle)
-- unknown (no handle)
-- gml (no handle)
-- sammyeth (no handle)
-- cobra (@0xCobra_)
+- metaronics (no handle)
+- chielgd (no handle)
+- zoronnomics (no handle)
+- thesyndicate (no handle)
 
 ---
 
@@ -33,7 +23,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-18T05:45+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-19T05:40+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
