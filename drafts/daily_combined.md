@@ -1,22 +1,23 @@
-**Generated at:** 2026-09-20T05:58+00:00 UTC
+**Generated at:** 2026-09-21T06:05+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 6
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-20T05:58+00:00 UTC): 5
-Help us welcome: @0xbonke
+🚀 New to ZcashMe (last 24h since 2026-09-21T06:05+00:00 UTC): 6
+Help us welcome: @ariyantoxyz
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- zcashchurch (no handle)
-- radbro (no handle)
-- hidden (no handle)
-- scratcha (no handle)
-- bonke (@0xbonke)
+- jmhoney (no handle)
+- backpack (no handle)
+- car (no handle)
+- arvopion (no handle)
+- yusuf (no handle)
+- ariyanto (@ariyantoxyz)
 
 ---
 
@@ -24,7 +25,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-20T05:58+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-21T06:05+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
