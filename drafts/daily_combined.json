@@ -1,38 +1,13 @@
 {
-  "timestamp_utc": "2026-09-21T06:05+00:00",
+  "timestamp_utc": "2026-09-22T05:59+00:00",
   "users": [
     {
-      "id": 2379,
-      "name": "jmhoney",
-      "handle": null
-    },
-    {
-      "id": 2378,
-      "name": "backpack",
-      "handle": null
-    },
-    {
-      "id": 2377,
-      "name": "car",
-      "handle": null
-    },
-    {
-      "id": 2376,
-      "name": "arvopion",
-      "handle": null
-    },
-    {
-      "id": 2375,
-      "name": "yusuf",
-      "handle": null
-    },
-    {
-      "id": 2374,
-      "name": "ariyanto",
-      "handle": "ariyantoxyz"
+      "id": 2380,
+      "name": "dabi",
+      "handle": "dabixbt"
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-21T06:05+00:00 UTC): 6\nHelp us welcome: @ariyantoxyz\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-21T06:05+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-22T05:59+00:00 UTC): 1\nHelp us welcome: @dabixbt\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-22T05:59+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
