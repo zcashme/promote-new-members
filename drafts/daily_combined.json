@@ -1,13 +1,33 @@
 {
-  "timestamp_utc": "2026-09-22T05:59+00:00",
+  "timestamp_utc": "2026-09-23T05:46+00:00",
   "users": [
     {
-      "id": 2380,
-      "name": "dabi",
-      "handle": "dabixbt"
+      "id": 2385,
+      "name": "vladcostea",
+      "handle": null
+    },
+    {
+      "id": 2384,
+      "name": "bitcointakeover",
+      "handle": null
+    },
+    {
+      "id": 2383,
+      "name": "kozalakb",
+      "handle": null
+    },
+    {
+      "id": 2382,
+      "name": "bala",
+      "handle": null
+    },
+    {
+      "id": 2381,
+      "name": "yuke",
+      "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-22T05:59+00:00 UTC): 1\nHelp us welcome: @dabixbt\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-22T05:59+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-23T05:46+00:00 UTC): 5\nHelp us welcome: vladcostea, bitcointakeover, kozalakb, bala, yuke\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-23T05:46+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
