@@ -1,22 +1,24 @@
-**Generated at:** 2026-09-23T05:46+00:00 UTC
+**Generated at:** 2026-09-24T06:00+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 7
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-23T05:46+00:00 UTC): 5
-Help us welcome: vladcostea, bitcointakeover, kozalakb, bala, yuke
+🚀 New to ZcashMe (last 24h since 2026-09-24T06:00+00:00 UTC): 7
+Help us welcome: @PIXIE_IBC
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- vladcostea (no handle)
-- bitcointakeover (no handle)
-- kozalakb (no handle)
-- bala (no handle)
-- yuke (no handle)
+- adtaddict (no handle)
+- silva (no handle)
+- mike (no handle)
+- radbro (no handle)
+- margiavende (no handle)
+- aescobar (no handle)
+- pixie (@PIXIE_IBC)
 
 ---
 
@@ -24,7 +26,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-23T05:46+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-24T06:00+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
