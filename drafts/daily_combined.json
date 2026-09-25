@@ -1,43 +1,68 @@
 {
-  "timestamp_utc": "2026-09-24T06:00+00:00",
+  "timestamp_utc": "2026-09-25T06:02+00:00",
   "users": [
     {
-      "id": 2392,
-      "name": "adtaddict",
+      "id": 2404,
+      "name": "w3b3labs",
       "handle": null
     },
     {
-      "id": 2391,
-      "name": "silva",
+      "id": 2403,
+      "name": "bittrooper",
       "handle": null
     },
     {
-      "id": 2390,
-      "name": "mike",
+      "id": 2402,
+      "name": "mizteriush",
       "handle": null
     },
     {
-      "id": 2389,
-      "name": "radbro",
+      "id": 2401,
+      "name": "zlfxr13",
+      "handle": "Zetakeyx"
+    },
+    {
+      "id": 2400,
+      "name": "usmangzw",
       "handle": null
     },
     {
-      "id": 2388,
-      "name": "margiavende",
+      "id": 2399,
+      "name": "god",
       "handle": null
     },
     {
-      "id": 2387,
-      "name": "aescobar",
+      "id": 2398,
+      "name": "bzone",
       "handle": null
     },
     {
-      "id": 2386,
-      "name": "pixie",
-      "handle": "PIXIE_IBC"
+      "id": 2397,
+      "name": "mizteriush",
+      "handle": null
+    },
+    {
+      "id": 2396,
+      "name": "princesscutire1",
+      "handle": null
+    },
+    {
+      "id": 2395,
+      "name": "desigmk",
+      "handle": null
+    },
+    {
+      "id": 2394,
+      "name": "yapingforliving",
+      "handle": null
+    },
+    {
+      "id": 2393,
+      "name": "chayurim",
+      "handle": null
     }
   ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-24T06:00+00:00 UTC): 7\nHelp us welcome: @PIXIE_IBC\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-24T06:00+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-25T06:02+00:00 UTC): 12\nHelp us welcome: @Zetakeyx\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-25T06:02+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

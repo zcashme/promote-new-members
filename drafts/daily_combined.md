@@ -1,24 +1,29 @@
-**Generated at:** 2026-09-24T06:00+00:00 UTC
+**Generated at:** 2026-09-25T06:02+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 7
+**Count:** 12
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-24T06:00+00:00 UTC): 7
-Help us welcome: @PIXIE_IBC
+🚀 New to ZcashMe (last 24h since 2026-09-25T06:02+00:00 UTC): 12
+Help us welcome: @Zetakeyx
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- adtaddict (no handle)
-- silva (no handle)
-- mike (no handle)
-- radbro (no handle)
-- margiavende (no handle)
-- aescobar (no handle)
-- pixie (@PIXIE_IBC)
+- w3b3labs (no handle)
+- bittrooper (no handle)
+- mizteriush (no handle)
+- zlfxr13 (@Zetakeyx)
+- usmangzw (no handle)
+- god (no handle)
+- bzone (no handle)
+- mizteriush (no handle)
+- princesscutire1 (no handle)
+- desigmk (no handle)
+- yapingforliving (no handle)
+- chayurim (no handle)
 
 ---
 
@@ -26,7 +31,7 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-24T06:00+00:00 UTC): 0
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-25T06:02+00:00 UTC): 0
 Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
