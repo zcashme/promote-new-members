@@ -1,43 +1,39 @@
-**Generated at:** 2026-09-25T06:02+00:00 UTC
+**Generated at:** 2026-09-26T06:01+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 12
+**Count:** 8
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-25T06:02+00:00 UTC): 12
-Help us welcome: @Zetakeyx
+🚀 New to ZcashMe (last 24h since 2026-09-26T06:01+00:00 UTC): 8
+Help us welcome: tfndm, riquezacrypto, keshav, danbao, jcorredor, ronnie, mohus, jeudivjegj
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- w3b3labs (no handle)
-- bittrooper (no handle)
-- mizteriush (no handle)
-- zlfxr13 (@Zetakeyx)
-- usmangzw (no handle)
-- god (no handle)
-- bzone (no handle)
-- mizteriush (no handle)
-- princesscutire1 (no handle)
-- desigmk (no handle)
-- yapingforliving (no handle)
-- chayurim (no handle)
+- tfndm (no handle)
+- riquezacrypto (no handle)
+- keshav (no handle)
+- danbao (no handle)
+- jcorredor (no handle)
+- ronnie (no handle)
+- mohus (no handle)
+- jeudivjegj (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-25T06:02+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-26T06:01+00:00 UTC): 1
+Props to: keshav
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- keshav (no handle) — Verified
 
 ---
 
