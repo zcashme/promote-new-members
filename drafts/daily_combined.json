@@ -1,55 +1,26 @@
 {
-  "timestamp_utc": "2026-09-26T06:01+00:00",
+  "timestamp_utc": "2026-09-28T06:36+00:00",
   "users": [
     {
-      "id": 2412,
-      "name": "tfndm",
-      "handle": null
-    },
-    {
-      "id": 2411,
-      "name": "riquezacrypto",
-      "handle": null
-    },
-    {
-      "id": 2410,
-      "name": "keshav",
-      "handle": null
-    },
-    {
-      "id": 2409,
-      "name": "danbao",
-      "handle": null
-    },
-    {
-      "id": 2408,
-      "name": "jcorredor",
-      "handle": null
-    },
-    {
-      "id": 2407,
-      "name": "ronnie",
-      "handle": null
-    },
-    {
-      "id": 2406,
-      "name": "mohus",
-      "handle": null
-    },
-    {
-      "id": 2405,
-      "name": "jeudivjegj",
+      "id": 2414,
+      "name": "bradcush",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2410,
-      "name": "keshav",
+      "id": 2414,
+      "name": "bradcush",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1965,
+      "name": "thebackupkid",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-26T06:01+00:00 UTC): 8\nHelp us welcome: tfndm, riquezacrypto, keshav, danbao, jcorredor, ronnie, mohus, jeudivjegj\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-26T06:01+00:00 UTC): 1\nProps to: keshav\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-09-28T06:36+00:00 UTC): 1\nHelp us welcome: bradcush\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-09-28T06:36+00:00 UTC): 2\nProps to: bradcush, thebackupkid\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

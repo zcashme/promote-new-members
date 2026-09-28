@@ -1,39 +1,33 @@
-**Generated at:** 2026-09-26T06:01+00:00 UTC
+**Generated at:** 2026-09-28T06:36+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 8
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-26T06:01+00:00 UTC): 8
-Help us welcome: tfndm, riquezacrypto, keshav, danbao, jcorredor, ronnie, mohus, jeudivjegj
+🚀 New to ZcashMe (last 24h since 2026-09-28T06:36+00:00 UTC): 1
+Help us welcome: bradcush
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- tfndm (no handle)
-- riquezacrypto (no handle)
-- keshav (no handle)
-- danbao (no handle)
-- jcorredor (no handle)
-- ronnie (no handle)
-- mohus (no handle)
-- jeudivjegj (no handle)
+- bradcush (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-26T06:01+00:00 UTC): 1
-Props to: keshav
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-28T06:36+00:00 UTC): 2
+Props to: bradcush, thebackupkid
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- keshav (no handle) — Verified
+- bradcush (no handle) — Verified
+- thebackupkid (no handle) — Verified
 
 ---
 
