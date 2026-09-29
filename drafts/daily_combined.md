@@ -1,4 +1,4 @@
-**Generated at:** 2026-09-28T06:36+00:00 UTC
+**Generated at:** 2026-09-29T06:44+00:00 UTC
 
 ---
 
@@ -6,28 +6,27 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-09-28T06:36+00:00 UTC): 1
-Help us welcome: bradcush
+🚀 New to ZcashMe (last 24h since 2026-09-29T06:44+00:00 UTC): 1
+Help us welcome: saccalb
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- bradcush (no handle)
+- saccalb (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-09-28T06:36+00:00 UTC): 2
-Props to: bradcush, thebackupkid
+🔐 Newly verified on ZcashMe (last 24h since 2026-09-29T06:44+00:00 UTC): 1
+Props to: @PIXIE_IBC
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- bradcush (no handle) — Verified
-- thebackupkid (no handle) — Verified
+- pixie (@PIXIE_IBC) — Verified
 
 ---
 
