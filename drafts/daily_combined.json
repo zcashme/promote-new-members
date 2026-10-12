@@ -1,7 +1,83 @@
 {
-  "timestamp_utc": "2026-10-11T06:58+00:00",
-  "users": [],
+  "timestamp_utc": "2026-10-12T07:11+00:00",
+  "users": [
+    {
+      "id": 2436,
+      "name": "cypherpunk",
+      "handle": null
+    },
+    {
+      "id": 2435,
+      "name": "pavol",
+      "handle": null
+    },
+    {
+      "id": 2434,
+      "name": "trust",
+      "handle": null
+    },
+    {
+      "id": 2433,
+      "name": "bybit",
+      "handle": null
+    },
+    {
+      "id": 2432,
+      "name": "chris",
+      "handle": null
+    },
+    {
+      "id": 2431,
+      "name": "brian",
+      "handle": null
+    },
+    {
+      "id": 2430,
+      "name": "money",
+      "handle": null
+    },
+    {
+      "id": 2429,
+      "name": "cameron",
+      "handle": null
+    },
+    {
+      "id": 2428,
+      "name": "bank",
+      "handle": null
+    },
+    {
+      "id": 2427,
+      "name": "tyler",
+      "handle": null
+    },
+    {
+      "id": 2426,
+      "name": "anon",
+      "handle": null
+    },
+    {
+      "id": 2425,
+      "name": "davids",
+      "handle": null
+    },
+    {
+      "id": 2424,
+      "name": "stancel",
+      "handle": null
+    },
+    {
+      "id": 2423,
+      "name": "balaji",
+      "handle": null
+    },
+    {
+      "id": 2422,
+      "name": "ns",
+      "handle": null
+    }
+  ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-11T06:58+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-11T06:58+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-12T07:11+00:00 UTC): 15\nHelp us welcome: cypherpunk, pavol, trust, bybit, chris, brian, money, cameron, bank, tyler, anon, davids, stancel, balaji, ns\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-12T07:11+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
