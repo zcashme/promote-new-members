@@ -1,7 +1,18 @@
 {
-  "timestamp_utc": "2026-10-13T07:35+00:00",
-  "users": [],
+  "timestamp_utc": "2026-10-14T05:59+00:00",
+  "users": [
+    {
+      "id": 2439,
+      "name": "elcryptoexperto",
+      "handle": "ElCryptoexng"
+    },
+    {
+      "id": 2438,
+      "name": "willy",
+      "handle": null
+    }
+  ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-13T07:35+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-13T07:35+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-14T05:59+00:00 UTC): 2\nHelp us welcome: @ElCryptoexng\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-14T05:59+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
