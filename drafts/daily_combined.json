@@ -1,18 +1,77 @@
 {
-  "timestamp_utc": "2026-10-15T05:45+00:00",
+  "timestamp_utc": "2026-10-16T05:42+00:00",
   "users": [
     {
-      "id": 2441,
-      "name": "samuels",
+      "id": 2445,
+      "name": "michael",
       "handle": null
     },
     {
-      "id": 2440,
-      "name": "zcashpunk",
+      "id": 2444,
+      "name": "violetrollergirl",
+      "handle": null
+    },
+    {
+      "id": 2443,
+      "name": "silva",
+      "handle": null
+    },
+    {
+      "id": 2442,
+      "name": "payadam",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-15T05:45+00:00 UTC): 2\nHelp us welcome: samuels, zcashpunk\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-15T05:45+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 2207,
+      "name": "aarnott",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2427,
+      "name": "tyler",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2428,
+      "name": "bank",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2429,
+      "name": "cameron",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2430,
+      "name": "money",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2431,
+      "name": "brian",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2442,
+      "name": "payadam",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2444,
+      "name": "violetrollergirl",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-16T05:42+00:00 UTC): 4\nHelp us welcome: michael, violetrollergirl, silva, payadam\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-16T05:42+00:00 UTC): 8\nProps to: aarnott, tyler, bank, cameron, money, brian, payadam, violetrollergirl\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

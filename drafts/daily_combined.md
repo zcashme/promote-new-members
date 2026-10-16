@@ -1,33 +1,42 @@
-**Generated at:** 2026-10-15T05:45+00:00 UTC
+**Generated at:** 2026-10-16T05:42+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-15T05:45+00:00 UTC): 2
-Help us welcome: samuels, zcashpunk
+🚀 New to ZcashMe (last 24h since 2026-10-16T05:42+00:00 UTC): 4
+Help us welcome: michael, violetrollergirl, silva, payadam
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- samuels (no handle)
-- zcashpunk (no handle)
+- michael (no handle)
+- violetrollergirl (no handle)
+- silva (no handle)
+- payadam (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 8
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-15T05:45+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-16T05:42+00:00 UTC): 8
+Props to: aarnott, tyler, bank, cameron, money, brian, payadam, violetrollergirl
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- aarnott (no handle) — Verified
+- tyler (no handle) — Verified
+- bank (no handle) — Verified
+- cameron (no handle) — Verified
+- money (no handle) — Verified
+- brian (no handle) — Verified
+- payadam (no handle) — Verified
+- violetrollergirl (no handle) — Verified
 
 ---
 
