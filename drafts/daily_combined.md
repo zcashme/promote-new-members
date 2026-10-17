@@ -1,42 +1,46 @@
-**Generated at:** 2026-10-16T05:42+00:00 UTC
+**Generated at:** 2026-10-17T05:27+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 4
+**Count:** 14
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-16T05:42+00:00 UTC): 4
-Help us welcome: michael, violetrollergirl, silva, payadam
+🚀 New to ZcashMe (last 24h since 2026-10-17T05:27+00:00 UTC): 14
+Help us welcome: straightup, wolf, ironman, batman, nobody, subflow, glonky, amazon, averyangel, tony, usa, cash, chewiewins, ultraman
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- michael (no handle)
-- violetrollergirl (no handle)
-- silva (no handle)
-- payadam (no handle)
+- straightup (no handle)
+- wolf (no handle)
+- ironman (no handle)
+- batman (no handle)
+- nobody (no handle)
+- subflow (no handle)
+- glonky (no handle)
+- amazon (no handle)
+- averyangel (no handle)
+- tony (no handle)
+- usa (no handle)
+- cash (no handle)
+- chewiewins (no handle)
+- ultraman (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 8
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-16T05:42+00:00 UTC): 8
-Props to: aarnott, tyler, bank, cameron, money, brian, payadam, violetrollergirl
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-17T05:27+00:00 UTC): 2
+Props to: @0xPierre_com
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- aarnott (no handle) — Verified
-- tyler (no handle) — Verified
-- bank (no handle) — Verified
-- cameron (no handle) — Verified
-- money (no handle) — Verified
-- brian (no handle) — Verified
-- payadam (no handle) — Verified
-- violetrollergirl (no handle) — Verified
+- keiara_d (no handle) — Verified
+- 0xPierre (@0xPierre_com) — Verified
 
 ---
 
