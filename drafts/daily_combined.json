@@ -1,91 +1,57 @@
 {
-  "timestamp_utc": "2026-10-17T05:27+00:00",
+  "timestamp_utc": "2026-10-18T05:40+00:00",
   "users": [
     {
-      "id": 2505,
-      "name": "straightup",
+      "id": 2511,
+      "name": "divlyfein",
       "handle": null
     },
     {
-      "id": 2504,
-      "name": "wolf",
+      "id": 2510,
+      "name": "rafaelando",
       "handle": null
     },
     {
-      "id": 2503,
-      "name": "ironman",
+      "id": 2509,
+      "name": "sh3cklr",
       "handle": null
     },
     {
-      "id": 2502,
-      "name": "batman",
+      "id": 2508,
+      "name": "sultan",
       "handle": null
     },
     {
-      "id": 2501,
-      "name": "nobody",
+      "id": 2507,
+      "name": "sultan",
       "handle": null
     },
     {
-      "id": 2500,
-      "name": "subflow",
-      "handle": null
-    },
-    {
-      "id": 2499,
-      "name": "glonky",
-      "handle": null
-    },
-    {
-      "id": 2498,
-      "name": "amazon",
-      "handle": null
-    },
-    {
-      "id": 2497,
-      "name": "averyangel",
-      "handle": null
-    },
-    {
-      "id": 2496,
-      "name": "tony",
-      "handle": null
-    },
-    {
-      "id": 2495,
-      "name": "usa",
-      "handle": null
-    },
-    {
-      "id": 2494,
-      "name": "cash",
-      "handle": null
-    },
-    {
-      "id": 2447,
-      "name": "chewiewins",
-      "handle": null
-    },
-    {
-      "id": 2446,
-      "name": "ultraman",
+      "id": 2506,
+      "name": "sultan",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2110,
-      "name": "keiara_d",
+      "id": 1307,
+      "name": "Yoditar",
       "handle": null,
       "method": "Verified"
     },
     {
-      "id": 1050,
-      "name": "0xPierre",
-      "handle": "0xPierre_com",
+      "id": 1678,
+      "name": "sumok",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2511,
+      "name": "divlyfein",
+      "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-17T05:27+00:00 UTC): 14\nHelp us welcome: straightup, wolf, ironman, batman, nobody, subflow, glonky, amazon, averyangel, tony, usa, cash, chewiewins, ultraman\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-17T05:27+00:00 UTC): 2\nProps to: @0xPierre_com\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 6\nHelp us welcome: divlyfein, rafaelando, sh3cklr, sultan, sultan, sultan\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 3\nProps to: Yoditar, sumok, divlyfein\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

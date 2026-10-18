@@ -1,46 +1,39 @@
-**Generated at:** 2026-10-17T05:27+00:00 UTC
+**Generated at:** 2026-10-18T05:40+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 14
+**Count:** 6
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-17T05:27+00:00 UTC): 14
-Help us welcome: straightup, wolf, ironman, batman, nobody, subflow, glonky, amazon, averyangel, tony, usa, cash, chewiewins, ultraman
+🚀 New to ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 6
+Help us welcome: divlyfein, rafaelando, sh3cklr, sultan, sultan, sultan
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- straightup (no handle)
-- wolf (no handle)
-- ironman (no handle)
-- batman (no handle)
-- nobody (no handle)
-- subflow (no handle)
-- glonky (no handle)
-- amazon (no handle)
-- averyangel (no handle)
-- tony (no handle)
-- usa (no handle)
-- cash (no handle)
-- chewiewins (no handle)
-- ultraman (no handle)
+- divlyfein (no handle)
+- rafaelando (no handle)
+- sh3cklr (no handle)
+- sultan (no handle)
+- sultan (no handle)
+- sultan (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 3
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-17T05:27+00:00 UTC): 2
-Props to: @0xPierre_com
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 3
+Props to: Yoditar, sumok, divlyfein
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- keiara_d (no handle) — Verified
-- 0xPierre (@0xPierre_com) — Verified
+- Yoditar (no handle) — Verified
+- sumok (no handle) — Verified
+- divlyfein (no handle) — Verified
 
 ---
 
