@@ -1,57 +1,14 @@
 {
-  "timestamp_utc": "2026-10-18T05:40+00:00",
-  "users": [
-    {
-      "id": 2511,
-      "name": "divlyfein",
-      "handle": null
-    },
-    {
-      "id": 2510,
-      "name": "rafaelando",
-      "handle": null
-    },
-    {
-      "id": 2509,
-      "name": "sh3cklr",
-      "handle": null
-    },
-    {
-      "id": 2508,
-      "name": "sultan",
-      "handle": null
-    },
-    {
-      "id": 2507,
-      "name": "sultan",
-      "handle": null
-    },
-    {
-      "id": 2506,
-      "name": "sultan",
-      "handle": null
-    }
-  ],
+  "timestamp_utc": "2026-10-19T05:57+00:00",
+  "users": [],
   "verified": [
-    {
-      "id": 1307,
-      "name": "Yoditar",
-      "handle": null,
-      "method": "Verified"
-    },
     {
       "id": 1678,
       "name": "sumok",
       "handle": null,
       "method": "Verified"
-    },
-    {
-      "id": 2511,
-      "name": "divlyfein",
-      "handle": null,
-      "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 6\nHelp us welcome: divlyfein, rafaelando, sh3cklr, sultan, sultan, sultan\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 3\nProps to: Yoditar, sumok, divlyfein\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-10-19T05:57+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-10-19T05:57+00:00 UTC): 1\nProps to: sumok\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

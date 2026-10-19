@@ -1,39 +1,32 @@
-**Generated at:** 2026-10-18T05:40+00:00 UTC
+**Generated at:** 2026-10-19T05:57+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 6
+**Count:** 0
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 6
-Help us welcome: divlyfein, rafaelando, sh3cklr, sultan, sultan, sultan
+🚀 New to ZcashMe (last 24h since 2026-10-19T05:57+00:00 UTC): 0
+Help us welcome: 
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- divlyfein (no handle)
-- rafaelando (no handle)
-- sh3cklr (no handle)
-- sultan (no handle)
-- sultan (no handle)
-- sultan (no handle)
+
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 3
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-18T05:40+00:00 UTC): 3
-Props to: Yoditar, sumok, divlyfein
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-19T05:57+00:00 UTC): 1
+Props to: sumok
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Yoditar (no handle) — Verified
 - sumok (no handle) — Verified
-- divlyfein (no handle) — Verified
 
 ---
 
