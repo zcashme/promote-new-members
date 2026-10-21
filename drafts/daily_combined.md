@@ -1,19 +1,20 @@
-**Generated at:** 2026-10-20T05:50+00:00 UTC
+**Generated at:** 2026-10-21T05:52+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-20T05:50+00:00 UTC): 2
-Help us welcome: 000000, vadim
+🚀 New to ZcashMe (last 24h since 2026-10-21T05:52+00:00 UTC): 3
+Help us welcome: bonnieb, brozovsky, aurabrito
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- 000000 (no handle)
-- vadim (no handle)
+- bonnieb (no handle)
+- brozovsky (no handle)
+- aurabrito (no handle)
 
 ---
 
@@ -21,14 +22,14 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-20T05:50+00:00 UTC): 2
-Props to: amazon, 000000
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-21T05:52+00:00 UTC): 2
+Props to: brozovsky, bonnieb
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- amazon (no handle) — Verified
-- 000000 (no handle) — Verified
+- brozovsky (no handle) — Verified
+- bonnieb (no handle) — Verified
 
 ---
 
