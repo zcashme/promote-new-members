@@ -1,35 +1,33 @@
-**Generated at:** 2026-10-21T05:52+00:00 UTC
+**Generated at:** 2026-10-22T05:56+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-21T05:52+00:00 UTC): 3
-Help us welcome: bonnieb, brozovsky, aurabrito
+🚀 New to ZcashMe (last 24h since 2026-10-22T05:56+00:00 UTC): 2
+Help us welcome: @adity0ux
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- bonnieb (no handle)
-- brozovsky (no handle)
-- aurabrito (no handle)
+- adityas (@adity0ux)
+- robert (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-21T05:52+00:00 UTC): 2
-Props to: brozovsky, bonnieb
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-22T05:56+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- brozovsky (no handle) — Verified
-- bonnieb (no handle) — Verified
+
 
 ---
 
