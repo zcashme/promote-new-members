@@ -1,32 +1,35 @@
-**Generated at:** 2026-10-23T05:53+00:00 UTC
+**Generated at:** 2026-10-24T05:37+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-23T05:53+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-10-24T05:37+00:00 UTC): 3
+Help us welcome: mybank, rumma, shmshm
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- mybank (no handle)
+- rumma (no handle)
+- shmshm (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 2
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-23T05:53+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-24T05:37+00:00 UTC): 2
+Props to: shmshm, mybank
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- shmshm (no handle) — Verified
+- mybank (no handle) — Verified
 
 ---
 
