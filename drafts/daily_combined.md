@@ -1,34 +1,32 @@
-**Generated at:** 2026-10-25T05:52+00:00 UTC
+**Generated at:** 2026-10-26T05:56+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-10-25T05:52+00:00 UTC): 2
-Help us welcome: shmoko, opulence
+🚀 New to ZcashMe (last 24h since 2026-10-26T05:56+00:00 UTC): 1
+Help us welcome: jayden
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- shmoko (no handle)
-- opulence (no handle)
+- jayden (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-10-25T05:52+00:00 UTC): 2
-Props to: opulence, shmoko
+🔐 Newly verified on ZcashMe (last 24h since 2026-10-26T05:56+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- opulence (no handle) — Verified
-- shmoko (no handle) — Verified
+
 
 ---
 
