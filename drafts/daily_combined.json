@@ -1,7 +1,70 @@
 {
-  "timestamp_utc": "2026-11-01T07:18+00:00",
-  "users": [],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-01T07:18+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-01T07:18+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "timestamp_utc": "2026-11-02T07:32+00:00",
+  "users": [
+    {
+      "id": 2554,
+      "name": "michae2xl",
+      "handle": null
+    },
+    {
+      "id": 2552,
+      "name": "aamandita",
+      "handle": null
+    },
+    {
+      "id": 2550,
+      "name": "extropic",
+      "handle": null
+    },
+    {
+      "id": 2549,
+      "name": "david",
+      "handle": null
+    },
+    {
+      "id": 2546,
+      "name": "zatoshi",
+      "handle": null
+    },
+    {
+      "id": 2545,
+      "name": "chewie",
+      "handle": null
+    },
+    {
+      "id": 2542,
+      "name": "danette",
+      "handle": null
+    },
+    {
+      "id": 2541,
+      "name": "unitedstates",
+      "handle": null
+    },
+    {
+      "id": 2540,
+      "name": "england",
+      "handle": null
+    },
+    {
+      "id": 2538,
+      "name": "zecsy",
+      "handle": null
+    },
+    {
+      "id": 2530,
+      "name": "craftsoldier",
+      "handle": null
+    }
+  ],
+  "verified": [
+    {
+      "id": 415,
+      "name": "zechariah",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-02T07:32+00:00 UTC): 11\nHelp us welcome: michae2xl, aamandita, extropic, david, zatoshi, chewie, danette, unitedstates, england, zecsy, craftsoldier\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-02T07:32+00:00 UTC): 1\nProps to: zechariah\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
