@@ -1,28 +1,29 @@
-**Generated at:** 2026-11-02T07:32+00:00 UTC
+**Generated at:** 2026-11-03T07:46+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 11
+**Count:** 12
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-02T07:32+00:00 UTC): 11
-Help us welcome: michae2xl, aamandita, extropic, david, zatoshi, chewie, danette, unitedstates, england, zecsy, craftsoldier
+🚀 New to ZcashMe (last 24h since 2026-11-03T07:46+00:00 UTC): 12
+Help us welcome: james, 55555, ocjonny, dragon, aarnott, hardaeborla, sahand, khirul, zito, missblei, liberty, willy
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- michae2xl (no handle)
-- aamandita (no handle)
-- extropic (no handle)
-- david (no handle)
-- zatoshi (no handle)
-- chewie (no handle)
-- danette (no handle)
-- unitedstates (no handle)
-- england (no handle)
-- zecsy (no handle)
-- craftsoldier (no handle)
+- james (no handle)
+- 55555 (no handle)
+- ocjonny (no handle)
+- dragon (no handle)
+- aarnott (no handle)
+- hardaeborla (no handle)
+- sahand (no handle)
+- khirul (no handle)
+- zito (no handle)
+- missblei (no handle)
+- liberty (no handle)
+- willy (no handle)
 
 ---
 
@@ -30,13 +31,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-02T07:32+00:00 UTC): 1
-Props to: zechariah
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-03T07:46+00:00 UTC): 1
+Props to: 55555
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- zechariah (no handle) — Verified
+- 55555 (no handle) — Verified
 
 ---
 
