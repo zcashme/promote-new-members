@@ -1,30 +1,25 @@
-**Generated at:** 2026-11-04T07:24+00:00 UTC
+**Generated at:** 2026-11-05T07:50+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 13
+**Count:** 8
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-04T07:24+00:00 UTC): 13
-Help us welcome: skydream, pelios, bradley, bradcush, apple, adrianandreev, divijpandya, dylanb, lana, fedor, alex, joris, t1v8
+🚀 New to ZcashMe (last 24h since 2026-11-05T07:50+00:00 UTC): 8
+Help us welcome: virgin, academy, vladcrypto, vldl, cryptovlad, jaredkushner, tesla, ruzcash
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- skydream (no handle)
-- pelios (no handle)
-- bradley (no handle)
-- bradcush (no handle)
-- apple (no handle)
-- adrianandreev (no handle)
-- divijpandya (no handle)
-- dylanb (no handle)
-- lana (no handle)
-- fedor (no handle)
-- alex (no handle)
-- joris (no handle)
-- t1v8 (no handle)
+- virgin (no handle)
+- academy (no handle)
+- vladcrypto (no handle)
+- vldl (no handle)
+- cryptovlad (no handle)
+- jaredkushner (no handle)
+- tesla (no handle)
+- ruzcash (no handle)
 
 ---
 
@@ -32,13 +27,13 @@ P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 **Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-04T07:24+00:00 UTC): 1
-Props to: 55555
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-05T07:50+00:00 UTC): 1
+Props to: vldl
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- 55555 (no handle) — Verified
+- vldl (no handle) — Verified
 
 ---
 

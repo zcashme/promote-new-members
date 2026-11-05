@@ -1,80 +1,55 @@
 {
-  "timestamp_utc": "2026-11-04T07:24+00:00",
+  "timestamp_utc": "2026-11-05T07:50+00:00",
   "users": [
     {
-      "id": 2621,
-      "name": "skydream",
+      "id": 2634,
+      "name": "virgin",
       "handle": null
     },
     {
-      "id": 2619,
-      "name": "pelios",
+      "id": 2632,
+      "name": "academy",
       "handle": null
     },
     {
-      "id": 2618,
-      "name": "bradley",
+      "id": 2630,
+      "name": "vladcrypto",
       "handle": null
     },
     {
-      "id": 2616,
-      "name": "bradcush",
+      "id": 2629,
+      "name": "vldl",
       "handle": null
     },
     {
-      "id": 2614,
-      "name": "apple",
+      "id": 2628,
+      "name": "cryptovlad",
       "handle": null
     },
     {
-      "id": 2613,
-      "name": "adrianandreev",
+      "id": 2626,
+      "name": "jaredkushner",
       "handle": null
     },
     {
-      "id": 2611,
-      "name": "divijpandya",
+      "id": 2624,
+      "name": "tesla",
       "handle": null
     },
     {
-      "id": 2609,
-      "name": "dylanb",
-      "handle": null
-    },
-    {
-      "id": 2607,
-      "name": "lana",
-      "handle": null
-    },
-    {
-      "id": 2601,
-      "name": "fedor",
-      "handle": null
-    },
-    {
-      "id": 2599,
-      "name": "alex",
-      "handle": null
-    },
-    {
-      "id": 2598,
-      "name": "joris",
-      "handle": null
-    },
-    {
-      "id": 2597,
-      "name": "t1v8",
+      "id": 2622,
+      "name": "ruzcash",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2594,
-      "name": "55555",
+      "id": 2629,
+      "name": "vldl",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-04T07:24+00:00 UTC): 13\nHelp us welcome: skydream, pelios, bradley, bradcush, apple, adrianandreev, divijpandya, dylanb, lana, fedor, alex, joris, t1v8\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-04T07:24+00:00 UTC): 1\nProps to: 55555\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-05T07:50+00:00 UTC): 8\nHelp us welcome: virgin, academy, vladcrypto, vldl, cryptovlad, jaredkushner, tesla, ruzcash\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-05T07:50+00:00 UTC): 1\nProps to: vldl\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
