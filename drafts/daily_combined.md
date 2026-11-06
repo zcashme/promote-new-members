@@ -1,39 +1,34 @@
-**Generated at:** 2026-11-05T07:50+00:00 UTC
+**Generated at:** 2026-11-06T07:50+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 8
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-05T07:50+00:00 UTC): 8
-Help us welcome: virgin, academy, vladcrypto, vldl, cryptovlad, jaredkushner, tesla, ruzcash
+🚀 New to ZcashMe (last 24h since 2026-11-06T07:50+00:00 UTC): 3
+Help us welcome: satoshi, test1es, pikachu
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- virgin (no handle)
-- academy (no handle)
-- vladcrypto (no handle)
-- vldl (no handle)
-- cryptovlad (no handle)
-- jaredkushner (no handle)
-- tesla (no handle)
-- ruzcash (no handle)
+- satoshi (no handle)
+- test1es (no handle)
+- pikachu (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-05T07:50+00:00 UTC): 1
-Props to: vldl
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-06T07:50+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- vldl (no handle) — Verified
+
 
 ---
 
