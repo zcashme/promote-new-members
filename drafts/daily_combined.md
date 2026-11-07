@@ -1,34 +1,34 @@
-**Generated at:** 2026-11-06T07:50+00:00 UTC
+**Generated at:** 2026-11-07T06:58+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-06T07:50+00:00 UTC): 3
-Help us welcome: satoshi, test1es, pikachu
+🚀 New to ZcashMe (last 24h since 2026-11-07T06:58+00:00 UTC): 1
+Help us welcome: ryan
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- satoshi (no handle)
-- test1es (no handle)
-- pikachu (no handle)
+- ryan (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 3
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-06T07:50+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-07T06:58+00:00 UTC): 3
+Props to: Yoditar, zechariah, craftsoldier
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- Yoditar (no handle) — Verified
+- zechariah (no handle) — Verified
+- craftsoldier (no handle) — Verified
 
 ---
 
