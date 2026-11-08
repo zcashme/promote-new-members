@@ -1,9 +1,19 @@
 {
-  "timestamp_utc": "2026-11-07T06:58+00:00",
+  "timestamp_utc": "2026-11-08T07:06+00:00",
   "users": [
     {
-      "id": 2641,
-      "name": "ryan",
+      "id": 2647,
+      "name": "zecretary",
+      "handle": null
+    },
+    {
+      "id": 2645,
+      "name": "israel",
+      "handle": null
+    },
+    {
+      "id": 2643,
+      "name": "zombie",
       "handle": null
     }
   ],
@@ -15,18 +25,12 @@
       "method": "Verified"
     },
     {
-      "id": 415,
-      "name": "zechariah",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 1772,
-      "name": "craftsoldier",
+      "id": 2647,
+      "name": "zecretary",
       "handle": null,
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-07T06:58+00:00 UTC): 1\nHelp us welcome: ryan\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-07T06:58+00:00 UTC): 3\nProps to: Yoditar, zechariah, craftsoldier\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-08T07:06+00:00 UTC): 3\nHelp us welcome: zecretary, israel, zombie\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-08T07:06+00:00 UTC): 2\nProps to: Yoditar, zecretary\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
