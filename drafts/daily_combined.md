@@ -1,35 +1,33 @@
-**Generated at:** 2026-11-08T07:06+00:00 UTC
+**Generated at:** 2026-11-09T07:49+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-08T07:06+00:00 UTC): 3
-Help us welcome: zecretary, israel, zombie
+🚀 New to ZcashMe (last 24h since 2026-11-09T07:49+00:00 UTC): 2
+Help us welcome: tomlefevre, demozostr
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- zecretary (no handle)
-- israel (no handle)
-- zombie (no handle)
+- tomlefevre (no handle)
+- demozostr (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-08T07:06+00:00 UTC): 2
-Props to: Yoditar, zecretary
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-09T07:49+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- Yoditar (no handle) — Verified
-- zecretary (no handle) — Verified
+
 
 ---
 
