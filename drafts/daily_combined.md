@@ -1,33 +1,35 @@
-**Generated at:** 2026-11-10T08:12+00:00 UTC
+**Generated at:** 2026-11-11T07:39+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 1
+**Count:** 4
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-10T08:12+00:00 UTC): 1
-Help us welcome: mark
+🚀 New to ZcashMe (last 24h since 2026-11-11T07:39+00:00 UTC): 4
+Help us welcome: rojanmathew, leon, vincent, vlad
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- mark (no handle)
+- rojanmathew (no handle)
+- leon (no handle)
+- vincent (no handle)
+- vlad (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 2
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-10T08:12+00:00 UTC): 2
-Props to: craftsoldier, Blakiat
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-11T07:39+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- craftsoldier (no handle) — Verified
-- Blakiat (no handle) — Verified
+
 
 ---
 
