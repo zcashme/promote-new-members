@@ -1,32 +1,40 @@
-**Generated at:** 2026-11-12T08:08+00:00 UTC
+**Generated at:** 2026-11-13T07:44+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 0
+**Count:** 7
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-12T08:08+00:00 UTC): 0
-Help us welcome: 
+🚀 New to ZcashMe (last 24h since 2026-11-13T07:44+00:00 UTC): 7
+Help us welcome: zostr, westernvigilance, xzkradio, robmarn, ambriorix, vivek, privacy
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-
+- zostr (no handle)
+- westernvigilance (no handle)
+- xzkradio (no handle)
+- robmarn (no handle)
+- ambriorix (no handle)
+- vivek (no handle)
+- privacy (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 3
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-12T08:08+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-13T07:44+00:00 UTC): 3
+Props to: zkradio, robmarn, westernvigilance
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- zkradio (no handle) — Verified
+- robmarn (no handle) — Verified
+- westernvigilance (no handle) — Verified
 
 ---
 
