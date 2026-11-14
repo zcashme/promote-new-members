@@ -1,62 +1,18 @@
 {
-  "timestamp_utc": "2026-11-13T07:44+00:00",
+  "timestamp_utc": "2026-11-14T07:30+00:00",
   "users": [
     {
-      "id": 2673,
-      "name": "zostr",
+      "id": 2676,
+      "name": "manelius",
       "handle": null
     },
     {
-      "id": 2671,
-      "name": "westernvigilance",
-      "handle": null
-    },
-    {
-      "id": 2669,
-      "name": "xzkradio",
-      "handle": null
-    },
-    {
-      "id": 2667,
-      "name": "robmarn",
-      "handle": null
-    },
-    {
-      "id": 2665,
-      "name": "ambriorix",
-      "handle": null
-    },
-    {
-      "id": 2663,
-      "name": "vivek",
-      "handle": null
-    },
-    {
-      "id": 2661,
-      "name": "privacy",
+      "id": 2674,
+      "name": "encrypt",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 2124,
-      "name": "zkradio",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 2667,
-      "name": "robmarn",
-      "handle": null,
-      "method": "Verified"
-    },
-    {
-      "id": 2671,
-      "name": "westernvigilance",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-13T07:44+00:00 UTC): 7\nHelp us welcome: zostr, westernvigilance, xzkradio, robmarn, ambriorix, vivek, privacy\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-13T07:44+00:00 UTC): 3\nProps to: zkradio, robmarn, westernvigilance\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-14T07:30+00:00 UTC): 2\nHelp us welcome: manelius, encrypt\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-14T07:30+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
