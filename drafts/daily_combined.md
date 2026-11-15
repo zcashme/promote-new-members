@@ -1,33 +1,39 @@
-**Generated at:** 2026-11-14T07:30+00:00 UTC
+**Generated at:** 2026-11-15T07:43+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 2
+**Count:** 8
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-14T07:30+00:00 UTC): 2
-Help us welcome: manelius, encrypt
+🚀 New to ZcashMe (last 24h since 2026-11-15T07:43+00:00 UTC): 8
+Help us welcome: sheemprende, savezcash, jvsf, 000, donate, frank, frankbraun, vinnie
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- manelius (no handle)
-- encrypt (no handle)
+- sheemprende (no handle)
+- savezcash (no handle)
+- jvsf (no handle)
+- 000 (no handle)
+- donate (no handle)
+- frank (no handle)
+- frankbraun (no handle)
+- vinnie (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-14T07:30+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-15T07:43+00:00 UTC): 1
+Props to: jvsf
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- jvsf (no handle) — Verified
 
 ---
 
