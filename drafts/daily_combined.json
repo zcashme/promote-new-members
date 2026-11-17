@@ -1,33 +1,55 @@
 {
-  "timestamp_utc": "2026-11-16T07:50+00:00",
+  "timestamp_utc": "2026-11-17T08:58+00:00",
   "users": [
     {
-      "id": 2700,
-      "name": "unshielding",
+      "id": 2716,
+      "name": "zcashnamesqa",
       "handle": null
     },
     {
-      "id": 2698,
-      "name": "julianabraham",
+      "id": 2714,
+      "name": "onchaintrace",
       "handle": null
     },
     {
-      "id": 2696,
-      "name": "account",
+      "id": 2713,
+      "name": "icyhardware",
       "handle": null
     },
     {
-      "id": 2694,
-      "name": "zkmarketer",
+      "id": 2710,
+      "name": "nozywallet",
       "handle": null
     },
     {
-      "id": 2693,
-      "name": "jayden",
+      "id": 2708,
+      "name": "zoronomics",
+      "handle": null
+    },
+    {
+      "id": 2706,
+      "name": "romispectrum",
+      "handle": null
+    },
+    {
+      "id": 2704,
+      "name": "shielding",
+      "handle": null
+    },
+    {
+      "id": 2702,
+      "name": "transparent",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-16T07:50+00:00 UTC): 5\nHelp us welcome: unshielding, julianabraham, account, zkmarketer, jayden\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-16T07:50+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 2716,
+      "name": "zcashnamesqa",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-17T08:58+00:00 UTC): 8\nHelp us welcome: zcashnamesqa, onchaintrace, icyhardware, nozywallet, zoronomics, romispectrum, shielding, transparent\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-17T08:58+00:00 UTC): 1\nProps to: zcashnamesqa\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

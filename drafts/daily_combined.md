@@ -1,36 +1,39 @@
-**Generated at:** 2026-11-16T07:50+00:00 UTC
+**Generated at:** 2026-11-17T08:58+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 5
+**Count:** 8
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-16T07:50+00:00 UTC): 5
-Help us welcome: unshielding, julianabraham, account, zkmarketer, jayden
+🚀 New to ZcashMe (last 24h since 2026-11-17T08:58+00:00 UTC): 8
+Help us welcome: zcashnamesqa, onchaintrace, icyhardware, nozywallet, zoronomics, romispectrum, shielding, transparent
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- unshielding (no handle)
-- julianabraham (no handle)
-- account (no handle)
-- zkmarketer (no handle)
-- jayden (no handle)
+- zcashnamesqa (no handle)
+- onchaintrace (no handle)
+- icyhardware (no handle)
+- nozywallet (no handle)
+- zoronomics (no handle)
+- romispectrum (no handle)
+- shielding (no handle)
+- transparent (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-16T07:50+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-17T08:58+00:00 UTC): 1
+Props to: zcashnamesqa
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- zcashnamesqa (no handle) — Verified
 
 ---
 
