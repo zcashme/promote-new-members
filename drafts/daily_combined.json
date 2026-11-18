@@ -1,55 +1,1573 @@
 {
-  "timestamp_utc": "2026-11-17T08:58+00:00",
+  "timestamp_utc": "2026-11-18T08:23+00:00",
   "users": [
     {
-      "id": 2716,
-      "name": "zcashnamesqa",
+      "id": 3026,
+      "name": "wallstreet",
       "handle": null
     },
     {
-      "id": 2714,
-      "name": "onchaintrace",
+      "id": 3025,
+      "name": "babachen",
       "handle": null
     },
     {
-      "id": 2713,
-      "name": "icyhardware",
+      "id": 3024,
+      "name": "zypherpunk",
       "handle": null
     },
     {
-      "id": 2710,
-      "name": "nozywallet",
+      "id": 3023,
+      "name": "zubflow",
       "handle": null
     },
     {
-      "id": 2708,
-      "name": "zoronomics",
+      "id": 3022,
+      "name": "zksnarks",
       "handle": null
     },
     {
-      "id": 2706,
-      "name": "romispectrum",
+      "id": 3021,
+      "name": "zksnark",
       "handle": null
     },
     {
-      "id": 2704,
-      "name": "shielding",
+      "id": 3020,
+      "name": "zitycat",
       "handle": null
     },
     {
-      "id": 2702,
-      "name": "transparent",
+      "id": 3019,
+      "name": "zilpah",
+      "handle": null
+    },
+    {
+      "id": 3018,
+      "name": "zideline",
+      "handle": null
+    },
+    {
+      "id": 3017,
+      "name": "zeroknown",
+      "handle": null
+    },
+    {
+      "id": 3016,
+      "name": "zerodartz",
+      "handle": null
+    },
+    {
+      "id": 3015,
+      "name": "zecforge",
+      "handle": null
+    },
+    {
+      "id": 3014,
+      "name": "zecbit",
+      "handle": null
+    },
+    {
+      "id": 3013,
+      "name": "zecat",
+      "handle": null
+    },
+    {
+      "id": 3012,
+      "name": "zcashmag",
+      "handle": null
+    },
+    {
+      "id": 3011,
+      "name": "zane",
+      "handle": null
+    },
+    {
+      "id": 3010,
+      "name": "youssef",
+      "handle": null
+    },
+    {
+      "id": 3009,
+      "name": "wong",
+      "handle": null
+    },
+    {
+      "id": 3008,
+      "name": "witness",
+      "handle": null
+    },
+    {
+      "id": 3007,
+      "name": "winterspring",
+      "handle": null
+    },
+    {
+      "id": 3006,
+      "name": "whyzcashxyz",
+      "handle": null
+    },
+    {
+      "id": 3005,
+      "name": "whitehouse",
+      "handle": null
+    },
+    {
+      "id": 3004,
+      "name": "whale",
+      "handle": null
+    },
+    {
+      "id": 3003,
+      "name": "wallet",
+      "handle": null
+    },
+    {
+      "id": 3002,
+      "name": "vladimir",
+      "handle": null
+    },
+    {
+      "id": 3001,
+      "name": "vitalik",
+      "handle": null
+    },
+    {
+      "id": 3000,
+      "name": "viktor",
+      "handle": null
+    },
+    {
+      "id": 2999,
+      "name": "veronika",
+      "handle": null
+    },
+    {
+      "id": 2998,
+      "name": "verify",
+      "handle": null
+    },
+    {
+      "id": 2997,
+      "name": "valentin",
+      "handle": null
+    },
+    {
+      "id": 2996,
+      "name": "untraceable",
+      "handle": null
+    },
+    {
+      "id": 2995,
+      "name": "unknown",
+      "handle": null
+    },
+    {
+      "id": 2994,
+      "name": "unitedkingdom",
+      "handle": null
+    },
+    {
+      "id": 2993,
+      "name": "trump",
+      "handle": null
+    },
+    {
+      "id": 2992,
+      "name": "truman",
+      "handle": null
+    },
+    {
+      "id": 2991,
+      "name": "trillions",
+      "handle": null
+    },
+    {
+      "id": 2990,
+      "name": "trfe3ht5oyhjsz6f3ji5fj7ycfrkwnhrvh",
+      "handle": null
+    },
+    {
+      "id": 2989,
+      "name": "tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t",
+      "handle": null
+    },
+    {
+      "id": 2988,
+      "name": "tortoise",
+      "handle": null
+    },
+    {
+      "id": 2987,
+      "name": "tony",
+      "handle": null
+    },
+    {
+      "id": 2986,
+      "name": "tiago",
+      "handle": null
+    },
+    {
+      "id": 2985,
+      "name": "thumbsup",
+      "handle": null
+    },
+    {
+      "id": 2984,
+      "name": "thomas",
+      "handle": null
+    },
+    {
+      "id": 2983,
+      "name": "thezec",
+      "handle": null
+    },
+    {
+      "id": 2982,
+      "name": "thebigdre",
+      "handle": null
+    },
+    {
+      "id": 2981,
+      "name": "tex1gl5qdn3rlz8038h2dp4c9e9pn86ad4w5v2rt7u",
+      "handle": null
+    },
+    {
+      "id": 2980,
+      "name": "tekxitehnzsmse2xqrbj4w32run966rdz8",
+      "handle": null
+    },
+    {
+      "id": 2979,
+      "name": "ted",
+      "handle": null
+    },
+    {
+      "id": 2978,
+      "name": "techera",
+      "handle": null
+    },
+    {
+      "id": 2977,
+      "name": "t1tdcad3kdbttlxufwbf8ky5ulklavcnrvw",
+      "handle": null
+    },
+    {
+      "id": 2976,
+      "name": "t1qgquhitjvxhzljxgp7772ctewafybrqxr",
+      "handle": null
+    },
+    {
+      "id": 2975,
+      "name": "t1kfwsnwjenrvjqgbdzhwkskpqbih2qx5ua",
+      "handle": null
+    },
+    {
+      "id": 2974,
+      "name": "sultan",
+      "handle": null
+    },
+    {
+      "id": 2973,
+      "name": "sudipto",
+      "handle": null
+    },
+    {
+      "id": 2972,
+      "name": "stick",
+      "handle": null
+    },
+    {
+      "id": 2971,
+      "name": "starshield",
+      "handle": null
+    },
+    {
+      "id": 2970,
+      "name": "starlink",
+      "handle": null
+    },
+    {
+      "id": 2969,
+      "name": "stablecoin",
+      "handle": null
+    },
+    {
+      "id": 2968,
+      "name": "sprunky",
+      "handle": null
+    },
+    {
+      "id": 2967,
+      "name": "spiderman",
+      "handle": null
+    },
+    {
+      "id": 2966,
+      "name": "solana",
+      "handle": null
+    },
+    {
+      "id": 2965,
+      "name": "sofakingdom",
+      "handle": null
+    },
+    {
+      "id": 2964,
+      "name": "snark",
+      "handle": null
+    },
+    {
+      "id": 2963,
+      "name": "skrambl",
+      "handle": null
+    },
+    {
+      "id": 2962,
+      "name": "skambl",
+      "handle": null
+    },
+    {
+      "id": 2961,
+      "name": "shields",
+      "handle": null
+    },
+    {
+      "id": 2960,
+      "name": "shieldedscan",
+      "handle": null
+    },
+    {
+      "id": 2959,
+      "name": "shieldedmark",
+      "handle": null
+    },
+    {
+      "id": 2958,
+      "name": "shieldedflow",
+      "handle": null
+    },
+    {
+      "id": 2957,
+      "name": "shielded",
+      "handle": null
+    },
+    {
+      "id": 2956,
+      "name": "shield",
+      "handle": null
+    },
+    {
+      "id": 2955,
+      "name": "shadow",
+      "handle": null
+    },
+    {
+      "id": 2954,
+      "name": "sergio",
+      "handle": null
+    },
+    {
+      "id": 2953,
+      "name": "serene",
+      "handle": null
+    },
+    {
+      "id": 2952,
+      "name": "sendmezec",
+      "handle": null
+    },
+    {
+      "id": 2951,
+      "name": "sendhere",
+      "handle": null
+    },
+    {
+      "id": 2950,
+      "name": "securepay",
+      "handle": null
+    },
+    {
+      "id": 2949,
+      "name": "seb3point0",
+      "handle": null
+    },
+    {
+      "id": 2948,
+      "name": "sascha",
+      "handle": null
+    },
+    {
+      "id": 2947,
+      "name": "sander",
+      "handle": null
+    },
+    {
+      "id": 2946,
+      "name": "sailor",
+      "handle": null
+    },
+    {
+      "id": 2945,
+      "name": "ryanfox",
+      "handle": null
+    },
+    {
+      "id": 2944,
+      "name": "roland",
+      "handle": null
+    },
+    {
+      "id": 2943,
+      "name": "rockstar",
+      "handle": null
+    },
+    {
+      "id": 2942,
+      "name": "rocket",
+      "handle": null
+    },
+    {
+      "id": 2941,
+      "name": "rlusd",
+      "handle": null
+    },
+    {
+      "id": 2940,
+      "name": "rickmanelius",
+      "handle": null
+    },
+    {
+      "id": 2939,
+      "name": "rewire",
+      "handle": null
+    },
+    {
+      "id": 2938,
+      "name": "retard",
+      "handle": null
+    },
+    {
+      "id": 2937,
+      "name": "redacted",
+      "handle": null
+    },
+    {
+      "id": 2936,
+      "name": "redact",
+      "handle": null
+    },
+    {
+      "id": 2935,
+      "name": "rbollinger",
+      "handle": null
+    },
+    {
+      "id": 2934,
+      "name": "qwerty",
+      "handle": null
+    },
+    {
+      "id": 2933,
+      "name": "quantum",
+      "handle": null
+    },
+    {
+      "id": 2932,
+      "name": "qoridigital",
+      "handle": null
+    },
+    {
+      "id": 2931,
+      "name": "privatekey",
+      "handle": null
+    },
+    {
+      "id": 2930,
+      "name": "private",
+      "handle": null
+    },
+    {
+      "id": 2929,
+      "name": "privacyisnormal",
+      "handle": null
+    },
+    {
+      "id": 2928,
+      "name": "prince",
+      "handle": null
+    },
+    {
+      "id": 2927,
+      "name": "primal",
+      "handle": null
+    },
+    {
+      "id": 2926,
+      "name": "porsche",
+      "handle": null
+    },
+    {
+      "id": 2925,
+      "name": "porno",
+      "handle": null
+    },
+    {
+      "id": 2924,
+      "name": "porn",
+      "handle": null
+    },
+    {
+      "id": 2923,
+      "name": "platinum",
+      "handle": null
+    },
+    {
+      "id": 2922,
+      "name": "picasso",
+      "handle": null
+    },
+    {
+      "id": 2921,
+      "name": "phil",
+      "handle": null
+    },
+    {
+      "id": 2920,
+      "name": "periagoge",
+      "handle": null
+    },
+    {
+      "id": 2919,
+      "name": "perfectmoney",
+      "handle": null
+    },
+    {
+      "id": 2918,
+      "name": "payment",
+      "handle": null
+    },
+    {
+      "id": 2917,
+      "name": "patrick",
+      "handle": null
+    },
+    {
+      "id": 2916,
+      "name": "pascalz",
+      "handle": null
+    },
+    {
+      "id": 2915,
+      "name": "parker",
+      "handle": null
+    },
+    {
+      "id": 2914,
+      "name": "otc",
+      "handle": null
+    },
+    {
+      "id": 2913,
+      "name": "orb",
+      "handle": null
+    },
+    {
+      "id": 2912,
+      "name": "oracle",
+      "handle": null
+    },
+    {
+      "id": 2911,
+      "name": "optimus",
+      "handle": null
+    },
+    {
+      "id": 2910,
+      "name": "opensea",
+      "handle": null
+    },
+    {
+      "id": 2909,
+      "name": "onlyfans",
+      "handle": null
+    },
+    {
+      "id": 2908,
+      "name": "onchain",
+      "handle": null
+    },
+    {
+      "id": 2907,
+      "name": "oliver",
+      "handle": null
+    },
+    {
+      "id": 2906,
+      "name": "offgrid",
+      "handle": null
+    },
+    {
+      "id": 2905,
+      "name": "nordin",
+      "handle": null
+    },
+    {
+      "id": 2904,
+      "name": "nirvana",
+      "handle": null
+    },
+    {
+      "id": 2903,
+      "name": "neuralink",
+      "handle": null
+    },
+    {
+      "id": 2902,
+      "name": "nerd",
+      "handle": null
+    },
+    {
+      "id": 2901,
+      "name": "nelson",
+      "handle": null
+    },
+    {
+      "id": 2900,
+      "name": "nathan",
+      "handle": null
+    },
+    {
+      "id": 2899,
+      "name": "muhammad",
+      "handle": null
+    },
+    {
+      "id": 2898,
+      "name": "moviendome",
+      "handle": null
+    },
+    {
+      "id": 2897,
+      "name": "morpheus",
+      "handle": null
+    },
+    {
+      "id": 2896,
+      "name": "moonwalker",
+      "handle": null
+    },
+    {
+      "id": 2895,
+      "name": "monkeymillions",
+      "handle": null
+    },
+    {
+      "id": 2894,
+      "name": "moneytory",
+      "handle": null
+    },
+    {
+      "id": 2893,
+      "name": "monero",
+      "handle": null
+    },
+    {
+      "id": 2892,
+      "name": "mobley",
+      "handle": null
+    },
+    {
+      "id": 2891,
+      "name": "mk4",
+      "handle": null
+    },
+    {
+      "id": 2890,
+      "name": "microsoft",
+      "handle": null
+    },
+    {
+      "id": 2889,
+      "name": "micka",
+      "handle": null
+    },
+    {
+      "id": 2888,
+      "name": "mexico",
+      "handle": null
+    },
+    {
+      "id": 2887,
+      "name": "messiah",
+      "handle": null
+    },
+    {
+      "id": 2886,
+      "name": "matrix",
+      "handle": null
+    },
+    {
+      "id": 2885,
+      "name": "marek",
+      "handle": null
+    },
+    {
+      "id": 2884,
+      "name": "marcelkb",
+      "handle": null
+    },
+    {
+      "id": 2883,
+      "name": "manifesto",
+      "handle": null
+    },
+    {
+      "id": 2882,
+      "name": "mamashadow",
+      "handle": null
+    },
+    {
+      "id": 2881,
+      "name": "lynxcollection",
+      "handle": null
+    },
+    {
+      "id": 2880,
+      "name": "lucien",
+      "handle": null
+    },
+    {
+      "id": 2879,
+      "name": "leeroy",
+      "handle": null
+    },
+    {
+      "id": 2878,
+      "name": "kyza",
+      "handle": null
+    },
+    {
+      "id": 2877,
+      "name": "kyle",
+      "handle": null
+    },
+    {
+      "id": 2876,
+      "name": "kuegi",
+      "handle": null
+    },
+    {
+      "id": 2875,
+      "name": "korea",
+      "handle": null
+    },
+    {
+      "id": 2874,
+      "name": "keiaradesouza",
+      "handle": null
+    },
+    {
+      "id": 2873,
+      "name": "katz",
+      "handle": null
+    },
+    {
+      "id": 2872,
+      "name": "karuppu",
+      "handle": null
+    },
+    {
+      "id": 2871,
+      "name": "kaitlyn",
+      "handle": null
+    },
+    {
+      "id": 2870,
+      "name": "justin",
+      "handle": null
+    },
+    {
+      "id": 2869,
+      "name": "junebug",
+      "handle": null
+    },
+    {
+      "id": 2868,
+      "name": "jesus",
+      "handle": null
+    },
+    {
+      "id": 2867,
+      "name": "jensen",
+      "handle": null
+    },
+    {
+      "id": 2866,
+      "name": "jenny",
+      "handle": null
+    },
+    {
+      "id": 2865,
+      "name": "jbollinger",
+      "handle": null
+    },
+    {
+      "id": 2864,
+      "name": "jason",
+      "handle": null
+    },
+    {
+      "id": 2863,
+      "name": "islam",
+      "handle": null
+    },
+    {
+      "id": 2862,
+      "name": "invoice",
+      "handle": null
+    },
+    {
+      "id": 2861,
+      "name": "investor",
+      "handle": null
+    },
+    {
+      "id": 2860,
+      "name": "inkling",
+      "handle": null
+    },
+    {
+      "id": 2859,
+      "name": "idiot",
+      "handle": null
+    },
+    {
+      "id": 2858,
+      "name": "iceman",
+      "handle": null
+    },
+    {
+      "id": 2857,
+      "name": "hype",
+      "handle": null
+    },
+    {
+      "id": 2856,
+      "name": "howie",
+      "handle": null
+    },
+    {
+      "id": 2855,
+      "name": "houston",
+      "handle": null
+    },
+    {
+      "id": 2854,
+      "name": "hashstore",
+      "handle": null
+    },
+    {
+      "id": 2853,
+      "name": "hashpleb",
+      "handle": null
+    },
+    {
+      "id": 2852,
+      "name": "halfin",
+      "handle": null
+    },
+    {
+      "id": 2851,
+      "name": "habibi",
+      "handle": null
+    },
+    {
+      "id": 2850,
+      "name": "gustavo",
+      "handle": null
+    },
+    {
+      "id": 2849,
+      "name": "greyscale",
+      "handle": null
+    },
+    {
+      "id": 2848,
+      "name": "gregory",
+      "handle": null
+    },
+    {
+      "id": 2847,
+      "name": "gluonix",
+      "handle": null
+    },
+    {
+      "id": 2846,
+      "name": "german",
+      "handle": null
+    },
+    {
+      "id": 2845,
+      "name": "georgepv",
+      "handle": null
+    },
+    {
+      "id": 2844,
+      "name": "george",
+      "handle": null
+    },
+    {
+      "id": 2843,
+      "name": "gaurang",
+      "handle": null
+    },
+    {
+      "id": 2842,
+      "name": "futbol",
+      "handle": null
+    },
+    {
+      "id": 2841,
+      "name": "freedom",
+      "handle": null
+    },
+    {
+      "id": 2840,
+      "name": "free",
+      "handle": null
+    },
+    {
+      "id": 2839,
+      "name": "freddy",
+      "handle": null
+    },
+    {
+      "id": 2838,
+      "name": "frankshielded",
+      "handle": null
+    },
+    {
+      "id": 2837,
+      "name": "foxter",
+      "handle": null
+    },
+    {
+      "id": 2836,
+      "name": "fox",
+      "handle": null
+    },
+    {
+      "id": 2835,
+      "name": "fletcher",
+      "handle": null
+    },
+    {
+      "id": 2834,
+      "name": "fabacab",
+      "handle": null
+    },
+    {
+      "id": 2833,
+      "name": "exchange",
+      "handle": null
+    },
+    {
+      "id": 2832,
+      "name": "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb",
+      "handle": null
+    },
+    {
+      "id": 2831,
+      "name": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v",
+      "handle": null
+    },
+    {
+      "id": 2830,
+      "name": "enigma",
+      "handle": null
+    },
+    {
+      "id": 2829,
+      "name": "enduro",
+      "handle": null
+    },
+    {
+      "id": 2828,
+      "name": "elliott",
+      "handle": null
+    },
+    {
+      "id": 2827,
+      "name": "einstein",
+      "handle": null
+    },
+    {
+      "id": 2826,
+      "name": "edgeqa1",
+      "handle": null
+    },
+    {
+      "id": 2825,
+      "name": "drwatson",
+      "handle": null
+    },
+    {
+      "id": 2824,
+      "name": "drwats0n",
+      "handle": null
+    },
+    {
+      "id": 2823,
+      "name": "donovan",
+      "handle": null
+    },
+    {
+      "id": 2822,
+      "name": "dominos",
+      "handle": null
+    },
+    {
+      "id": 2821,
+      "name": "dismad",
+      "handle": null
+    },
+    {
+      "id": 2820,
+      "name": "digicash",
+      "handle": null
+    },
+    {
+      "id": 2819,
+      "name": "dialethia",
+      "handle": null
+    },
+    {
+      "id": 2818,
+      "name": "deposit",
+      "handle": null
+    },
+    {
+      "id": 2817,
+      "name": "degen",
+      "handle": null
+    },
+    {
+      "id": 2816,
+      "name": "defidegen",
+      "handle": null
+    },
+    {
+      "id": 2815,
+      "name": "defi69",
+      "handle": null
+    },
+    {
+      "id": 2814,
+      "name": "deathryderrr",
+      "handle": null
+    },
+    {
+      "id": 2813,
+      "name": "darthvader",
+      "handle": null
+    },
+    {
+      "id": 2812,
+      "name": "daria",
+      "handle": null
+    },
+    {
+      "id": 2811,
+      "name": "daniel",
+      "handle": null
+    },
+    {
+      "id": 2810,
+      "name": "danbao",
+      "handle": null
+    },
+    {
+      "id": 2809,
+      "name": "d0x2a",
+      "handle": null
+    },
+    {
+      "id": 2808,
+      "name": "cryptovor",
+      "handle": null
+    },
+    {
+      "id": 2807,
+      "name": "cryptokingdom",
+      "handle": null
+    },
+    {
+      "id": 2806,
+      "name": "crypto",
+      "handle": null
+    },
+    {
+      "id": 2805,
+      "name": "cristiano",
+      "handle": null
+    },
+    {
+      "id": 2804,
+      "name": "craig",
+      "handle": null
+    },
+    {
+      "id": 2803,
+      "name": "corabourne",
+      "handle": null
+    },
+    {
+      "id": 2802,
+      "name": "connaugh",
+      "handle": null
+    },
+    {
+      "id": 2801,
+      "name": "clay",
+      "handle": null
+    },
+    {
+      "id": 2800,
+      "name": "ciscofran",
+      "handle": null
+    },
+    {
+      "id": 2799,
+      "name": "choose",
+      "handle": null
+    },
+    {
+      "id": 2798,
+      "name": "chipprbots",
+      "handle": null
+    },
+    {
+      "id": 2797,
+      "name": "cherry",
+      "handle": null
+    },
+    {
+      "id": 2796,
+      "name": "chelsea",
+      "handle": null
+    },
+    {
+      "id": 2795,
+      "name": "charles",
+      "handle": null
+    },
+    {
+      "id": 2794,
+      "name": "chain",
+      "handle": null
+    },
+    {
+      "id": 2793,
+      "name": "cesar",
+      "handle": null
+    },
+    {
+      "id": 2792,
+      "name": "capital",
+      "handle": null
+    },
+    {
+      "id": 2791,
+      "name": "canada",
+      "handle": null
+    },
+    {
+      "id": 2790,
+      "name": "bunkermode",
+      "handle": null
+    },
+    {
+      "id": 2789,
+      "name": "btc",
+      "handle": null
+    },
+    {
+      "id": 2788,
+      "name": "brousoft",
+      "handle": null
+    },
+    {
+      "id": 2787,
+      "name": "brian",
+      "handle": null
+    },
+    {
+      "id": 2786,
+      "name": "brazil",
+      "handle": null
+    },
+    {
+      "id": 2785,
+      "name": "branson",
+      "handle": null
+    },
+    {
+      "id": 2784,
+      "name": "boredrhino",
+      "handle": null
+    },
+    {
+      "id": 2783,
+      "name": "bollinger",
+      "handle": null
+    },
+    {
+      "id": 2782,
+      "name": "bobafett",
+      "handle": null
+    },
+    {
+      "id": 2781,
+      "name": "bmwalk11",
+      "handle": null
+    },
+    {
+      "id": 2780,
+      "name": "bloxster",
+      "handle": null
+    },
+    {
+      "id": 2779,
+      "name": "blofin",
+      "handle": null
+    },
+    {
+      "id": 2778,
+      "name": "blockchain",
+      "handle": null
+    },
+    {
+      "id": 2777,
+      "name": "blackrock",
+      "handle": null
+    },
+    {
+      "id": 2776,
+      "name": "bitcoin",
+      "handle": null
+    },
+    {
+      "id": 2775,
+      "name": "berlin",
+      "handle": null
+    },
+    {
+      "id": 2774,
+      "name": "bennel",
+      "handle": null
+    },
+    {
+      "id": 2773,
+      "name": "bawolf",
+      "handle": null
+    },
+    {
+      "id": 2772,
+      "name": "barrysilbert",
+      "handle": null
+    },
+    {
+      "id": 2771,
+      "name": "barry",
+      "handle": null
+    },
+    {
+      "id": 2770,
+      "name": "baller",
+      "handle": null
+    },
+    {
+      "id": 2769,
+      "name": "awawat",
+      "handle": null
+    },
+    {
+      "id": 2768,
+      "name": "awa",
+      "handle": null
+    },
+    {
+      "id": 2767,
+      "name": "averyangel",
+      "handle": null
+    },
+    {
+      "id": 2766,
+      "name": "avery",
+      "handle": null
+    },
+    {
+      "id": 2765,
+      "name": "artifacts",
+      "handle": null
+    },
+    {
+      "id": 2764,
+      "name": "artem",
+      "handle": null
+    },
+    {
+      "id": 2763,
+      "name": "armour",
+      "handle": null
+    },
+    {
+      "id": 2762,
+      "name": "argentina",
+      "handle": null
+    },
+    {
+      "id": 2761,
+      "name": "apollo",
+      "handle": null
+    },
+    {
+      "id": 2760,
+      "name": "antminer",
+      "handle": null
+    },
+    {
+      "id": 2759,
+      "name": "anthropic",
+      "handle": null
+    },
+    {
+      "id": 2758,
+      "name": "anonymous",
+      "handle": null
+    },
+    {
+      "id": 2757,
+      "name": "anon",
+      "handle": null
+    },
+    {
+      "id": 2756,
+      "name": "angelavery",
+      "handle": null
+    },
+    {
+      "id": 2755,
+      "name": "andy",
+      "handle": null
+    },
+    {
+      "id": 2754,
+      "name": "andrewtate",
+      "handle": null
+    },
+    {
+      "id": 2753,
+      "name": "andrew",
+      "handle": null
+    },
+    {
+      "id": 2752,
+      "name": "amir",
+      "handle": null
+    },
+    {
+      "id": 2751,
+      "name": "allahuakbar",
+      "handle": null
+    },
+    {
+      "id": 2750,
+      "name": "allah",
+      "handle": null
+    },
+    {
+      "id": 2749,
+      "name": "alison",
+      "handle": null
+    },
+    {
+      "id": 2748,
+      "name": "alexander",
+      "handle": null
+    },
+    {
+      "id": 2747,
+      "name": "alexa",
+      "handle": null
+    },
+    {
+      "id": 2746,
+      "name": "alaister",
+      "handle": null
+    },
+    {
+      "id": 2745,
+      "name": "agentic",
+      "handle": null
+    },
+    {
+      "id": 2744,
+      "name": "adrian",
+      "handle": null
+    },
+    {
+      "id": 2743,
+      "name": "aditya",
+      "handle": null
+    },
+    {
+      "id": 2742,
+      "name": "accept",
+      "handle": null
+    },
+    {
+      "id": 2741,
+      "name": "abraham",
+      "handle": null
+    },
+    {
+      "id": 2740,
+      "name": "aaron",
+      "handle": null
+    },
+    {
+      "id": 2739,
+      "name": "a7bdiyds5gjqgftxf17pprhtdkpkkrqbktr27dxvqxas",
+      "handle": null
+    },
+    {
+      "id": 2738,
+      "name": "88888",
+      "handle": null
+    },
+    {
+      "id": 2737,
+      "name": "666666",
+      "handle": null
+    },
+    {
+      "id": 2736,
+      "name": "42069",
+      "handle": null
+    },
+    {
+      "id": 2735,
+      "name": "1337bytes",
+      "handle": null
+    },
+    {
+      "id": 2734,
+      "name": "1234567890",
+      "handle": null
+    },
+    {
+      "id": 2733,
+      "name": "123456789",
+      "handle": null
+    },
+    {
+      "id": 2732,
+      "name": "123456",
+      "handle": null
+    },
+    {
+      "id": 2731,
+      "name": "101",
+      "handle": null
+    },
+    {
+      "id": 2730,
+      "name": "0xsahand",
+      "handle": null
+    },
+    {
+      "id": 2729,
+      "name": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "handle": null
+    },
+    {
+      "id": 2728,
+      "name": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "handle": null
+    },
+    {
+      "id": 2727,
+      "name": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+      "handle": null
+    },
+    {
+      "id": 2726,
+      "name": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "handle": null
+    },
+    {
+      "id": 2725,
+      "name": "0x4a64515e5e1d1073e83f30cb97bed20400b66e10",
+      "handle": null
+    },
+    {
+      "id": 2724,
+      "name": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "handle": null
+    },
+    {
+      "id": 2723,
+      "name": "0x0000000000000000000000000000000000000000",
+      "handle": null
+    },
+    {
+      "id": 2722,
+      "name": "0123456789",
+      "handle": null
+    },
+    {
+      "id": 2721,
+      "name": "000000",
+      "handle": null
+    },
+    {
+      "id": 2720,
+      "name": "path",
+      "handle": null
+    },
+    {
+      "id": 2718,
+      "name": "wizard",
       "handle": null
     }
   ],
   "verified": [
     {
-      "id": 2716,
-      "name": "zcashnamesqa",
+      "id": 2984,
+      "name": "thomas",
       "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 1531,
+      "name": "",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2616,
+      "name": "bradcush",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2665,
+      "name": "ambriorix",
+      "handle": "ambriorix",
       "method": "Verified"
     }
   ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-17T08:58+00:00 UTC): 8\nHelp us welcome: zcashnamesqa, onchaintrace, icyhardware, nozywallet, zoronomics, romispectrum, shielding, transparent\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-17T08:58+00:00 UTC): 1\nProps to: zcashnamesqa\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-18T08:23+00:00 UTC): 308\nHelp us welcome: wallstreet, babachen, zypherpunk, zubflow, zksnarks, zksnark, zitycat, zilpah, zideline, zeroknown, zerodartz, zecforge, zecbit, zecat, zcashmag, zane, youssef, wong, witness, winterspring, whyzcashxyz, whitehouse, whale, wallet, vladimir, vitalik, viktor, veronika, verify, valentin, untraceable, unknown, unitedkingdom, trump, truman, trillions, trfe3ht5oyhjsz6f3ji5fj7ycfrkwnhrvh, tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t, tortoise, tony, tiago, thumbsup, thomas, thezec, thebigdre, tex1gl5qdn3rlz8038h2dp4c9e9pn86ad4w5v2rt7u, tekxitehnzsmse2xqrbj4w32run966rdz8, ted, techera, t1tdcad3kdbttlxufwbf8ky5ulklavcnrvw, t1qgquhitjvxhzljxgp7772ctewafybrqxr, t1kfwsnwjenrvjqgbdzhwkskpqbih2qx5ua, sultan, sudipto, stick, starshield, starlink, stablecoin, sprunky, spiderman, solana, sofakingdom, snark, skrambl, skambl, shields, shieldedscan, shieldedmark, shieldedflow, shielded, shield, shadow, sergio, serene, sendmezec, sendhere, securepay, seb3point0, sascha, sander, sailor, ryanfox, roland, rockstar, rocket, rlusd, rickmanelius, rewire, retard, redacted, redact, rbollinger, qwerty, quantum, qoridigital, privatekey, private, privacyisnormal, prince, primal, porsche, porno, porn, platinum, picasso, phil, periagoge, perfectmoney, payment, patrick, pascalz, parker, otc, orb, oracle, optimus, opensea, onlyfans, onchain, oliver, offgrid, nordin, nirvana, neuralink, nerd, nelson, nathan, muhammad, moviendome, morpheus, moonwalker, monkeymillions, moneytory, monero, mobley, mk4, microsoft, micka, mexico, messiah, matrix, marek, marcelkb, manifesto, mamashadow, lynxcollection, lucien, leeroy, kyza, kyle, kuegi, korea, keiaradesouza, katz, karuppu, kaitlyn, justin, junebug, jesus, jensen, jenny, jbollinger, jason, islam, invoice, investor, inkling, idiot, iceman, hype, howie, houston, hashstore, hashpleb, halfin, habibi, gustavo, greyscale, gregory, gluonix, german, georgepv, george, gaurang, futbol, freedom, free, freddy, frankshielded, foxter, fox, fletcher, fabacab, exchange, es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb, epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v, enigma, enduro, elliott, einstein, edgeqa1, drwatson, drwats0n, donovan, dominos, dismad, digicash, dialethia, deposit, degen, defidegen, defi69, deathryderrr, darthvader, daria, daniel, danbao, d0x2a, cryptovor, cryptokingdom, crypto, cristiano, craig, corabourne, connaugh, clay, ciscofran, choose, chipprbots, cherry, chelsea, charles, chain, cesar, capital, canada, bunkermode, btc, brousoft, brian, brazil, branson, boredrhino, bollinger, bobafett, bmwalk11, bloxster, blofin, blockchain, blackrock, bitcoin, berlin, bennel, bawolf, barrysilbert, barry, baller, awawat, awa, averyangel, avery, artifacts, artem, armour, argentina, apollo, antminer, anthropic, anonymous, anon, angelavery, andy, andrewtate, andrew, amir, allahuakbar, allah, alison, alexander, alexa, alaister, agentic, adrian, aditya, accept, abraham, aaron, a7bdiyds5gjqgftxf17pprhtdkpkkrqbktr27dxvqxas, 88888, 666666, 42069, 1337bytes, 1234567890, 123456789, 123456, 101, 0xsahand, 0xdac17f958d2ee523a2206206994597c13d831ec7, 0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb, 0xb88339cb7199b77e23db6e890353e22632ba630f, 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48, 0x4a64515e5e1d1073e83f30cb97bed20400b66e10, 0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb, 0x0000000000000000000000000000000000000000, 0123456789, 000000, path, wizard\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-18T08:23+00:00 UTC): 4\nProps to: @ambriorix\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
