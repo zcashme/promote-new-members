@@ -1,4 +1,4 @@
-**Generated at:** 2026-11-19T08:35+00:00 UTC
+**Generated at:** 2026-11-20T08:18+00:00 UTC
 
 ---
 
@@ -6,27 +6,29 @@
 **Count:** 1
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-19T08:35+00:00 UTC): 1
-Help us welcome: shadowchaser
+🚀 New to ZcashMe (last 24h since 2026-11-20T08:18+00:00 UTC): 1
+Help us welcome: tdoshell
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- shadowchaser (no handle)
+- tdoshell (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 3
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-19T08:35+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-20T08:18+00:00 UTC): 3
+Props to: tdoshell, vinnie, berlin
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- tdoshell (no handle) — Verified
+- vinnie (no handle) — Verified
+- berlin (no handle) — Verified
 
 ---
 

@@ -1,13 +1,32 @@
 {
-  "timestamp_utc": "2026-11-19T08:35+00:00",
+  "timestamp_utc": "2026-11-20T08:18+00:00",
   "users": [
     {
-      "id": 3027,
-      "name": "shadowchaser",
+      "id": 3028,
+      "name": "tdoshell",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-19T08:35+00:00 UTC): 1\nHelp us welcome: shadowchaser\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-19T08:35+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 3028,
+      "name": "tdoshell",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2678,
+      "name": "vinnie",
+      "handle": null,
+      "method": "Verified"
+    },
+    {
+      "id": 2775,
+      "name": "berlin",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-20T08:18+00:00 UTC): 1\nHelp us welcome: tdoshell\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-20T08:18+00:00 UTC): 3\nProps to: tdoshell, vinnie, berlin\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
