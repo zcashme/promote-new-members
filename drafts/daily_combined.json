@@ -1,18 +1,25 @@
 {
-  "timestamp_utc": "2026-11-21T08:09+00:00",
+  "timestamp_utc": "2026-11-22T07:54+00:00",
   "users": [
     {
-      "id": 3030,
-      "name": "onlytwixz",
+      "id": 3034,
+      "name": "defirocky",
       "handle": null
     },
     {
-      "id": 3029,
-      "name": "jebuschrist",
+      "id": 3033,
+      "name": "realisekai",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-21T08:09+00:00 UTC): 2\nHelp us welcome: onlytwixz, jebuschrist\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-21T08:09+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 3033,
+      "name": "realisekai",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-22T07:54+00:00 UTC): 2\nHelp us welcome: defirocky, realisekai\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-22T07:54+00:00 UTC): 1\nProps to: realisekai\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

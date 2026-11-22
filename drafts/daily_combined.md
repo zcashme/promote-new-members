@@ -1,4 +1,4 @@
-**Generated at:** 2026-11-21T08:09+00:00 UTC
+**Generated at:** 2026-11-22T07:54+00:00 UTC
 
 ---
 
@@ -6,28 +6,28 @@
 **Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-21T08:09+00:00 UTC): 2
-Help us welcome: onlytwixz, jebuschrist
+🚀 New to ZcashMe (last 24h since 2026-11-22T07:54+00:00 UTC): 2
+Help us welcome: defirocky, realisekai
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- onlytwixz (no handle)
-- jebuschrist (no handle)
+- defirocky (no handle)
+- realisekai (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-21T08:09+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-22T07:54+00:00 UTC): 1
+Props to: realisekai
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- realisekai (no handle) — Verified
 
 ---
 
