@@ -1,55 +1,23 @@
 {
-  "timestamp_utc": "2026-11-23T08:50+00:00",
+  "timestamp_utc": "2026-11-24T10:47+00:00",
   "users": [
     {
-      "id": 3042,
-      "name": "panther5",
+      "id": 3045,
+      "name": "civilianfreedommovement",
       "handle": null
     },
     {
-      "id": 3041,
-      "name": "mayssiregar",
+      "id": 3044,
+      "name": "unforgivable",
       "handle": null
     },
     {
-      "id": 3040,
-      "name": "siregar",
-      "handle": null
-    },
-    {
-      "id": 3039,
-      "name": "s3f8z",
-      "handle": null
-    },
-    {
-      "id": 3038,
-      "name": "theaxbt",
-      "handle": null
-    },
-    {
-      "id": 3037,
-      "name": "iitwasblueberry",
-      "handle": null
-    },
-    {
-      "id": 3036,
-      "name": "itwasblueberry",
-      "handle": null
-    },
-    {
-      "id": 3035,
-      "name": "shortaddress",
+      "id": 3043,
+      "name": "unlimited",
       "handle": null
     }
   ],
-  "verified": [
-    {
-      "id": 3041,
-      "name": "mayssiregar",
-      "handle": null,
-      "method": "Verified"
-    }
-  ],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-23T08:50+00:00 UTC): 8\nHelp us welcome: panther5, mayssiregar, siregar, s3f8z, theaxbt, iitwasblueberry, itwasblueberry, shortaddress\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-23T08:50+00:00 UTC): 1\nProps to: mayssiregar\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-24T10:47+00:00 UTC): 3\nHelp us welcome: civilianfreedommovement, unforgivable, unlimited\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-24T10:47+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

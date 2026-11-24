@@ -1,39 +1,34 @@
-**Generated at:** 2026-11-23T08:50+00:00 UTC
+**Generated at:** 2026-11-24T10:47+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 8
+**Count:** 3
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-23T08:50+00:00 UTC): 8
-Help us welcome: panther5, mayssiregar, siregar, s3f8z, theaxbt, iitwasblueberry, itwasblueberry, shortaddress
+🚀 New to ZcashMe (last 24h since 2026-11-24T10:47+00:00 UTC): 3
+Help us welcome: civilianfreedommovement, unforgivable, unlimited
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- panther5 (no handle)
-- mayssiregar (no handle)
-- siregar (no handle)
-- s3f8z (no handle)
-- theaxbt (no handle)
-- iitwasblueberry (no handle)
-- itwasblueberry (no handle)
-- shortaddress (no handle)
+- civilianfreedommovement (no handle)
+- unforgivable (no handle)
+- unlimited (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 1
+**Count:** 0
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-23T08:50+00:00 UTC): 1
-Props to: mayssiregar
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-24T10:47+00:00 UTC): 0
+Props to: 
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-- mayssiregar (no handle) — Verified
+
 
 ---
 
