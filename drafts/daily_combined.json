@@ -1,7 +1,23 @@
 {
-  "timestamp_utc": "2026-11-26T09:19+00:00",
-  "users": [],
+  "timestamp_utc": "2026-11-27T09:34+00:00",
+  "users": [
+    {
+      "id": 3048,
+      "name": "mistersnark",
+      "handle": null
+    },
+    {
+      "id": 3047,
+      "name": "wikomaya1",
+      "handle": null
+    },
+    {
+      "id": 3046,
+      "name": "marvel",
+      "handle": null
+    }
+  ],
   "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-26T09:19+00:00 UTC): 0\nHelp us welcome: \n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-26T09:19+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-27T09:34+00:00 UTC): 3\nHelp us welcome: mistersnark, wikomaya1, marvel\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-27T09:34+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }
