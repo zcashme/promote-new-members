@@ -1,23 +1,25 @@
 {
-  "timestamp_utc": "2026-11-27T09:34+00:00",
+  "timestamp_utc": "2026-11-28T08:47+00:00",
   "users": [
     {
-      "id": 3048,
-      "name": "mistersnark",
+      "id": 3051,
+      "name": "ghost",
       "handle": null
     },
     {
-      "id": 3047,
-      "name": "wikomaya1",
-      "handle": null
-    },
-    {
-      "id": 3046,
-      "name": "marvel",
+      "id": 3050,
+      "name": "adityas56412",
       "handle": null
     }
   ],
-  "verified": [],
-  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-27T09:34+00:00 UTC): 3\nHelp us welcome: mistersnark, wikomaya1, marvel\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
-  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-27T09:34+00:00 UTC): 0\nProps to: \n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
+  "verified": [
+    {
+      "id": 2943,
+      "name": "rockstar",
+      "handle": null,
+      "method": "Verified"
+    }
+  ],
+  "tweet_users": "\ud83d\ude80 New to ZcashMe (last 24h since 2026-11-28T08:47+00:00 UTC): 2\nHelp us welcome: ghost, adityas56412\n\nP.S. Easiest way to Zcash you is ZcashMe in your bio \ud83d\ude09",
+  "tweet_verified": "\ud83d\udd10 Newly verified on ZcashMe (last 24h since 2026-11-28T08:47+00:00 UTC): 1\nProps to: rockstar\n\nP.S. Secure your ZcashMe profile to unlock full trust \u2713"
 }

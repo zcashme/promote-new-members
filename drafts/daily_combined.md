@@ -1,34 +1,33 @@
-**Generated at:** 2026-11-27T09:34+00:00 UTC
+**Generated at:** 2026-11-28T08:47+00:00 UTC
 
 ---
 
 # 🚀 New to ZcashMe (last 24h)
-**Count:** 3
+**Count:** 2
 
 ### 📝 Tweet Preview
-🚀 New to ZcashMe (last 24h since 2026-11-27T09:34+00:00 UTC): 3
-Help us welcome: mistersnark, wikomaya1, marvel
+🚀 New to ZcashMe (last 24h since 2026-11-28T08:47+00:00 UTC): 2
+Help us welcome: ghost, adityas56412
 
 P.S. Easiest way to Zcash you is ZcashMe in your bio 😉
 
 ### 👥 New Users
-- mistersnark (no handle)
-- wikomaya1 (no handle)
-- marvel (no handle)
+- ghost (no handle)
+- adityas56412 (no handle)
 
 ---
 
 # 🔐 Newly Verified (last 24h)
-**Count:** 0
+**Count:** 1
 
 ### 📝 Tweet Preview
-🔐 Newly verified on ZcashMe (last 24h since 2026-11-27T09:34+00:00 UTC): 0
-Props to: 
+🔐 Newly verified on ZcashMe (last 24h since 2026-11-28T08:47+00:00 UTC): 1
+Props to: rockstar
 
 P.S. Secure your ZcashMe profile to unlock full trust ✓
 
 ### 🔎 Verification Details
-
+- rockstar (no handle) — Verified
 
 ---
 
